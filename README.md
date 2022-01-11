@@ -1,2 +1,2 @@
-# BasqueGlue
+# BasqueGLUE
 Basque NLU evaluation framework / Euskarazko hizkuntza naturalaren ulermena ebaluatzeko euskarria
