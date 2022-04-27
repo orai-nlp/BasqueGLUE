@@ -128,8 +128,8 @@ Authors
 Gorka Urbizu [1], Iñaki San Vicente [1], Xabier Saralegi [1],
 Rodrigo Agerri [2] and Aitor Soroa [2]
 
-
 Affiliation of the authors: 
+
 [1] Elhuyar Foundation
 [2] HiTZ Center - Ixa, University of the Basque Country UPV/EHU
 
