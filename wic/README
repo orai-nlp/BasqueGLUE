@@ -34,11 +34,13 @@ Lastly, we ensured that all the splits are balanced for positive and negative ex
 Dataset format and distribution
 ----------------
 
-# The dataset is divided into three files: train / test and validation splits. 
+# The dataset is divided into three files: train validation and test splits. 
 
-408,559 train.jsonl
+408,559 train.jsonl (compressed due to it's size)
 600 val.jsonl 
 1400 test.jsonl
+
+
 
 
 Authors
