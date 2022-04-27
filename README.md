@@ -19,7 +19,7 @@ BasqueGLUE is freely available under an open license.
 ### The 9 tasks included in BasqueGLUE:
 
 | Dataset        | \|Train\| | \|Val\| | \|Test\| | Task                   | Metric | Domain          |
-|----------------|-----------|---------|----------|------------------------|--------|-----------------|
+|----------------|----------:|--------:|---------:|------------------------|--------|-----------------|
 | NERCid         |   51,539  |  12,936 |  35,855  | NERC                   | F1     | News            |
 | NERCood        |   64,475  |  14,945 |  14,462  | NERC                   | F1     | News, Wikipedia |
 | FMTODeu_intent |    3,418  |   1,904 |   1,087  | Intent classification  | F1     | Dialog system   |
@@ -113,7 +113,15 @@ python3 eval_basqueglue.py  \
         --pred prediction_file.jsonl \
         --ref reference_file.jsonl #(usually test.jsonl)
 ```                    
+### Results
 
+We evaluated 2 language models, BERTeus and ElhBERTeu, finetuning them on each task independently. We used a lr of 3e-5 and a batch size of 32. The finetuned up to 10 epochs, using 5 diferent seeds, and choose the checkpoint with the best performance over validation split, to obtain the results on the test split. The results obtained on NERC are the average of in domain and out of domain NERC.
+
+| Model     |  BasqueGLUE  |  NERC |  F_intent | F_slot  |  BHTC |  BEC  |  Vaxx |  QNLI |  WiC  | coref |
+|-----------|:-----:|:-----:|:---------:|:-------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|           |  AVG  |   F1  |    F1     |   F1    |   F1  |   F1  |  MF1  |  acc  |  acc  |  acc  |
+| BERTeus   | 73.23 | 81.92 |   82.52   |  74.34  | 78.26 | 69.43 | 59.30 | 74.26 | 70.71 | 68.31 |
+| ElhBERTeu | 73.71 | 82.30 |   82.24   |  75.64  | 78.05 | 69.89 | 63.81 | 73.84 | 71.71 | 65.93 |
 
 Authors
 -----------
@@ -136,7 +144,7 @@ being derived from already existing datasets). See their respective README files
 But, here we provide a brief summary of them:
 
 | Dataset        | License                             |
-|----------------|-------------------------------------|
+|----------------|------------------------------------:|
 | NERCid         |                     CC BY-NC-SA 4.0 |
 | NERCood        |                     CC BY-NC-SA 4.0 |
 | FMTODeu_intent |                     CC BY-NC-SA 4.0 |
