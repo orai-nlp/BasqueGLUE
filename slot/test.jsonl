@@ -1,0 +1,1088 @@
+{"idx": 0, "tags": ["O", "O", "O"], "tokens": ["jo", "berriro", "geroxeago"]}
+{"idx": 1, "tags": ["O", "B-datetime", "I-datetime", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "arratsaldeko", "3etako", "alarma", "hurrengo", "egunera"]}
+{"idx": 2, "tags": ["O", "B-datetime", "B-reminder/noun", "O", "O"], "tokens": ["erakutsi", "gaurko", "gogorarazleen", "zerrenda", "."]}
+{"idx": 3, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "hurrengoa", "alarmak", "jotzeko"]}
+{"idx": 4, "tags": ["O", "B-reminder/noun", "B-reminder/todo", "I-reminder/todo"], "tokens": ["ezarri", "gogorarazlea", "medikuaren", "hitzordurako"]}
+{"idx": 5, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["erakutsi", "datorren", "asteko", "alarmak"]}
+{"idx": 6, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["gogorarazi", "liernirekin", "elkartzea", "bihar", "goizeko", "10etan"]}
+{"idx": 7, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["eskiatzeko", "aukerarik", "izango", "dugu", "bihar", "?"]}
+{"idx": 8, "tags": ["O", "B-datetime", "O", "O"], "tokens": ["ezabatu", "biharko", "alarmak", "."]}
+{"idx": 9, "tags": ["O", "O", "B-weather/noun", "O", "O", "B-location"], "tokens": ["esan", "zer", "eguraldi", "egiten", "duen", "zalduondon"]}
+{"idx": 10, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["aldatu", "jarrita", "dagoen", "alarma", "6etara"]}
+{"idx": 11, "tags": ["O", "B-reminder/reference", "B-reminder/noun", "O"], "tokens": ["kendu", "azken", "gogorarazlea", "."]}
+{"idx": 12, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "goizeko", "9etako", "hitzorduaren", "gogorarazlea"]}
+{"idx": 13, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "minuturo", "30", "minutuan"]}
+{"idx": 14, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/todo"], "tokens": ["ezeztatu", "bizilagunen", "bilerarako", "gogorarazlea"]}
+{"idx": 15, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "aitorri", "deitzeko", "gogorarazlea", "."]}
+{"idx": 16, "tags": ["B-datetime", "I-datetime", "O", "O", "O", "O", "O", "O"], "tokens": ["asteburu", "honetarako", "zer", "gogorarazle", "ditudan", "jakin", "nahi", "dut"]}
+{"idx": 17, "tags": ["O", "B-reminder/noun"], "tokens": ["errepikatu", "gogorarazlea"]}
+{"idx": 18, "tags": ["O", "O", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "goizeko", "11etako", "telefonommmdeia"]}
+{"idx": 19, "tags": ["O", "B-reminder/noun", "O", "B-reminder/todo", "I-reminder/todo", "B-datetime"], "tokens": ["bidali", "gogorarazle", "bat", "medikuaren", "hitzorduaren", "bezperan"]}
+{"idx": 20, "tags": ["O", "B-reminder/noun", "O", "B-reminder/recurring_period", "I-reminder/recurring_period", "O"], "tokens": ["errepikatu", "gogorarazle", "guztiak", "datorren", "urtean", "ere"]}
+{"idx": 21, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["gogorarazi", "dentistarekin", "hitzordua", "dudala", "asteazkenean", ",", "eguerdiko", "ordu", "batean"]}
+{"idx": 22, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "gauean", "postako", "mezuak", "irakurri", "behar", "ditudala"]}
+{"idx": 23, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun", "O", "O"], "tokens": ["berrikusi", "gaur", "gaueko", "gogorarazleak", ",", "mesedez"]}
+{"idx": 24, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "arratsaldeko", "6etarako", "alarma", "jartzea"]}
+{"idx": 25, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "dago", "alarma", "batetik", "bestera", "orain", "?"]}
+{"idx": 26, "tags": ["O", "O", "O", "O"], "tokens": ["alarma", "beti", "aktibatuta", "eduki"]}
+{"idx": 27, "tags": ["O", "O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["zer", "ordutan", "joko", "du", "alarmak", "larunbat", "goizean"]}
+{"idx": 28, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "geratzen", "da", "hurrengo", "alarmarako"]}
+{"idx": 29, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["gehitu", "alarma", "bat", "hirurak", "laurden", "gutxiagotan", "astelehenetan", ",", "astearteetan", "eta", "asteazkenetan", ",", "uda", "osorako"]}
+{"idx": 30, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 31, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "barru", "joko", "du", "alarmak"]}
+{"idx": 32, "tags": ["B-datetime", "I-datetime", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["5", "minutu", "baino", "gehiago", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 33, "tags": ["O", "O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "joko", "du", "alarmak", "bihar"]}
+{"idx": 34, "tags": ["O", "B-reminder/todo", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "B-reminder/todo"], "tokens": ["gogorarazi", "eskatutakoa", "2017ko", "ekainaren", "30a", "aurretik", "itzultzea"]}
+{"idx": 35, "tags": ["O", "O", "B-datetime", "O", "B-datetime", "B-negation"], "tokens": ["aldatu", "alarma", "6etara", ",", "7etako", "partez"]}
+{"idx": 36, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "minutu", "dauzkat", "alarmak", "jo", "aurretik"]}
+{"idx": 37, "tags": ["B-reminder/noun"], "tokens": ["gogorarazleak"]}
+{"idx": 38, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "O"], "tokens": ["gogorarazi", "astelehenean", "medikuarekin", "hitzordua", "dudala"]}
+{"idx": 39, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "lasterketa", "hasi", "eta", "30", "minutura"]}
+{"idx": 40, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "segurtasunmmmgailuko", "alarmak"]}
+{"idx": 41, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarmammmerrepikapenak", "10", "minututik", "15", "minutura"]}
+{"idx": 42, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["noiz", "joko", "du", "hurrengo", "alarmak", "?"]}
+{"idx": 43, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["gehitu", "15", "minutu", "alarmari"]}
+{"idx": 44, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["atzeratu", "alarma", "berriro", "jotzea", "5", "minutu"]}
+{"idx": 45, "tags": ["O", "B-datetime", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "biharko", "alarma", "goizeko", "5etara"]}
+{"idx": 46, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "15", "minutura"]}
+{"idx": 47, "tags": ["O", "O", "B-datetime"], "tokens": ["errepikatu", "alarma", "astelehenero"]}
+{"idx": 48, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["esnatu", "alarmak", "jo", "baino", "10", "minutu", "lehenago"]}
+{"idx": 49, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 50, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 51, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "pasatuko", "da", "alarmak", "jotzerako"]}
+{"idx": 52, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 53, "tags": ["O", "O", "O"], "tokens": ["gehitu", "alarmammmerrepikapena", "alarmari"]}
+{"idx": 54, "tags": ["O", "B-reminder/noun", "O", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gehitu", "gogorarazle", "bat", "gazta", "erosteko"]}
+{"idx": 55, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "ordu", "dauzkat", "alarmak", "jo", "aurretik"]}
+{"idx": 56, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["atzeratu", "alarma", "ordubete", "bihar"]}
+{"idx": 57, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "joko", "du", "alarmak"]}
+{"idx": 58, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 59, "tags": ["O", "O"], "tokens": ["lotarako", "alarma"]}
+{"idx": 60, "tags": ["O", "O", "B-datetime"], "tokens": ["aldatu", "alarma", "arratsaldera"]}
+{"idx": 61, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "geratzen", "zaio", "alarmari"]}
+{"idx": 62, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["atzeratu", "esnatzeko", "alarma", "ordu", "erdi"]}
+{"idx": 63, "tags": ["B-datetime", "O", "O", "O", "O"], "tokens": ["astegunetan", "bakarrik", "errepikatu", "alarma", "hori"]}
+{"idx": 64, "tags": ["O", "O"], "tokens": ["berrezarri", "alarma"]}
+{"idx": 65, "tags": ["O", "O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["ezarri", "alarma", "10", "minutura", "berriro", "jotzeko"]}
+{"idx": 66, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "10", "minutu", "barru"]}
+{"idx": 67, "tags": ["O", "O", "B-datetime"], "tokens": ["errepikatu", "alarma", "astegunetan"]}
+{"idx": 68, "tags": ["O", "O", "O", "O", "O"], "tokens": ["nola", "zegoen", "ezarrita", "azken", "alarma"]}
+{"idx": 69, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["esnatu", "nazazu", "30", "minutu", "barru"]}
+{"idx": 70, "tags": ["O", "O", "O", "B-datetime", "O", "O"], "tokens": ["ez", "dut", "nahi", "gaur", "alarmak", "jotzea"]}
+{"idx": 71, "tags": ["O", "O", "O"], "tokens": ["eten", "alarma", "guztiak"]}
+{"idx": 72, "tags": ["O", "O", "O", "O"], "tokens": ["editatu", "alarma", "berriz", "jotzea"]}
+{"idx": 73, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["atzeratu", "alarma", "30", "minutuz"]}
+{"idx": 74, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["luzatu", "alarmammmerrepikapena", "2", "orduz"]}
+{"idx": 75, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["programatu", "berriro", "datorren", "asteko", "alarma"]}
+{"idx": 76, "tags": ["O", "O", "O", "O"], "tokens": ["eman", "alarmari", "buruzko", "xehetasunak"]}
+{"idx": 77, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 78, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 79, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jo", "berriro", "alarma", "hemendik", "minutu", "batzuetara", "."]}
+{"idx": 80, "tags": ["O", "O", "O", "O", "O"], "tokens": ["noiz", "joko", "du", "hurrengo", "alarmak"]}
+{"idx": 81, "tags": ["O", "O", "O", "O", "O"], "tokens": ["noiz", "joko", "du", "hurrengo", "alarmak"]}
+{"idx": 82, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["erakutsi", "biharko", "alarma", "eta", "gogorarazle", "guztiak"]}
+{"idx": 83, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["atzeratu", "alarma", "5", "minutu"]}
+{"idx": 84, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 85, "tags": ["O", "O", "O"], "tokens": ["eten", "uneko", "alarma"]}
+{"idx": 86, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "berriro", "martxan", "alarma", "15", "minutu", "barru"]}
+{"idx": 87, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "bost", "minutuz", "behin"]}
+{"idx": 88, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "daukat", "jarrita", "alarma"]}
+{"idx": 89, "tags": ["B-datetime", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["astelehenetan", ",", "atzeratu", "alarmammmerrepikapena", "3", "minutu"]}
+{"idx": 90, "tags": ["O", "B-datetime", "O", "B-datetime"], "tokens": ["aldatu", "7etako", "alarma", "8etara"]}
+{"idx": 91, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 92, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["errepikatu", "alarma", "hogei", "minutuz", "behin"]}
+{"idx": 93, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "daukat", "alarmak", "jo", "aurretik"]}
+{"idx": 94, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zenbat", "alarma", "daude", "jarrita", "ostiralerako"]}
+{"idx": 95, "tags": ["O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["atzeratu", "3", "minutu", "alarmaren", "ordua"]}
+{"idx": 96, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmarako"]}
+{"idx": 97, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "alarma", "daude", "jarrita", "?"]}
+{"idx": 98, "tags": ["O", "O"], "tokens": ["gelditu", "alarma"]}
+{"idx": 99, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizeko", "5", ":", "30era"]}
+{"idx": 100, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 101, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["zer", "ordutan", "dago", "jarrita", "biharko", "alarma"]}
+{"idx": 102, "tags": ["O", "O", "B-datetime"], "tokens": ["esnatu", "nazazu", "10etan"]}
+{"idx": 103, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "daukat", "hurrengo", "alarmak", "jo", "aurretik", "?"]}
+{"idx": 104, "tags": ["O", "B-reminder/todo", "O"], "tokens": ["gogorarazi", "hitzordu", "guztiak"]}
+{"idx": 105, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime"], "tokens": ["gogorarazi", "autoaren", "ordainketa", "bat", "egitea", "bihar"]}
+{"idx": 106, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 107, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "6etarako", "asteazkenetan"]}
+{"idx": 108, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["atzeratu", "iratzargailua", "30", "minutu"]}
+{"idx": 109, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "dago", "jarrita", "lanera", "joateko", "alarma", "?"]}
+{"idx": 110, "tags": ["O", "O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "umeak", "eskolatik", "jasotzeko", "alarma", "lau", "t", "\u2019", "erdietara"]}
+{"idx": 111, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["ezeztatu", "gaurko", "gogorarazleak"]}
+{"idx": 112, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "2", "minutu", "eta", "erdiro"]}
+{"idx": 113, "tags": ["O", "B-reminder/noun", "B-datetime", "I-datetime", "O"], "tokens": ["badut", "gogorarazlerik", "gaur", "gauerako", "?"]}
+{"idx": 114, "tags": ["O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "hemendik", "ordubetera", "jotzeko"]}
+{"idx": 115, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "gurasommmelkarteko", "bileraren", "gogorarazlea"]}
+{"idx": 116, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizeko", "8etatik", "7etara"]}
+{"idx": 117, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "O", "O", "O"], "tokens": ["gogorarazi", "bihar", "goizean", "gasolina", "hartu", "behar", "dudala"]}
+{"idx": 118, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["aurreratu", "alarmammmerrepikapena", "30", "minutu"]}
+{"idx": 119, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "bat", "goizaldeko", "3etan", "jotzeko"]}
+{"idx": 120, "tags": ["O", "B-reminder/noun", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zer", "gogorarazle", "dauzkat", "ezarrita", "igande", "honetarako", "?"]}
+{"idx": 121, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "festara", "joateko", "gogorarazlea"]}
+{"idx": 122, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["eten", "alarma", "guztiak", "datorren", "asteartera", "arte"]}
+{"idx": 123, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "7etarako"]}
+{"idx": 124, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "medikuaren", "hitzorduaren", "gogorarazlea"]}
+{"idx": 125, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "ostiraleko", "bilerarako", "gogorarazlea"]}
+{"idx": 126, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["erakutsi", "gaurko", "gogorarazleak"]}
+{"idx": 127, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "medikuarengana", "joateko", "gogorarazlea"]}
+{"idx": 128, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "O", "B-reminder/noun"], "tokens": ["ezeztatu", "bihar", "goizeko", "hitzordurako", "jarritako", "gogoraraztea"]}
+{"idx": 129, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["hemendik", "zenbatera", "joko", "du", "berriro", "alarmak"]}
+{"idx": 130, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "semea", "jasotzera", "joateko", "gogorarazlea"]}
+{"idx": 131, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "joni", "mezu", "bat", "idatzi", "eta", "biharko", "hitzordua", "aldatzeko", "gogorarazlea"]}
+{"idx": 132, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "hurrengo", "alarmak", "jotzeko"]}
+{"idx": 133, "tags": ["O", "B-datetime", "I-datetime", "O", "B-datetime"], "tokens": ["aldatu", "goizeko", "9etako", "alarma", "6etara"]}
+{"idx": 134, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["atzeratu", "goizeko", "alarma", "9", "minutu"]}
+{"idx": 135, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "lanetik", "irtendakoan", "esnea", "erosi", "behar", "dudala"]}
+{"idx": 136, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jo", "alarma", "berriro", "10", "minutu", "barru"]}
+{"idx": 137, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "minutu", "batera"]}
+{"idx": 138, "tags": ["O", "B-reminder/noun", "B-reminder/recurring_period", "B-datetime", "I-datetime"], "tokens": ["ezarri", "gogorarazlea", "astelehenero", "goizeko", "bederatzietan"]}
+{"idx": 139, "tags": ["O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "hemendik", "ordubetera", "jotzeko"]}
+{"idx": 140, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun", "O"], "tokens": ["erakutsi", "aste", "honetako", "gogorarazle", "guztiak"]}
+{"idx": 141, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime"], "tokens": ["gogorarazi", "arraina", "erosi", "behar", "dudala", "ostegunean"]}
+{"idx": 142, "tags": ["O", "B-datetime", "O"], "tokens": ["ezeztatu", "biharko", "alarma"]}
+{"idx": 143, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "goizeko", "6", ":", "30ean", "esnatzeko"]}
+{"idx": 144, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "arratsaldeko", "4etan"]}
+{"idx": 145, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["jo", "alarma", "berriro", "ordubetera"]}
+{"idx": 146, "tags": ["O", "O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "uneko", "zereginaren", "alarma", ",", "15", "minutuz"]}
+{"idx": 147, "tags": ["O", "B-datetime", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "eguneroko", "alarma", "goizeko", "6", ":", "30era"]}
+{"idx": 148, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["programatu", "alarma", "bat", "22", "minutu", "barru", "jotzeko"]}
+{"idx": 149, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "ez", "dudala", "dentistaren", "hitzordua", "ahaztu", "behar"]}
+{"idx": 150, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["erakutsi", "biharko", "gogorarazleak"]}
+{"idx": 151, "tags": ["O", "O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["gehitu", "alarma", "bat", "amaren", "urtebetetzerako", "datorren", "hileko", "21ean"]}
+{"idx": 152, "tags": ["O", "O", "B-datetime", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "goizeko", "alarma", "15", "minutura"]}
+{"idx": 153, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "bat", "gaur", "arratsaldeko", "7etarako"]}
+{"idx": 154, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "hemendik", "5", "minutura"]}
+{"idx": 155, "tags": ["O", "B-reminder/noun", "B-datetime", "I-datetime", "O"], "tokens": ["badut", "gogorarazlerik", "4ko", "asterako", "?"]}
+{"idx": 156, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["erakutsi", "medikuaren", "hitzorduaren", "gogorarazlea"]}
+{"idx": 157, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "goizeko", "alarma", "8etatik", "7etara"]}
+{"idx": 158, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["ez", "jo", "alarmarik", "asteburuetan"]}
+{"idx": 159, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/noun"], "tokens": ["ezabatu", "dentistaren", "hitzorduaren", "gogorarazlea"]}
+{"idx": 160, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime"], "tokens": ["gogorarazi", "alaitz", "lanetik", "jaso", "behar", "dudala", "gaur"]}
+{"idx": 161, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "5", "minutura"]}
+{"idx": 162, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jo", "alarma", "berriro", "15", "minutu", "geroago"]}
+{"idx": 163, "tags": ["O", "O", "B-reminder/noun", "O"], "tokens": ["ezabatu", "aneren", "gogorarazle", "guztiak"]}
+{"idx": 164, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun"], "tokens": ["ezeztatu", "gaur", "arratsalderako", "gogorarazlea"]}
+{"idx": 165, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["ezeztatu", "medikuaren", "hitzordua", "datorren", "asteazkenean", "11etan"]}
+{"idx": 166, "tags": ["O", "B-datetime", "O"], "tokens": ["desaktibatu", "asteburuko", "alarmak"]}
+{"idx": 167, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "arratsaldeko", "3etatik", "arratsaldeko", "4etara"]}
+{"idx": 168, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "5", "minutu", "barru"]}
+{"idx": 169, "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["alarmak", "jo", "eta", "gero", ",", "jarraitu", "dezala", "berriro", "jotzen", "9", "minutuz", "behin"]}
+{"idx": 170, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zer", "ordutan", "dago", "jarrita", "gaur", "gaueko", "alarma"]}
+{"idx": 171, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "dentistaren", "hitzorduaren", "gogorarazlea"]}
+{"idx": 172, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorazi", "igande", "honetan", "hitzetik", "hortzera", "grabatzea"]}
+{"idx": 173, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "15", "minutu", "barru"]}
+{"idx": 174, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarmaren", "ordua", "goizeko", "7", ":", "30etik", "8etara"]}
+{"idx": 175, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["luzatu", "alarmaren", "iraupena", "5", "minutura"]}
+{"idx": 176, "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["goizago", "jaiki", "behar", "dut", ",", "beraz", ",", "jo", "alarma", "ordubete", "lehenago", "astelehen", "goizean"]}
+{"idx": 177, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "30", "minutu", "barru"]}
+{"idx": 178, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "hemendik", "ordu", "erdira", "jotzeko"]}
+{"idx": 179, "tags": ["O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["gehitu", "20", "minutu", "uneko", "alarmari"]}
+{"idx": 180, "tags": ["O", "B-weather/noun", "O", "O", "B-location", "B-datetime", "O"], "tokens": ["zenbat", "gradu", "egingo", "ditu", "shanghain", "bihar", "?"]}
+{"idx": 181, "tags": ["B-datetime", "I-datetime", "B-weather/noun", "B-location"], "tokens": ["gaur", "gaueko", "tenperatura", "lanzaroten"]}
+{"idx": 182, "tags": ["O", "B-weather/attribute", "I-weather/attribute", "O", "O", "B-datetime", "I-datetime", "B-location", "O"], "tokens": ["20", "gradutik", "gora", "egingo", "du", "bihar", "goizean", "zarautzen", "?"]}
+{"idx": 183, "tags": ["B-datetime", "I-datetime", "O", "B-weather/noun", "O", "O", "B-location"], "tokens": ["asteburu", "honetan", "zer", "tenperatura", "egingo", "du", "gasteizen"]}
+{"idx": 184, "tags": ["B-weather/attribute", "I-weather/attribute", "I-weather/attribute", "O", "O", "B-datetime", "B-location", "O"], "tokens": ["30", "gradutik", "behera", "egingo", "ditu", "bihar", "beijingen", "?"]}
+{"idx": 185, "tags": ["B-location", "B-weather/attribute", "I-weather/attribute", "I-weather/attribute", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["delhin", "40", "gradu", "inguru", "egingo", "ditu", "asteburu", "honetan", "?"]}
+{"idx": 186, "tags": ["B-datetime", "B-weather/noun", "B-location"], "tokens": ["biharko", "tenperatura", "elorrion"]}
+{"idx": 187, "tags": ["O", "B-weather/noun", "O", "O", "B-location"], "tokens": ["zenbat", "gradu", "egiten", "ditu", "mumbain"]}
+{"idx": 188, "tags": ["B-weather/attribute", "I-weather/attribute", "I-weather/attribute", "O", "O", "B-location", "O", "B-datetime", "I-datetime"], "tokens": ["9", "gradutik", "gora", "egingo", "du", "paristik", "hurbil", "asteburu", "honetan"]}
+{"idx": 189, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia"]}
+{"idx": 190, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "irteten", "da", "eguzkia"]}
+{"idx": 191, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["noiz", "sartzen", "da", "eguzkia", "gaur"]}
+{"idx": 192, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "argituko", "du", "bihar"]}
+{"idx": 193, "tags": ["O", "B-weather/attribute", "O", "B-datetime"], "tokens": ["zer", "hezetasun", "dago", "gaur"]}
+{"idx": 194, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "O"], "tokens": ["zer", "tenperatura", "egiten", "du", "gaur", "?"]}
+{"idx": 195, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia"]}
+{"idx": 196, "tags": ["O", "O", "O"], "tokens": ["noiz", "ilunduko", "du"]}
+{"idx": 197, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartuko", "da", "eguzkia"]}
+{"idx": 198, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "da", "ilunabarra"]}
+{"idx": 199, "tags": ["O", "O", "O"], "tokens": ["noiz", "ilunduko", "du"]}
+{"idx": 200, "tags": ["O", "O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "sartuko", "da", "eguzkia", "gaur"]}
+{"idx": 201, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia"]}
+{"idx": 202, "tags": ["O", "O", "O", "O", "O", "B-location", "O"], "tokens": ["zer", "ordutan", "argitzen", "du", "eguna", "manilan", "?"]}
+{"idx": 203, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["haizea", "egingo", "du", "gaur", "?"]}
+{"idx": 204, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur"]}
+{"idx": 205, "tags": ["O", "O", "O", "O", "O", "B-location"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia", "atarratzen"]}
+{"idx": 206, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "argituko", "du", "bihar"]}
+{"idx": 207, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["zer", "ordutan", "argituko", "du", "bihar", "goizean"]}
+{"idx": 208, "tags": ["O", "O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "irtengo", "da", "eguzkia", "bihar"]}
+{"idx": 209, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "argituko", "du", "eguna"]}
+{"idx": 210, "tags": ["O", "O", "O"], "tokens": ["noiz", "ilunduko", "du"]}
+{"idx": 211, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "da", "egunsentia"]}
+{"idx": 212, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "da", "egunsentia"]}
+{"idx": 213, "tags": ["O", "O", "O", "O", "O", "B-datetime", "B-location"], "tokens": ["zer", "ordutan", "sartuko", "da", "eguzkia", "gaur", "mauin"]}
+{"idx": 214, "tags": ["O", "O", "O"], "tokens": ["noiz", "ilunduko", "du"]}
+{"idx": 215, "tags": ["O", "O", "O", "O"], "tokens": ["zer", "ordutan", "ilunduko", "du"]}
+{"idx": 216, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["zer", "ordutan", "izango", "da", "egunsentia", "bihar"]}
+{"idx": 217, "tags": ["O", "O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "sartuko", "da", "eguzkia", "gaur"]}
+{"idx": 218, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur"]}
+{"idx": 219, "tags": ["O", "O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "sartuko", "da", "eguzkia", "bihar"]}
+{"idx": 220, "tags": ["O", "O", "O", "O", "B-location"], "tokens": ["zer", "ordutan", "ilunduko", "du", "londresen"]}
+{"idx": 221, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "da", "egunsentia"]}
+{"idx": 222, "tags": ["O", "O", "O", "O", "O", "O", "O", "B-datetime"], "tokens": ["esango", "didazu", "zer", "ordutan", "irtengo", "den", "eguzkia", "bihar"]}
+{"idx": 223, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur"]}
+{"idx": 224, "tags": ["O", "O", "O", "O", "B-datetime", "B-location", "O"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur", "hondarribian", "?"]}
+{"idx": 225, "tags": ["O", "O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["zer", "ordutan", "sartu", "zen", "eguzkia", "1922ko", "abuztuaren", "5ean", "?"]}
+{"idx": 226, "tags": ["O", "O", "O", "O", "O", "B-location"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia", "coloradon"]}
+{"idx": 227, "tags": ["O", "O", "B-weather/attribute", "I-weather/attribute"], "tokens": ["zer", "ordutan", "iluntzen", "du"]}
+{"idx": 228, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartuko", "da", "eguzkia"]}
+{"idx": 229, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "da", "egunsentia"]}
+{"idx": 230, "tags": ["O", "O", "O"], "tokens": ["noiz", "ilunduko", "du"]}
+{"idx": 231, "tags": ["O", "O", "O", "B-weather/attribute"], "tokens": ["zer", "ordutan", "da", "ilunabarra"]}
+{"idx": 232, "tags": ["B-weather/noun", "O", "O"], "tokens": ["denboralemmmabisurik", "badago", "?"]}
+{"idx": 233, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia"]}
+{"idx": 234, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["noiz", "sartuko", "da", "eguzkia", "bihar"]}
+{"idx": 235, "tags": ["O", "O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "argituko", "du", "eguna", "goizean"]}
+{"idx": 236, "tags": ["O", "O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "sartuko", "da", "eguzkia", "gaur"]}
+{"idx": 237, "tags": ["O", "O", "O", "O", "O", "B-location"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia", "txinan"]}
+{"idx": 238, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "da", "egunsentia"]}
+{"idx": 239, "tags": ["O", "O", "O", "O", "B-location", "I-location"], "tokens": ["zer", "ordutan", "ilunduko", "du", "donibane", "garazin"]}
+{"idx": 240, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["noiz", "argituko", "du", "eguna", "bihar", "?"]}
+{"idx": 241, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia"]}
+{"idx": 242, "tags": ["O", "O", "O", "B-weather/attribute"], "tokens": ["zer", "ordutan", "da", "ilunabarra"]}
+{"idx": 243, "tags": ["O", "O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["zer", "ordutan", "irten", "da", "eguzkia", "gaur", "goizean"]}
+{"idx": 244, "tags": ["O", "B-weather/noun", "O", "O", "B-location", "O"], "tokens": ["zer", "eguraldi", "egiten", "du", "lekeition", "?"]}
+{"idx": 245, "tags": ["O", "O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["zer", "ordutan", "argituko", "du", "eguna", "bihar", "goizean"]}
+{"idx": 246, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["noiz", "argituko", "du", "eguna", "bihar", "?"]}
+{"idx": 247, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["zer", "ordutan", "argituko", "du", "bihar", "goizean"]}
+{"idx": 248, "tags": ["O", "O", "O", "O", "O", "B-datetime", "B-location", "I-location", "O"], "tokens": ["zer", "ordutan", "irtengo", "da", "eguzkia", "gaur", "new", "yorken", "?"]}
+{"idx": 249, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia"]}
+{"idx": 250, "tags": ["O", "O", "O", "O", "O", "B-datetime", "O"], "tokens": ["zer", "ordutan", "sartuko", "da", "eguzkia", "bihar", "?"]}
+{"idx": 251, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["noiz", "argituko", "du", "eguna", "bihar"]}
+{"idx": 252, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "ilunduko", "du", "bihar"]}
+{"idx": 253, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zer", "ordutan", "izango", "da", "egunsentia", "bihar", "?"]}
+{"idx": 254, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "irteten", "da", "eguzkia"]}
+{"idx": 255, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur"]}
+{"idx": 256, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["noiz", "argituko", "du", "bihar"]}
+{"idx": 257, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["noiz", "izango", "da", "ilunabarra", "gaur"]}
+{"idx": 258, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur"]}
+{"idx": 259, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia"]}
+{"idx": 260, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["noiz", "ezkutatuko", "da", "eguzkia", "gaur"]}
+{"idx": 261, "tags": ["O", "O", "O", "O", "B-location", "O"], "tokens": ["noiz", "argitzen", "du", "eguna", "portugalen", "?"]}
+{"idx": 262, "tags": ["O", "O", "O", "O", "B-location", "O"], "tokens": ["zer", "ordutan", "argitzen", "du", "miamin", "?"]}
+{"idx": 263, "tags": ["B-weather/attribute", "O", "O", "O", "B-datetime", "I-datetime", "B-location", "I-location", "O", "O"], "tokens": ["jertsea", "hartu", "beharko", "nuke", "gaur", "gauean", "aire", "libreko", "kontzertura", "joateko"]}
+{"idx": 264, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartzen", "da", "eguzkia"]}
+{"idx": 265, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["eguzkia", "egingo", "du", "igande", "arratsaldean", "?"]}
+{"idx": 266, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["noiz", "ilunduko", "du", "igandean"]}
+{"idx": 267, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur"]}
+{"idx": 268, "tags": ["O", "O", "O"], "tokens": ["eguzkia", "noiz", "sartzen"]}
+{"idx": 269, "tags": ["O", "O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "argituko", "du", "eguna", "bihar"]}
+{"idx": 270, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarmaren", "ordua", "zazpiak", "laurden", "gutxira"]}
+{"idx": 271, "tags": ["O", "O", "B-weather/attribute", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zenbat", "cm", "elur", "egingo", "du", "gaur", "gauean", "?"]}
+{"idx": 272, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "barru", "joko", "du", "alarmak", "?"]}
+{"idx": 273, "tags": ["O", "O", "B-reminder/todo", "B-reminder/todo", "B-datetime"], "tokens": ["gogorarazi", "liburutegiko", "liburuak", "bueltatzea", "ostiralean"]}
+{"idx": 274, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 275, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["euria", "egingo", "du", "larunbatean", "?"]}
+{"idx": 276, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizeko", "7etatik", "goizeko", "8etara"]}
+{"idx": 277, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "goizeko", "6etako", "alarmammmerrepikapena"]}
+{"idx": 278, "tags": ["O", "B-weather/noun", "O", "B-datetime", "O", "B-reminder/todo", "I-reminder/todo"], "tokens": ["programatu", "gogorarazle", "bat", "biharko", ",", "gasolina", "hartzeko"]}
+{"idx": 279, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "goizeko", "11", ":", "30ean", "autoa", "lekuz", "aldatu", "behar", "dudala"]}
+{"idx": 280, "tags": ["O", "O", "O"], "tokens": ["jo", "berriro", "alarma"]}
+{"idx": 281, "tags": ["B-datetime", "I-datetime", "I-datetime", "O", "B-reminder/noun", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["bihar", "goizeko", "7etan", ",", "gogorarazi", "astelehenean", "bilera", "dudala"]}
+{"idx": 282, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "zaio", "alarmari", "?"]}
+{"idx": 283, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "8etarako"]}
+{"idx": 284, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/noun"], "tokens": ["ezeztatu", "ostiralean", "julen", "jasotzeko", "gogorarazlea"]}
+{"idx": 285, "tags": ["O", "B-reminder/reference", "B-reminder/noun"], "tokens": ["erakutsi", "hurrengo", "gogorarazlea"]}
+{"idx": 286, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["errepikatu", "alarma", "hau", "astegun", "guztietan"]}
+{"idx": 287, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "arratsaldeko", "3", ":", "30ean"]}
+{"idx": 288, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["erakutsi", "gaurko", "gogorarazleak"]}
+{"idx": 289, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 290, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "beste", "alarma", "bat", "goizeko", "9etarako"]}
+{"idx": 291, "tags": ["O", "O", "O"], "tokens": ["desaktibatu", "azken", "alarma"]}
+{"idx": 292, "tags": ["O", "B-reminder/noun", "O", "B-datetime", "O"], "tokens": ["zer", "gogorarazle", "dauzkat", "biharko", "?"]}
+{"idx": 293, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["errepikatu", "alarma", "hau", "egunero"]}
+{"idx": 294, "tags": ["O", "B-reminder/noun"], "tokens": ["erakutsi", "gogorarazleak"]}
+{"idx": 295, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["aterkia", "beharko", "dut", "gaur", "?"]}
+{"idx": 296, "tags": ["O", "O"], "tokens": ["desaktibatu", "alarma"]}
+{"idx": 297, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "alarma", "dauzkat", "jarrita", "?"]}
+{"idx": 298, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "ogia", "eta", "azukrea", "erostea"]}
+{"idx": 299, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "arrautzak", "erosteko", "gogorarazlea"]}
+{"idx": 300, "tags": ["O", "B-reminder/noun", "O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["ezarri", "gogorarazle", "bat", "pizza", "labetik", "ateratzeko", "."]}
+{"idx": 301, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizeko", "6etara"]}
+{"idx": 302, "tags": ["O", "O", "O"], "tokens": ["kendu", "alarma", "guztiak"]}
+{"idx": 303, "tags": ["O", "B-reminder/recurring_period", "I-reminder/recurring_period", "I-reminder/recurring_period", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "urtero", "urtarrilaren", "15ean", "amaren", "urtebetetzea", "dela"]}
+{"idx": 304, "tags": ["O", "B-datetime", "O"], "tokens": ["ezeztatu", "biharko", "alarma"]}
+{"idx": 305, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "azokan", "sagarrak", "erosteko", "gogorarazlea", "."]}
+{"idx": 306, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "goizeko", "6etako", "alarmak", "jotzeko", "?"]}
+{"idx": 307, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "harategian", "oilaskoa", "erosteko", "gogorarazlea", "."]}
+{"idx": 308, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["lainotuta", "egongo", "da", "gaur", "?"]}
+{"idx": 309, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "B-reminder/noun"], "tokens": ["utzi", "bertan", "behera", "arratsaldeko", "5etako", "gogorarazlea"]}
+{"idx": 310, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorazi", "gaur", "gauean", "handia", "ikusi", "behar", "dudala"]}
+{"idx": 311, "tags": ["O", "B-reminder/noun"], "tokens": ["ezeztatu", "gogorarazlea"]}
+{"idx": 312, "tags": ["O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["ezeztatu", "gaur", "gaueko", "alarma", "."]}
+{"idx": 313, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "15", "minutu", "barru"]}
+{"idx": 314, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["gehitu", "beste", "alarma", "bat", "larunbat", "goizeko", "10etarako"]}
+{"idx": 315, "tags": ["O", "O"], "tokens": ["erakutsi", "alarmak"]}
+{"idx": 316, "tags": ["O", "O", "O", "O"], "tokens": ["noiz", "da", "hurrengo", "alarma"]}
+{"idx": 317, "tags": ["O", "O", "O"], "tokens": ["ezeztatu", "alarma", "guztiak"]}
+{"idx": 318, "tags": ["O", "O", "B-datetime"], "tokens": ["ezarri", "alarmammmerrepikapena", "asteazkenean"]}
+{"idx": 319, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["hemendik", "zenbat", "denborara", "joko", "du", "alarmak", "?"]}
+{"idx": 320, "tags": ["B-datetime", "O", "O", "O", "O", "O", "O"], "tokens": ["8etarako", "alarmari", "jarri", "\u201c", "esnatu", "\u201d", "etiketa"]}
+{"idx": 321, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "biharko", "gogorarazleak", "."]}
+{"idx": 322, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezabatu", "bankura", "joateko", "gogorarazlea"]}
+{"idx": 323, "tags": ["O", "B-reminder/noun", "O", "B-reminder/todo", "I-reminder/todo"], "tokens": ["jarri", "gogorarazle", "bat", "ariketak", "egiteko"]}
+{"idx": 324, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "ilunduko", "du", "?"]}
+{"idx": 325, "tags": ["O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["atzeratu", "alarma", "5", "minutu", "."]}
+{"idx": 326, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["atzeratu", "alarma", "20", "minutu"]}
+{"idx": 327, "tags": ["O", "O", "O", "O", "B-weather/attribute", "B-datetime", "O"], "tokens": ["zer", "ordutan", "egingo", "du", "euria", "gaur", "?"]}
+{"idx": 328, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "4", ":", "30ean"]}
+{"idx": 329, "tags": ["I-weather/noun", "B-datetime", "B-location"], "tokens": ["eguraldia", "orain", "lekunberrin"]}
+{"idx": 330, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "30", "minutu", "barru", "esnatu", "behar", "dudala"]}
+{"idx": 331, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "ahizpa", "jasotzeko", "gogorarazlea"]}
+{"idx": 332, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "3", "minutura"]}
+{"idx": 333, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "hurrengo", "alarmarako"]}
+{"idx": 334, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "15", "minutura"]}
+{"idx": 335, "tags": ["O", "O", "O", "O"], "tokens": ["noiz", "da", "hurrengo", "alarma"]}
+{"idx": 336, "tags": ["O", "O", "O"], "tokens": ["desaktibatu", "alarma", "guztiak"]}
+{"idx": 337, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "dentistari", "deitzeko", "gogorarazlea"]}
+{"idx": 338, "tags": ["B-datetime", "B-weather/attribute", "O", "O", "O"], "tokens": ["gauean", "euria", "egingo", "du", "?"]}
+{"idx": 339, "tags": ["O", "O"], "tokens": ["desaktibatu", "alarma"]}
+{"idx": 340, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["zer", "gogorarazle", "dauzkat"]}
+{"idx": 341, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 342, "tags": ["O", "B-weather/noun", "O", "O", "O", "B-location", "O"], "tokens": ["zer", "tenperatura", "egiten", "du", "gaur", "tuteran", "?"]}
+{"idx": 343, "tags": ["B-datetime", "I-datetime", "B-weather/attribute", "O", "O", "O"], "tokens": ["bihar", "goizean", "euria", "egingo", "du", "?"]}
+{"idx": 344, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "barru", "joko", "du", "alarmak", "?"]}
+{"idx": 345, "tags": ["O", "O", "O"], "tokens": ["kendu", "alarma", "guztiak"]}
+{"idx": 346, "tags": ["O", "B-datetime", "I-datetime", "O", "B-datetime"], "tokens": ["aldatu", "goizeko", "9etako", "alarma", "8etara"]}
+{"idx": 347, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "7", ":", "30erako"]}
+{"idx": 348, "tags": ["O", "B-datetime", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "asteburuko", "alarma", "bat", "goizeko", "8etan"]}
+{"idx": 349, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezabatu", "jon", "jasotzeko", "gogorarazlea"]}
+{"idx": 350, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 351, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["bero", "egingo", "du", "gaur", "?"]}
+{"idx": 352, "tags": ["B-reminder/reference", "B-reminder/noun"], "tokens": ["uneko", "gogorarazleak"]}
+{"idx": 353, "tags": ["O", "O", "O", "O", "O", "O", "B-datetime", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "bihar", "?"]}
+{"idx": 354, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "tipulak", "erosteko", "gogorarazlea", "."]}
+{"idx": 355, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "goizeko", "6etan"]}
+{"idx": 356, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "erosketak", "egitera", "joateko", "gogorarazlea", "."]}
+{"idx": 357, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "gaueko", "10etan"]}
+{"idx": 358, "tags": ["O", "O", "O"], "tokens": ["ezeztatu", "alarma", "."]}
+{"idx": 359, "tags": ["O", "O", "O", "O", "O"], "tokens": ["hemendik", "zenbatera", "joko", "du", "alarmak"]}
+{"idx": 360, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["ezabatu", "gogorarazle", "guztiak"]}
+{"idx": 361, "tags": ["O", "O", "O", "O", "O"], "tokens": ["hemendik", "zenbatera", "joko", "du", "alarmak"]}
+{"idx": 362, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezabatu", "bihar", "egunkaria", "erosteko", "gogorarazlea"]}
+{"idx": 363, "tags": ["O", "B-reminder/todo", "B-reminder/noun"], "tokens": ["ezabatu", "hitzorduaren", "gogorarazlea"]}
+{"idx": 364, "tags": ["O", "B-reminder/noun"], "tokens": ["ezeztatu", "gogorarazleak"]}
+{"idx": 365, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "gasolina", "hartzeko", "gogorarazlea"]}
+{"idx": 366, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 367, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "2", "minutura"]}
+{"idx": 368, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 369, "tags": ["O", "O", "O", "B-datetime", "B-weather/attribute", "O", "O"], "tokens": ["zer", "arrisku", "dago", "gaur", "txingorra", "egiteko", "?"]}
+{"idx": 370, "tags": ["O", "B-reminder/noun", "B-reminder/recurring_period", "I-reminder/recurring_period"], "tokens": ["erakutsi", "gogorarazlea", "bi", "aldiz"]}
+{"idx": 371, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 372, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "10", "minutura"]}
+{"idx": 373, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "bat", "arratsaldeko", "5etarako"]}
+{"idx": 374, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "10", "minutura"]}
+{"idx": 375, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "I-datetime"], "tokens": ["zer", "eguraldi", "eman", "dute", "gaur", "arratsalderako"]}
+{"idx": 376, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "hau", "10", "minutura"]}
+{"idx": 377, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 378, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun", "O"], "tokens": ["erakutsi", "aste", "honetako", "gogorarazle", "guztiak"]}
+{"idx": 379, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "dago", "jarrita", "alarma"]}
+{"idx": 380, "tags": ["O", "O"], "tokens": ["erakutsi", "alarmak"]}
+{"idx": 381, "tags": ["O", "B-datetime", "B-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "ostiraleko", "afariaren", "gogorarazlea"]}
+{"idx": 382, "tags": ["O", "O", "O", "O"], "tokens": ["erakutsi", "ezarritako", "alarma", "guztiak"]}
+{"idx": 383, "tags": ["B-weather/attribute", "O", "O", "O", "B-datetime", "O"], "tokens": ["euririk", "egitea", "espero", "da", "gaur", "?"]}
+{"idx": 384, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 385, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorazi", "gaur", "gauean", "amari", "deitzea"]}
+{"idx": 386, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "hemendik", "40", "minutura"]}
+{"idx": 387, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "gogorarazle", "dauzkat", "biharko", "?"]}
+{"idx": 388, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmarako"]}
+{"idx": 389, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "minutu", "falta", "dira", "alarmak", "jotzeko"]}
+{"idx": 390, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "esnea", "erosteko", "gogorarazlea"]}
+{"idx": 391, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "arratsaldeko", "seietatik", "zortziak", "eta", "laurdenetara"]}
+{"idx": 392, "tags": ["O", "B-datetime", "I-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "goizeko", "7etako", "alarma", "6", ":", "30era"]}
+{"idx": 393, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "25", "segundoz", "behin", ",", "5", "minutuan"]}
+{"idx": 394, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "15", "minutura"]}
+{"idx": 395, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "irteten", "da", "eguzkia", "?"]}
+{"idx": 396, "tags": ["O", "O", "O", "O", "O"], "tokens": ["noiz", "da", "hurrengo", "alarma", "?"]}
+{"idx": 397, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 398, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "hemendik", "4", "minutura"]}
+{"idx": 399, "tags": ["O", "O"], "tokens": ["desaktibatu", "alarma"]}
+{"idx": 400, "tags": ["O", "B-reminder/noun", "O", "B-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["ezarri", "gogorarazle", "bat", "ostiralean", "olatzi", "deitzeko"]}
+{"idx": 401, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["ezeztatu", "gaurko", "gogorarazleak"]}
+{"idx": 402, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "alarma", "dauzkat", "jarrita", "?"]}
+{"idx": 403, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["ezabatu", "bihar", "goizeko", "8etako", "alarma"]}
+{"idx": 404, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 405, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 406, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["utzi", "bertan", "behera", "biharko", "alarma"]}
+{"idx": 407, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmarako"]}
+{"idx": 408, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 409, "tags": ["B-datetime", "B-weather/attribute", "O", "O", "O"], "tokens": ["5etan", "euria", "egingo", "du", "?"]}
+{"idx": 410, "tags": ["O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["ezeztatu", "goizeko", "6etako", "alarma", "errepikakorra"]}
+{"idx": 411, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "8etarako", "igandean"]}
+{"idx": 412, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zer", "tenperatura", "egingo", "du", "datorren", "asteartean", "?"]}
+{"idx": 413, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "120", "segundora"]}
+{"idx": 414, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "txirrinak", "jotzeko"]}
+{"idx": 415, "tags": ["O", "O"], "tokens": ["gelditu", "alarma"]}
+{"idx": 416, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "arrautzak", "jasotzera", "joateko", "gogorarazlea"]}
+{"idx": 417, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 418, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 419, "tags": ["O", "B-datetime", "B-reminder/noun", "O", "O"], "tokens": ["ezeztatu", "biharko", "gogorarazle", "guztiak", "."]}
+{"idx": 420, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "bihar", "ogia", "erostea"]}
+{"idx": 421, "tags": ["O", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "amonaren", "urtebetetzea"]}
+{"idx": 422, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "3etan", "korrika", "egitera", "joan", "behar", "dudala"]}
+{"idx": 423, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "minuturo", "hurrengo", "ordubetean"]}
+{"idx": 424, "tags": ["O", "O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezabatuko", "duzu", "desodorantea", "erosteko", "gogorarazlea", "?"]}
+{"idx": 425, "tags": ["O", "O", "O", "O", "B-datetime", "O", "O"], "tokens": ["zer", "ordutan", "dago", "jarrita", "biharko", "alarma", "?"]}
+{"idx": 426, "tags": ["O", "B-reminder/todo", "B-reminder/noun", "O", "B-reminder/reference", "O"], "tokens": ["noren", "urtebetetzearen", "gogorarazlea", "dator", "hurrengo", "?"]}
+{"idx": 427, "tags": ["O", "O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak", "."]}
+{"idx": 428, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "9etarako"]}
+{"idx": 429, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "8", ":", "45ean"]}
+{"idx": 430, "tags": ["B-reminder/noun", "O", "O", "O", "O"], "tokens": ["gogorarazle", "bat", "ezarri", "behar", "dut"]}
+{"idx": 431, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["ezeztatu", "gaurko", "gogorarazleak"]}
+{"idx": 432, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "minutu", "barru", "joko", "du", "alarmak"]}
+{"idx": 433, "tags": ["O", "B-reminder/noun", "O", "B-datetime"], "tokens": ["zer", "gogorarazle", "ditut", "gaur"]}
+{"idx": 434, "tags": ["B-reminder/noun", "O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazlea", ":", "hartu", "txanda", "ilemmmapaindegian"]}
+{"idx": 435, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["jarri", "alarma", "bat", "eguerdirako", "."]}
+{"idx": 436, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "haurrak", "jasotzeko", "gogorarazlea", "."]}
+{"idx": 437, "tags": ["O", "B-reminder/noun"], "tokens": ["irakurri", "gogorarazleak"]}
+{"idx": 438, "tags": ["O", "B-reminder/noun", "O", "O"], "tokens": ["zer", "gogorarazle", "dauzkat", "?"]}
+{"idx": 439, "tags": ["O", "O", "O", "O"], "tokens": ["noiz", "amaituko", "da", "alarma"]}
+{"idx": 440, "tags": ["O", "O", "O"], "tokens": ["ezabatu", "gaurko", "alarmak"]}
+{"idx": 441, "tags": ["O", "B-datetime", "B-reminder/noun", "O", "O"], "tokens": ["ezabatu", "gaurko", "gogorarazle", "guztiak", "."]}
+{"idx": 442, "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["aldatu", "izena", "alarmari", "eta", "jarri", "\"", "etxeko", "lanak", "egin", "\""]}
+{"idx": 443, "tags": ["O", "O", "O", "O"], "tokens": ["alarma", "jo", "berriro", "geroxeago"]}
+{"idx": 444, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["ez", "jarri", "alarma", "gaur"]}
+{"idx": 445, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "gaurko", "gogorarazle", "guztiak"]}
+{"idx": 446, "tags": ["O", "B-reminder/noun"], "tokens": ["ezeztatu", "gogorarazlea"]}
+{"idx": 447, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "minutu", "geratzen", "zaizkio", "nire", "uneko", "alarmari"]}
+{"idx": 448, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "dago", "joko", "du", "alarmak"]}
+{"idx": 449, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["gogorarazi", "dentistarekin", "hitzordua", "dudala", "23an", ",", "goizeko", "11", ":", "30an"]}
+{"idx": 450, "tags": ["O", "O"], "tokens": ["gelditu", "alarma"]}
+{"idx": 451, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["gogorarazi", "gaur", "6etan", "erosketak", "egin", "behar", "ditudala", "."]}
+{"idx": 452, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "dago", "jarrita", "3", "alarma", "?"]}
+{"idx": 453, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 454, "tags": ["O", "B-reminder/noun", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["badago", "gogorarazlerik", "gaur", "arratsaldeko", "5etarako", "?"]}
+{"idx": 455, "tags": ["O", "B-reminder/noun", "B-reminder/todo", "B-reminder/todo", "B-reminder/todo", "O"], "tokens": ["badut", "gogorarazlerik", "enkargutara", "joaten", "naizenerako", "?"]}
+{"idx": 456, "tags": ["O", "B-reminder/noun", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["sortu", "gogorarazle", "bat", "gaur", "arratsaldeko", "5etarako"]}
+{"idx": 457, "tags": ["O", "O", "O"], "tokens": ["ezabatu", "bazkaltzeko", "alarma"]}
+{"idx": 458, "tags": ["O", "O", "O", "B-weather/noun", "O", "B-datetime", "O"], "tokens": ["zein", "izango", "da", "tenperatura", "minimoa", "bihar", "?"]}
+{"idx": 459, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["gogorarazi", "medikuaren", "hitzordua", "asteartean", "goizeko", "10etan"]}
+{"idx": 460, "tags": ["O", "O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago", "."]}
+{"idx": 461, "tags": ["O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["ezeztatu", "arratsaldeko", "3etarako", "jarritako", "alarma"]}
+{"idx": 462, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "arratsaldean", "esnea", "erostea"]}
+{"idx": 463, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["jo", "berriro", "alarma", "guztiak", "ordubetera"]}
+{"idx": 464, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["erakutsi", "gaurko", "gogorarazlea"]}
+{"idx": 465, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gaurko", "gogorarazle", "guztiak"]}
+{"idx": 466, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["erakutsi", "asteko", "gogorarazleak"]}
+{"idx": 467, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "7etan"]}
+{"idx": 468, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["gogorarazi", "gastuen", "txostena", "amaitu", "behar", "dudala", "bihar", "goizeko", "10", ":", "07an", "."]}
+{"idx": 469, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime", "I-datetime"], "tokens": ["gogorarazi", "katua", "jaso", "behar", "dudala", "albaitariarenetik", "arratsaldeko", "4etan"]}
+{"idx": 470, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 471, "tags": ["B-weather/attribute", "O", "O"], "tokens": ["elurra", "egiteko", "aukera"]}
+{"idx": 472, "tags": ["O", "O", "B-datetime", "O"], "tokens": ["errepikatu", "alarma", "bihar", "."]}
+{"idx": 473, "tags": ["B-datetime", "B-weather/attribute", "O", "O", "O", "O"], "tokens": ["gaur", "euririk", "egingo", "ote", "du", "?"]}
+{"idx": 474, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarma", "pizteko"]}
+{"idx": 475, "tags": ["O", "O", "O", "O"], "tokens": ["erakutsi", "aktibo", "dauden", "alarmak"]}
+{"idx": 476, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 477, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "gaurko", "gogorarazleak", "."]}
+{"idx": 478, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "astelehenean", "8etan", "odola", "ateratzera", "joan", "behar", "dudala"]}
+{"idx": 479, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "O", "O"], "tokens": ["jarri", "alarma", "30", "minutu", "barru", "jotzeko", "."]}
+{"idx": 480, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 481, "tags": ["B-weather/attribute", "O", "O", "B-datetime"], "tokens": ["elurra", "egingo", "du", "gaur"]}
+{"idx": 482, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "O"], "tokens": ["zenbat", "gradu", "egiten", "ditu", "gaur", "?"]}
+{"idx": 483, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "7etatik", "7", ":", "20ra"]}
+{"idx": 484, "tags": ["O", "O", "O", "O", "B-datetime", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "gaurko", "lehen", "alarmak", "jotzeko", "?"]}
+{"idx": 485, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazleak", "."]}
+{"idx": 486, "tags": ["O", "B-datetime", "O"], "tokens": ["ezeztatu", "biharko", "alarma"]}
+{"idx": 487, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["ezeztatu", "biharko", "gogorarazleak"]}
+{"idx": 488, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["jarri", "alarma", "bat", "biharko", "."]}
+{"idx": 489, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["aterkia", "beharko", "dut", "gaur", "?"]}
+{"idx": 490, "tags": ["O", "O", "O"], "tokens": ["esan", "alarma", "guztiak"]}
+{"idx": 491, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/todo"], "tokens": ["gogorarazi", "ordu", "erdi", "barru", "esnatzea"]}
+{"idx": 492, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 493, "tags": ["O", "O", "O", "O", "O", "I-datetime", "O"], "tokens": ["zer", "ordutan", "aterako", "da", "eguzkia", "bihar", "?"]}
+{"idx": 494, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "igandeko", "gogorarazle", "guztiak"]}
+{"idx": 495, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["erakutsi", "biharko", "gogorarazlea"]}
+{"idx": 496, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "ordu", "falta", "dira", "alarmak", "jotzeko", "?"]}
+{"idx": 497, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-datetime", "O"], "tokens": ["gogorarazi", "arrautzak", "erostea", "bihar", "."]}
+{"idx": 498, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "pasatuko", "da", "alarmak", "jotzerako", "?"]}
+{"idx": 499, "tags": ["O", "O", "B-reminder/noun", "O"], "tokens": ["esan", "zer", "gogorarazle", "dauden"]}
+{"idx": 500, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "45", "minutu", "barru", "ogia", "labetik", "ateratzea"]}
+{"idx": 501, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["alarmarik", "badut", "jarrita", "biharko", "?"]}
+{"idx": 502, "tags": ["O", "B-reminder/noun", "O", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak", "."]}
+{"idx": 503, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "hau", "berriro", "8", "minutuz", "behin"]}
+{"idx": 504, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["alarmak", "geroxeago", "berriro", "jotzea", "nahi", "dut"]}
+{"idx": 505, "tags": ["O", "O"], "tokens": ["erakutsi", "alarmak"]}
+{"idx": 506, "tags": ["O", "O", "O", "B-weather/noun"], "tokens": ["zer", "itxura", "du", "eguraldiak"]}
+{"idx": 507, "tags": ["O", "B-weather/attribute", "O", "O", "O"], "tokens": ["zenbat", "gradu", "egiten", "ditu", "?"]}
+{"idx": 508, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "6etarako", "asteartean"]}
+{"idx": 509, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 510, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "O", "O"], "tokens": ["ezeztatu", "biharko", "goizeko", "6etako", "alarma", "."]}
+{"idx": 511, "tags": ["B-weather/attribute", "O", "O", "O"], "tokens": ["euria", "egingo", "al", "du"]}
+{"idx": 512, "tags": ["O", "O", "O", "O", "O"], "tokens": ["jo", "berriro", "geroago", "oraingo", "alarma"]}
+{"idx": 513, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 514, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "iluntzeko", "8etatik", "9etara"]}
+{"idx": 515, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "anerekin", "afaltzera", "joateko", "gogorarazle", "guztiak"]}
+{"idx": 516, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime", "O"], "tokens": ["gogorarazi", "oihan", "dantzatik", "jaso", "behar", "dudala", "5etan", "."]}
+{"idx": 517, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 518, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-datetime"], "tokens": ["gogorarazi", "gimnasiora", "joatea", "7etan"]}
+{"idx": 519, "tags": ["O", "O", "O", "O"], "tokens": ["alarmarik", "badaukat", "aktibatuta", "?"]}
+{"idx": 520, "tags": ["O", "O", "O"], "tokens": ["ezeztatu", "alarma", "guztiak"]}
+{"idx": 521, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "goizeko", "5etan", "astegun", "guztietan"]}
+{"idx": 522, "tags": ["O", "O", "O"], "tokens": ["berrezarri", "alarma", "guztiak"]}
+{"idx": 523, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["ezeztatu", "dendan", "bananak", "erosteko", "gogorarazlea"]}
+{"idx": 524, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 525, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 526, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 527, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "7etan"]}
+{"idx": 528, "tags": ["O", "O", "O", "O", "O"], "tokens": ["aldatu", "uneko", "alarma", "bat", "."]}
+{"idx": 529, "tags": ["O", "O", "O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["ezarri", "alarmammmerrepikapena", "esnatzeko", "alarmak", "jo", "eta", "20", "minutura"]}
+{"idx": 530, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["ezabatu", "alarma", "guztiak", "aste", "honetan"]}
+{"idx": 531, "tags": ["O", "O", "O"], "tokens": ["eten", "alarma", "guztiak"]}
+{"idx": 532, "tags": ["O", "O", "B-weather/attribute"], "tokens": ["zenbat", "cm", "elur"]}
+{"idx": 533, "tags": ["O", "O", "B-weather/noun", "O", "O", "O", "O"], "tokens": ["zer", "moduzko", "eguraldia", "egiten", "du", "gaur", "?"]}
+{"idx": 534, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "hemendik", "5", "minutura"]}
+{"idx": 535, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["zer", "ordutan", "daukat", "jarrita", "bihar", "goizeko", "alarma", "?"]}
+{"idx": 536, "tags": ["O", "B-datetime", "O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gaurko", "jarritako", "gogorarazleak", "."]}
+{"idx": 537, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "bat", "gaur", "arratsaldeko", "5etan", "jotzeko"]}
+{"idx": 538, "tags": ["O", "O"], "tokens": ["hasi", "alarma"]}
+{"idx": 539, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["desaktibatu", "alarma", "guztiak", "aste", "honetarako", "bakarrik"]}
+{"idx": 540, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["jo", "berriro", "geroxeago", "alarma", "hori", ",", "mesedez"]}
+{"idx": 541, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "10", ":", "30era"]}
+{"idx": 542, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "goizeko", "5etan", "bihar"]}
+{"idx": 543, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "arratsaldeko", "3etarako", "txanda", "hartzeko", "deitzea"]}
+{"idx": 544, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["irakurri", "gaurko", "gogorarazleak"]}
+{"idx": 545, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "beste", "20", "minutura"]}
+{"idx": 546, "tags": ["O", "O"], "tokens": ["ezeztatu", "alarmak"]}
+{"idx": 547, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["errepikatu", "azken", "alarma", "bi", "egunetik", "behin"]}
+{"idx": 548, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "10", "minutura"]}
+{"idx": 549, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "larunbatean", "erosketak", "egiteko", "gogorarazlea"]}
+{"idx": 550, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["zer", "ordutan", "da", "egunsentia", "?"]}
+{"idx": 551, "tags": ["O", "B-datetime", "I-datetime", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "goizaldeko", "4etako", "alarma", "5etara", "biharko"]}
+{"idx": 552, "tags": ["B-weather/attribute", "O", "O", "O", "O"], "tokens": ["aterkia", "hartzea", "komeni", "da", "?"]}
+{"idx": 553, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["laneko", "alarmarik", "badut", "jarrita", "biharko", "?"]}
+{"idx": 554, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "hurrengo", "alarmak", "jotzeko"]}
+{"idx": 555, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "iluntzeko", "9", ":", "30ean"]}
+{"idx": 556, "tags": ["O", "B-reminder/noun", "B-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["ezarri", "gogorarazlea", "bihar", "katummmjana", "erosteko"]}
+{"idx": 557, "tags": ["O", "B-reminder/noun", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["ezeztatu", "gogorarazlea", ",", "dagoeneko", "egin", "dut", "hori", "eta", "."]}
+{"idx": 558, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["jo", "berriro", "geroago", "aktibo", "dauden", "alarma", "guztiak", "."]}
+{"idx": 559, "tags": ["O", "O"], "tokens": ["aldatu", "alarma"]}
+{"idx": 560, "tags": ["O", "O", "O"], "tokens": ["zenbat", "alarma", "dauzkat"]}
+{"idx": 561, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["ezabatu", "astegunetako", "iluntzeko", "8", ":", "55etako", "alarma"]}
+{"idx": 562, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["noiz", "irteten", "eta", "sartzen", "da", "eguzkia", "?"]}
+{"idx": 563, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["elurra", "egingo", "du", "datorren", "asteburuan", "?"]}
+{"idx": 564, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["ekaitzik", "egongo", "da", "gaur", "?"]}
+{"idx": 565, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "goizeko", "6", ":", "30eko", "alarma", "7", ":", "30era"]}
+{"idx": 566, "tags": ["O", "B-reminder/noun"], "tokens": ["irakurri", "gogorarazleak"]}
+{"idx": 567, "tags": ["O", "O", "O"], "tokens": ["zer", "alarma", "dauzkat"]}
+{"idx": 568, "tags": ["O", "O", "O", "O", "O"], "tokens": ["hemendik", "zenbatera", "joko", "du", "alarmak"]}
+{"idx": 569, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jo", "berriro", "alarma", "5", "minutura", "."]}
+{"idx": 570, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["euria", "egin", "du", "gaur", "?"]}
+{"idx": 571, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 572, "tags": ["O", "O", "B-datetime"], "tokens": ["jo", "alarma", "gauerdian"]}
+{"idx": 573, "tags": ["O", "O", "O"], "tokens": ["gelditu", "alarma", "mesedez"]}
+{"idx": 574, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 575, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["euria", "egingo", "du", "gaur", "gauean", "?"]}
+{"idx": 576, "tags": ["O", "B-reminder/todo", "B-reminder/noun"], "tokens": ["ezabatu", "medikuaren", "gogorarazlea"]}
+{"idx": 577, "tags": ["B-weather/attribute", "O", "O", "O", "B-datetime", "O"], "tokens": ["euririk", "egin", "behar", "du", "gaur", "?"]}
+{"idx": 578, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmarako"]}
+{"idx": 579, "tags": ["O", "B-datetime", "B-reminder/noun", "O", "O"], "tokens": ["erakutsi", "gaurko", "gogorarazle", "guztiak", "."]}
+{"idx": 580, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "txakurra", "ateratzeko", "gogorarazlea"]}
+{"idx": 581, "tags": ["O", "B-datetime", "O"], "tokens": ["aldatu", "biharko", "alarma"]}
+{"idx": 582, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 583, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["jarri", "beste", "alarma", "batzuk", "astelehenerako"]}
+{"idx": 584, "tags": ["O", "O", "O", "O", "B-weather/attribute"], "tokens": ["zenbat", "egunean", "egingo", "du", "elurra"]}
+{"idx": 585, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 586, "tags": ["O", "O", "O", "B-weather/attribute", "O"], "tokens": ["noiz", "hasiko", "da", "ekaitza", "?"]}
+{"idx": 587, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "arratsaldean", "botikara", "joateko", "gogorarazlea", "."]}
+{"idx": 588, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "gaur", "lanetik", "etxerako", "bidean", "supermerkatuan", "geratzea"]}
+{"idx": 589, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["jo", "alarma", "berriro", "ordubetera"]}
+{"idx": 590, "tags": ["O", "O", "O"], "tokens": ["ezabatu", "alarma", "guztiak"]}
+{"idx": 591, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "O", "O"], "tokens": ["aldatu", "alarma", "bi", "ordu", "barru", "jotzeko", "."]}
+{"idx": 592, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "lehen", "alarmak", "jotzeko", "?"]}
+{"idx": 593, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["errepikatu", "alarma", "itzaltzeko", "esaten", "dudan", "arte"]}
+{"idx": 594, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "zaio", "alarmari"]}
+{"idx": 595, "tags": ["B-reminder/noun", "O", "O", "O"], "tokens": ["gogorarazlerik", "badut", "aktibatuta", "?"]}
+{"idx": 596, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizeko", "seietatik", "zazpietara"]}
+{"idx": 597, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "bihar", "goizeko", "4etan", "jaiki", "behar", "dudala"]}
+{"idx": 598, "tags": ["O", "B-reminder/todo", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "dendan", "loreak", "erosteko", "gogorarazlea"]}
+{"idx": 599, "tags": ["O", "O", "O", "B-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "hemendik", "astebetera", ",", "2", ":", "30ean"]}
+{"idx": 600, "tags": ["O", "O", "O", "O"], "tokens": ["zer", "alarma", "daude", "jarrita"]}
+{"idx": 601, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 602, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["ziurtatu", "alarmak", "jotzen", "duela", "20", "minutu", "barru", "."]}
+{"idx": 603, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "inprimagailuaren", "tinta", "erosteko", "gogorarazlea", "."]}
+{"idx": 604, "tags": ["O", "B-datetime", "O", "O"], "tokens": ["ezabatu", "orduro", "jotzeko", "alarma"]}
+{"idx": 605, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "12", ":", "38an", "eta", "jarraitu", "6", "minutuz", "behin", "jotzen"]}
+{"idx": 606, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["zenbat", "alarma", "daude", "jarrita", "gaurko", "?"]}
+{"idx": 607, "tags": ["O", "O", "O", "O", "B-datetime", "B-weather/attribute", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "gaur", "euria", "hasteko", "?"]}
+{"idx": 608, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jo", "alarma", "5", "minutuz", "behin", "."]}
+{"idx": 609, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "katuaren", "jana", "erosteko", "gogorarazlea"]}
+{"idx": 610, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 611, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "minutu", "geratzen", "zaizkio", "alarmari", "?"]}
+{"idx": 612, "tags": ["O", "O", "O", "O", "O", "B-datetime", "I-datetime", "O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "bi", "alarma", ":", "bat", "goizeko", "5etarako", ",", "bestea", "goizeko", "5", ":", "30erako"]}
+{"idx": 613, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "5", ":", "30ean", "gasolina", "hartzea"]}
+{"idx": 614, "tags": ["O", "B-weather/attribute", "O", "B-weather/noun"], "tokens": ["noiz", "freskatuko", "du", "eguraldia"]}
+{"idx": 615, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 616, "tags": ["O", "O"], "tokens": ["erakutsi", "alarmak"]}
+{"idx": 617, "tags": ["B-datetime", "B-weather/attribute", "O", "O", "O"], "tokens": ["asteburuan", "euria", "egingo", "du", "?"]}
+{"idx": 618, "tags": ["O", "B-reminder/reference", "B-reminder/noun"], "tokens": ["ezeztatu", "azken", "gogorarazlea"]}
+{"idx": 619, "tags": ["O", "B-datetime", "O", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "asteazkenetako", "alarma", "guztiak", "goizeko", "8etara"]}
+{"idx": 620, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "5", "minutura"]}
+{"idx": 621, "tags": ["O", "B-reminder/noun", "O", "O"], "tokens": ["ezeztatu", "gogorarazle", "guztiak", "."]}
+{"idx": 622, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["noiz", "ilunduko", "du", "bihar", "?"]}
+{"idx": 623, "tags": ["O", "O", "O", "O", "O"], "tokens": ["erakutsi", "aktibo", "dauden", "alarma", "guztiak"]}
+{"idx": 624, "tags": ["O", "B-reminder/noun"], "tokens": ["erakutsi", "gogorarazlea"]}
+{"idx": 625, "tags": ["O", "O", "O"], "tokens": ["itzali", "alarma", "guztiak"]}
+{"idx": 626, "tags": ["O", "O", "B-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "berriro", "ostiraleko", "alarma", "15", "minutu", "geroago"]}
+{"idx": 627, "tags": ["O", "O", "O", "B-reminder/reference", "B-reminder/noun", "O"], "tokens": ["zein", "da", "eguneko", "azken", "gogorarazlea", "?"]}
+{"idx": 628, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "dentistari", "deitzeko", "gogorarazlea"]}
+{"idx": 629, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "O"], "tokens": ["zer", "eguraldi", "eman", "dute", "biharko", "?"]}
+{"idx": 630, "tags": ["O", "B-datetime", "B-weather/noun", "I-weather/noun", "O"], "tokens": ["irakurri", "gaurko", "eguraldiaren", "iragarpena", "."]}
+{"idx": 631, "tags": ["O", "B-reminder/noun", "O", "O"], "tokens": ["irakurri", "gogorarazle", "guztiak", "."]}
+{"idx": 632, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["atzeratu", "20", "minutu", "8etarako", "jarritako", "alarma"]}
+{"idx": 633, "tags": ["O", "O"], "tokens": ["desaktibatu", "alarma"]}
+{"idx": 634, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "zortzi", "eta", "erdietan", "bihar"]}
+{"idx": 635, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime"], "tokens": ["gogorarazi", "ikasleen", "azterketak", "etxera", "ekartzea", "bihar"]}
+{"idx": 636, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "iluntzeko", "8etako", "alarma"]}
+{"idx": 637, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "O"], "tokens": ["zer", "eguraldi", "egiten", "du", "gaur", "?"]}
+{"idx": 638, "tags": ["O", "B-reminder/noun", "B-datetime", "I-datetime", "O"], "tokens": ["badut", "gogorarazlerik", "datorren", "asterako", "?"]}
+{"idx": 639, "tags": ["O", "B-reminder/noun", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zer", "gogorarazle", "dauzkat", "ezarrita", "aste", "honetarako", "?"]}
+{"idx": 640, "tags": ["O", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "botikara", "joatea"]}
+{"idx": 641, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur", "?"]}
+{"idx": 642, "tags": ["O", "O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak", "."]}
+{"idx": 643, "tags": ["O", "O", "B-datetime", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "12etako", "alarma", "5", "minutura"]}
+{"idx": 644, "tags": ["O", "B-reminder/noun", "O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["ezarri", "gogorarazle", "bat", "gaur", "arratsaldeko", "5etan", "kattalini", "deitzeko"]}
+{"idx": 645, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["hemendik", "zenbatera", "joko", "du", "alarmak", "?"]}
+{"idx": 646, "tags": ["O", "B-reminder/todo", "O", "B-reminder/noun"], "tokens": ["erakutsi", "eskolari", "buruzko", "gogorarazleak"]}
+{"idx": 647, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "gaurko", "arratsaldeko", "6etarako"]}
+{"idx": 648, "tags": ["O", "B-reminder/recurring_period", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["gogorarazi", "gauero", "atea", "giltzaz", "itxi", "behar", "dudala", "."]}
+{"idx": 649, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 650, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "bihar", "garagardoa", "ekartzea"]}
+{"idx": 651, "tags": ["B-datetime", "I-datetime", "B-weather/attribute", "O", "O", "O"], "tokens": ["asteburu", "honetan", "euria", "egingo", "du", "?"]}
+{"idx": 652, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["zer", "ordutan", "daukat", "jarrita", "gaur", "goizeko", "alarma", "?"]}
+{"idx": 653, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "bihar", "goizeko", "alarma"]}
+{"idx": 654, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "7", ":", "30ean", "afaria", "prestatzen", "hastea"]}
+{"idx": 655, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["isilarazi", "bihar", "goizeko", "5etako", "alarma"]}
+{"idx": 656, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 657, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "pasatutakoan", "joko", "du", "alarmak", "?"]}
+{"idx": 658, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime", "O"], "tokens": ["gogorarazi", "liburua", "klasera", "eramatea", "bihar", "."]}
+{"idx": 659, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizetik", "arratsaldera"]}
+{"idx": 660, "tags": ["O", "B-datetime", "O", "B-datetime", "O", "O"], "tokens": ["ezabatu", "larunbateko", "eta", "igandeko", "alarma", "guztiak"]}
+{"idx": 661, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "daukat", "alarmak", "jo", "arte", "?"]}
+{"idx": 662, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "15", "minutura"]}
+{"idx": 663, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "hurrengo", "asterako", "gogorarazle", "guztiak"]}
+{"idx": 664, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["alarma", "guztiak", "itzali", "nahi", "ditut", "."]}
+{"idx": 665, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 666, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "bat", "gaur", "eguerdiko", "2etarako"]}
+{"idx": 667, "tags": ["O", "O"], "tokens": ["ezeztatu", "alarma"]}
+{"idx": 668, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["gogorarazi", "gaur", "komuneko", "papera", "erostea", "."]}
+{"idx": 669, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "tomatea", "erosi", "behar", "dudala", "afaltzeko"]}
+{"idx": 670, "tags": ["O", "O", "O", "O"], "tokens": ["itzali", "alarma", "guztiak", "."]}
+{"idx": 671, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "larunbat", "gaueko", "hitzorduaren", "gogorarazlea"]}
+{"idx": 672, "tags": ["O", "O", "O"], "tokens": ["bistaratu", "alarma", "guztiak"]}
+{"idx": 673, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["errepikatu", "laneko", "alarma", "astelehenetik", "ostiralera", "goizeko", "7etan"]}
+{"idx": 674, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "5", "minutu", "barru"]}
+{"idx": 675, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "barru", "joko", "du", "alarmak", "?"]}
+{"idx": 676, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["jakarik", "beharko", "dut", "gaur", "?"]}
+{"idx": 677, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "O", "O"], "tokens": ["ziurtatu", "alarmak", "5", "minutuz", "behin", "joko", "duela"]}
+{"idx": 678, "tags": ["O", "B-datetime", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "gaurko", "alarma", "eguerdiko", "2etara"]}
+{"idx": 679, "tags": ["O", "O", "O", "O"], "tokens": ["gelditu", "alarma", ",", "mesedez"]}
+{"idx": 680, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["esan", "gaurko", "gogorarazle", "guztiak"]}
+{"idx": 681, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "geratzen", "zaio", "alarmari", "?"]}
+{"idx": 682, "tags": ["O", "O", "B-reminder/reference", "B-reminder/noun", "O"], "tokens": ["noiz", "da", "hurrengo", "gogorarazlea", "?"]}
+{"idx": 683, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "gauean", "txakurrei", "jaten", "eman", "behar", "diedala"]}
+{"idx": 684, "tags": ["O", "B-reminder/todo", "B-reminder/noun"], "tokens": ["erakutsi", "kontzertuaren", "gogorarazlea"]}
+{"idx": 685, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["noiz", "joko", "du", "hurrengo", "alarmak", "?"]}
+{"idx": 686, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "2", "minuturo"]}
+{"idx": 687, "tags": ["O", "B-reminder/noun", "B-datetime", "B-reminder/todo", "O", "B-datetime", "I-datetime"], "tokens": ["ezarri", "gogorarazlea", "astearteko", "hitzordua", "baino", "ordubete", "lehenago"]}
+{"idx": 688, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "gaur", "gaueko", "alarma"]}
+{"idx": 689, "tags": ["O", "O", "O", "O", "O"], "tokens": ["hemendik", "zenbatera", "joko", "du", "alarmak"]}
+{"idx": 690, "tags": ["B-weather/attribute", "O", "O", "O", "O"], "tokens": ["hezetasun", "handia", "egingo", "du", "?"]}
+{"idx": 691, "tags": ["O", "O", "O", "O", "B-weather/attribute", "B-location", "O"], "tokens": ["zer", "ordutan", "iritsiko", "da", "ekaitza", "zumaira", "?"]}
+{"idx": 692, "tags": ["O", "B-datetime", "O", "O"], "tokens": ["desaktibatu", "astearterako", "alarma", "."]}
+{"idx": 693, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/noun"], "tokens": ["ezeztatu", "domu", "santu", "egunerako", "gogorarazlea"]}
+{"idx": 694, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gaurko", "gogorarazle", "guztiak"]}
+{"idx": 695, "tags": ["O", "O", "B-datetime", "I-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "berriro", "goizeko", "6etako", "alarma", "5", "minutuz", "behin"]}
+{"idx": 696, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 697, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizeko", "11", ":", "15etik", "eguerdiko", "12", ":", "15era"]}
+{"idx": 698, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun", "O"], "tokens": ["desaktibatu", "asteburu", "honetako", "gogorarazle", "guztiak"]}
+{"idx": 699, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 700, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun"], "tokens": ["erakutsi", "gaur", "gaueko", "gogorarazleak"]}
+{"idx": 701, "tags": ["B-reminder/noun", "O", "O"], "tokens": ["gogorarazle", "guztiak", "ezeztatu"]}
+{"idx": 702, "tags": ["O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["atzeratu", "beste", "45", "minutuz", "alarma"]}
+{"idx": 703, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 704, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "10etan"]}
+{"idx": 705, "tags": ["O", "B-datetime", "B-reminder/todo", "B-reminder/noun"], "tokens": ["ezabatu", "biharko", "medikuaren", "gogorarazlea"]}
+{"idx": 706, "tags": ["O", "O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["jarri", "alarma", "iluntzeko", "8etan", "garbigailua", "jartzeko"]}
+{"idx": 707, "tags": ["B-datetime", "I-datetime", "B-weather/attribute", "O", "O", "O", "O"], "tokens": ["aste", "honetan", "euririk", "egin", "behar", "du", "?"]}
+{"idx": 708, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "beste", "alarma", "bat", "arratsaldeko", "7etan"]}
+{"idx": 709, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["ezabatu", "gogorarazle", "guztiak"]}
+{"idx": 710, "tags": ["O", "O", "O"], "tokens": ["gelditu", "alarma", "guztiak"]}
+{"idx": 711, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["ezeztatu", "asteazkenean", "1ean", "medikua", "daukadala"]}
+{"idx": 712, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "gogorarazleak", "."]}
+{"idx": 713, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "O", "O"], "tokens": ["gogorarazi", "ostiralean", "medikuarekin", "hitzordua", "dudala", "."]}
+{"idx": 714, "tags": ["O", "B-datetime", "I-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "goizaldeko", "1eko", "alarma", "1", ":", "30era"]}
+{"idx": 715, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["erakutsi", "klasera", "joateko", "gogorarazlea"]}
+{"idx": 716, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "8", "minutura"]}
+{"idx": 717, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "O"], "tokens": ["gogorarazi", "bihar", "goizeko", "hitzordua", "ezeztatzea"]}
+{"idx": 718, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "eskolako", "alarmak", "jotzeko"]}
+{"idx": 719, "tags": ["O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["gehitu", "20", "minutu", "hurrengo", "alarmari"]}
+{"idx": 720, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "7", ":", "30era"]}
+{"idx": 721, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zer", "eguraldi", "iragarri", "dute", "datorren", "astebururako", "?"]}
+{"idx": 722, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "gogorarazle", "guztiak"]}
+{"idx": 723, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "O", "O", "O"], "tokens": ["gaurko", "alarma", "4", ":", "30etik", "5", ":", "30era", "aldatuko", "duzu", "?"]}
+{"idx": 724, "tags": ["O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["gehitu", "beste", "15", "minutu", "alarmammmerrepikapenari"]}
+{"idx": 725, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["lainotuta", "egongo", "da", "egun", "osoan", "?"]}
+{"idx": 726, "tags": ["O", "O", "B-reminder/noun", "O", "B-datetime"], "tokens": ["esan", "zer", "gogorarazle", "dauden", "biharko"]}
+{"idx": 727, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "arratsaldeko", "6etan", "bihar"]}
+{"idx": 728, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["erakutsi", "eskolako", "lehen", "egunaren", "gogorarazlea", "."]}
+{"idx": 729, "tags": ["O", "B-weather/noun", "O", "O", "B-location", "B-datetime", "O"], "tokens": ["zer", "eguraldi", "egingo", "du", "iru\u00f1ean", "arratsaldean", "?"]}
+{"idx": 730, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 731, "tags": ["B-weather/attribute", "O", "O"], "tokens": ["elurra", "egiteko", "aukera"]}
+{"idx": 732, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "bat", "30", "minutura", "jotzeko", "ostiralean", "goizeko", "8etan"]}
+{"idx": 733, "tags": ["O", "B-datetime", "O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gaurko", "eta", "biharko", "gogorarazle", "guztiak"]}
+{"idx": 734, "tags": ["B-datetime", "I-datetime", "B-weather/attribute", "O", "O"], "tokens": ["aste", "honetan", "elurra", "egingo", "du"]}
+{"idx": 735, "tags": ["O", "O", "O", "B-datetime", "B-location", "O", "B-weather/attribute", "O", "B-weather/attribute", "O"], "tokens": ["zer", "eramango", "dut", "gaur", "hondartzara", ",", "jertsea", "ala", "bikinia", "?"]}
+{"idx": 736, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "bihar", "goizeko", "5", ":", "20rako"]}
+{"idx": 737, "tags": ["B-reminder/noun", "B-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "bihar", "esnea", "erostea"]}
+{"idx": 738, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["badaukat", "alarmarik", "jarrita", "biharko", "?"]}
+{"idx": 739, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "hurrengo", "alarmarako", "?"]}
+{"idx": 740, "tags": ["O", "O", "O", "O", "B-datetime", "B-location", "I-location", "O"], "tokens": ["zer", "eguraldi", "egiten", "du", "gaur", "lapurdiko", "getarian", "?"]}
+{"idx": 741, "tags": ["O", "B-reminder/noun", "B-datetime", "O"], "tokens": ["badut", "gogorarazlerik", "biharko", "?"]}
+{"idx": 742, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "goizeko", "7etan"]}
+{"idx": 743, "tags": ["O", "B-reminder/noun", "O", "O", "B-datetime", "O"], "tokens": ["zenbat", "gogorarazle", "dauzkat", "jarrita", "gaurko", "?"]}
+{"idx": 744, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazleen", "zerrenda"]}
+{"idx": 745, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "B-location", "O"], "tokens": ["zer", "eguraldi", "egiten", "du", "gaur", "donostian", "?"]}
+{"idx": 746, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["jarri", "dut", "alarmarik", "biharko", "?"]}
+{"idx": 747, "tags": ["O", "B-datetime", "B-reminder/todo", "B-reminder/noun"], "tokens": ["erakutsi", "asteazkeneko", "hitzordurako", "gogorarazlea"]}
+{"idx": 748, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 749, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 750, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizeko", "8etara"]}
+{"idx": 751, "tags": ["O", "O"], "tokens": ["ezeztatu", "alarma"]}
+{"idx": 752, "tags": ["O", "O", "O", "O", "O"], "tokens": ["esan", "zer", "alarma", "dauden", "jarrita"]}
+{"idx": 753, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 754, "tags": ["O", "O", "B-datetime"], "tokens": ["errepikatu", "alarma", "bihar"]}
+{"idx": 755, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 756, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "10", "minutu", "barru"]}
+{"idx": 757, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "2", "minutura"]}
+{"idx": 758, "tags": ["O", "B-reminder/noun", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "gogorarazle", "bat", "gaueko", "9etarako"]}
+{"idx": 759, "tags": ["O", "B-datetime", "I-datetime", "O", "B-datetime", "I-datetime"], "tokens": ["aldatu", "goizeko", "5etako", "alarma", "arratsaldeko", "5etara"]}
+{"idx": 760, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "geratzen", "da", "alarmak", "jo", "arte", "?"]}
+{"idx": 761, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["erakutsi", "datorren", "hileko", "alarmak"]}
+{"idx": 762, "tags": ["O", "O"], "tokens": ["ezabatu", "alarmak"]}
+{"idx": 763, "tags": ["O", "B-datetime", "O"], "tokens": ["erakutsi", "astelehenerako", "alarmak"]}
+{"idx": 764, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezabatu", "eskolara", "joateko", "gogorarazlea"]}
+{"idx": 765, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur", "?"]}
+{"idx": 766, "tags": ["O", "O"], "tokens": ["desaktibatu", "alarma"]}
+{"idx": 767, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun", "O", "O"], "tokens": ["erakutsi", "aste", "honetako", "gogorarazle", "guztiak", "."]}
+{"idx": 768, "tags": ["O", "O"], "tokens": ["ezabatu", "alarma"]}
+{"idx": 769, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["gogorarazi", "katakumearentzat", "janaria", "erostea", "."]}
+{"idx": 770, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["gehitu", "larunbata", "goizeko", "alarmari"]}
+{"idx": 771, "tags": ["O", "B-datetime", "I-datetime"], "tokens": ["alarma", "goizeko", "5etan"]}
+{"idx": 772, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "sartuko", "da", "eguzkia"]}
+{"idx": 773, "tags": ["O", "B-reminder/noun", "O", "O", "O"], "tokens": ["zenbat", "gogorarazle", "dauzkat", "aktibatuta", "?"]}
+{"idx": 774, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["jarri", "bigarren", "alarma", "bat", "8etarako"]}
+{"idx": 775, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorazi", "gaur", "gauean", "amari", "deitzea"]}
+{"idx": 776, "tags": ["O", "B-datetime", "I-datetime", "O", "B-datetime"], "tokens": ["aldatu", "goizeko", "7etako", "alarma", "8etara"]}
+{"idx": 777, "tags": ["O", "O", "O", "O"], "tokens": ["alarmarik", "badut", "jarrita", "?"]}
+{"idx": 778, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["itzali", "ostiral", "goizerako", "alarma"]}
+{"idx": 779, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "esnea", "erosteko", "gogorarazlea"]}
+{"idx": 780, "tags": ["O", "B-datetime", "O"], "tokens": ["desaktibatu", "biharko", "alarma"]}
+{"idx": 781, "tags": ["O", "O", "B-datetime", "O"], "tokens": ["badut", "alarmarik", "goizerako", "?"]}
+{"idx": 782, "tags": ["O", "O"], "tokens": ["itzali", "alarma"]}
+{"idx": 783, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "ordu", "batean", "bankura", "joateko", "gogorarazlea"]}
+{"idx": 784, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "arratsaldeko", "5etarako"]}
+{"idx": 785, "tags": ["O", "B-reminder/recurring_period", "B-reminder/noun"], "tokens": ["erakutsi", "eguneroko", "gogorarazlea"]}
+{"idx": 786, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "6etarako"]}
+{"idx": 787, "tags": ["O", "O", "O"], "tokens": ["ez", "errepikatu", "alarmarik"]}
+{"idx": 788, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["erakutsi", "datorren", "asteko", "alarmak"]}
+{"idx": 789, "tags": ["O", "B-reminder/noun", "O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["ezarri", "gogorarazle", "bat", "aiurirekin", "hitz", "egiteko", "."]}
+{"idx": 790, "tags": ["O", "B-reminder/noun"], "tokens": ["erakutsi", "gogorarazlea"]}
+{"idx": 791, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "da", "egunsentia"]}
+{"idx": 792, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 793, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "arratsaldeko", "3etan"]}
+{"idx": 794, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zer", "ordutan", "ilunduko", "du", "gaur"]}
+{"idx": 795, "tags": ["O", "O", "O"], "tokens": ["ezeztatu", "alarma", "guztiak"]}
+{"idx": 796, "tags": ["O", "O", "O", "O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "ohera", "joan", "aurretik", "biharko", "bazkaria", "prest", "uztea"]}
+{"idx": 797, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["kendu", "aste", "honetako", "alarma", "guztiak", "oporretan", "nagoen", "bitartean"]}
+{"idx": 798, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["erakutsi", "une", "honetan", "jarrita", "dauden", "alarmak", "."]}
+{"idx": 799, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["euria", "egingo", "du", "gaur", "?"]}
+{"idx": 800, "tags": ["O", "O"], "tokens": ["berrezarri", "alarma"]}
+{"idx": 801, "tags": ["O", "O"], "tokens": ["erakutsi", "alarma"]}
+{"idx": 802, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "pasatuko", "da", "alarmak", "jotzerako"]}
+{"idx": 803, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["euria", "egingo", "du", "datorren", "astean", "?"]}
+{"idx": 804, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "hau", "15", "minutura"]}
+{"idx": 805, "tags": ["B-weather/attribute", "I-datetime", "O", "O", "B-datetime", "O"], "tokens": ["galtza", "motzak", "jantzi", "ditzaket", "gaur", "?"]}
+{"idx": 806, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 807, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "O"], "tokens": ["gogorarazi", "yoga", "klasea", "dudala"]}
+{"idx": 808, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["utzi", "bertan", "behera", "4", ":", "30eko", "alarma"]}
+{"idx": 809, "tags": ["O", "B-reminder/todo", "B-reminder/recurring_period", "I-reminder/recurring_period", "I-reminder/recurring_period", "B-reminder/todo", "O", "O", "O"], "tokens": ["gogorarazi", "botika", "12", "ordutik", "behin", "hartzea", ",", "hemendik", "aurrera"]}
+{"idx": 810, "tags": ["O", "B-reminder/noun", "O", "B-datetime", "O"], "tokens": ["zer", "gogorarazle", "dauzkat", "gaurko", "?"]}
+{"idx": 811, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "guztiak", "berriro", "7", "minutura"]}
+{"idx": 812, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["desaktibatu", "gogorarazle", "guztiak"]}
+{"idx": 813, "tags": ["O", "O"], "tokens": ["ezabatu", "alarma"]}
+{"idx": 814, "tags": ["O", "O", "B-reminder/todo", "I-reminder/todo", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["ezarri", "gogorarazlea", "fisioaren", "hitzordurako", "ostiral", "honetan", ",", "goizeko", "bederatzi", "eta", "erdietan"]}
+{"idx": 815, "tags": ["O", "B-weather/attribute", "O", "O", "O", "O"], "tokens": ["zenbat", "euri", "egitea", "espero", "da", "?"]}
+{"idx": 816, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["jakin", "nahi", "dut", "zer", "alarma", "dauzkadan", "jarrita", "."]}
+{"idx": 817, "tags": ["O", "B-reminder/recurring_period", "B-reminder/noun", "O"], "tokens": ["ezabatu", "eguneroko", "gogorarazle", "ak"]}
+{"idx": 818, "tags": ["O", "B-weather/attribute", "O", "O", "O", "O", "B-location", "O"], "tokens": ["zenbat", "euri", "egiten", "du", "batez", "beste", "gasteizen", "?"]}
+{"idx": 819, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 820, "tags": ["O", "O", "O", "O"], "tokens": ["ezabatu", "alarma", "guztiak", "."]}
+{"idx": 821, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "O", "O", "O"], "tokens": ["alarma", "bihar", "goizeko", "7etarako", "jarri", "behar", "dut"]}
+{"idx": 822, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["kendu", "gaurko", "gaueko", "10etarako", "alarma"]}
+{"idx": 823, "tags": ["O", "O", "O"], "tokens": ["gelditu", "alarma", "."]}
+{"idx": 824, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 825, "tags": ["O", "B-reminder/todo", "B-reminder/noun", "O", "O", "O", "O", "O"], "tokens": ["erakutsi", "futbolmmmpartidaren", "gogorarazlea", "zer", "ordutan", "jarrita", "daukadan", "."]}
+{"idx": 826, "tags": ["O", "B-weather/noun", "O", "O"], "tokens": ["zer", "tenperatura", "egingo", "du"]}
+{"idx": 827, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["erakutsi", "osteguneko", "gogorarazlea"]}
+{"idx": 828, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "arratsaldeko", "4etako", "alarma"]}
+{"idx": 829, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["gehitu", "alarma", "bat", "larunbatean", ",", "goizeko", "11etan"]}
+{"idx": 830, "tags": ["O", "O", "B-weather/attribute", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zenbat", "cm", "elur", "egingo", "du", "gaur", "gauean", "?"]}
+{"idx": 831, "tags": ["O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "arratsaldeko", "7etan", "."]}
+{"idx": 832, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "goizeko", "7etako", "alarma"]}
+{"idx": 833, "tags": ["B-reminder/todo", "B-reminder/todo", "B-reminder/noun", "O"], "tokens": ["pastela", "enkargatzeko", "gogorarazle", "berria"]}
+{"idx": 834, "tags": ["O", "O", "O"], "tokens": ["ezeztatu", "alarma", "."]}
+{"idx": 835, "tags": ["B-datetime", "B-weather/noun"], "tokens": ["gaurko", "eguraldia"]}
+{"idx": 836, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "10", "minutura"]}
+{"idx": 837, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "ostiraleko", "gogorarazle", "guztiak"]}
+{"idx": 838, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jo", "berriro", "alarma", "guztiak", "5", "minutu", "geroago"]}
+{"idx": 839, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 840, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["jo", "alarma", "berriro", "ordubetera"]}
+{"idx": 841, "tags": ["O", "O", "O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["ez", "egin", "jaramonik", "biharko", "gogorarazleei", "."]}
+{"idx": 842, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["zer", "ordutan", "izango", "da", "egunsentia", "bihar"]}
+{"idx": 843, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["zer", "gogorarazle", "dauzkat"]}
+{"idx": 844, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "bat", "gaur", "gaueko", "10", ":", "30erako"]}
+{"idx": 845, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime", "I-datetime"], "tokens": ["gogorarazi", "telefonoaren", "faktura", "ordaintzea", "datorren", "astean"]}
+{"idx": 846, "tags": ["O", "B-datetime", "O", "O"], "tokens": ["ezeztatu", "igandeko", "alarma", "guztiak"]}
+{"idx": 847, "tags": ["O", "O", "O"], "tokens": ["jo", "berriro", "alarma"]}
+{"idx": 848, "tags": ["O", "B-datetime", "O"], "tokens": ["noiz", "ilunduko", "du"]}
+{"idx": 849, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["errepikatu", "alarma", "goizeko", "zazpiak", "laurden", "gutxiagotan", "astelehenetik", "ostiralera"]}
+{"idx": 850, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 851, "tags": ["O", "B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["zenbat", "elur", "egingo", "du", "gaur", "?"]}
+{"idx": 852, "tags": ["O", "B-weather/noun", "O", "O", "B-location", "B-datetime", "I-datetime", "O"], "tokens": ["zer", "eguraldi", "dago", "iragarrita", "durangon", "datorren", "astean", "?"]}
+{"idx": 853, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "ostegunean", "4etan", "amari", "deitzea", "zorionak", "emateko"]}
+{"idx": 854, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "arratsaldeko", "seiak", "laurden", "gutxitan"]}
+{"idx": 855, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["erakutsi", "amaren", "etxeko", "gogorarazleak"]}
+{"idx": 856, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["errepikatu", "alarma", "beste", "bi", "aldiz", "erreskadan"]}
+{"idx": 857, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 858, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "barru", "joko", "du", "alarmak", "?"]}
+{"idx": 859, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["ezabatu", "gogorarazle", "guztiak"]}
+{"idx": 860, "tags": ["O", "O", "B-reminder/noun", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "O", "B-reminder/todo"], "tokens": ["jarri", "alarma", "gogorarazle", "bat", "astearte", "honetan", "arratsaldeko", "3etan", "dudan", "hitzordurako"]}
+{"idx": 861, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "B-location", "O"], "tokens": ["zer", "tenperatura", "egingo", "du", "gauean", "baionan", "?"]}
+{"idx": 862, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "O"], "tokens": ["zer", "eguraldi", "egingo", "du", "bihar", "?"]}
+{"idx": 863, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["gogorarazi", "nerea", "lagunmmmzerrendatik", "kentzea", "."]}
+{"idx": 864, "tags": ["O", "O", "O", "O", "B-weather/attribute", "O"], "tokens": ["zer", "ordutan", "hasiko", "da", "euria", "?"]}
+{"idx": 865, "tags": ["O", "O", "B-datetime", "O", "O", "B-reminder/noun"], "tokens": ["ezabatu", "duela", "ordubete", "sortu", "dudan", "gogorarazlea"]}
+{"idx": 866, "tags": ["O", "B-reminder/todo", "B-datetime", "B-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "umeak", "4etan", "jasotzeko", "gogorarazlea"]}
+{"idx": 867, "tags": ["O", "B-reminder/reference", "B-reminder/noun"], "tokens": ["ezeztatu", "azken", "gogorarazlea"]}
+{"idx": 868, "tags": ["O", "B-reminder/noun", "O", "B-datetime"], "tokens": ["zer", "gogorarazle", "ditut", "ostegunerako"]}
+{"idx": 869, "tags": ["O", "O"], "tokens": ["erakutsi", "alarmak"]}
+{"idx": 870, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["noiz", "joko", "du", "hurrengo", "eguneko", "alarmak"]}
+{"idx": 871, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["errepikatu", "azken", "alarma", "hilero"]}
+{"idx": 872, "tags": ["O", "B-reminder/noun", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zenbat", "gogorarazle", "dauzkat", "ezarrita", "hilabete", "honetarako", "?"]}
+{"idx": 873, "tags": ["O", "B-reminder/noun"], "tokens": ["ezeztatu", "gogorarazlea"]}
+{"idx": 874, "tags": ["O", "B-datetime", "B-reminder/todo"], "tokens": ["gogorarazi", "larunbateko", "jaia"]}
+{"idx": 875, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "bihar", "mikel", "ikustera", "joateko", "gogorarazlea"]}
+{"idx": 876, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["hemendik", "zenbatera", "joko", "du", "alarmak", "?"]}
+{"idx": 877, "tags": ["B-datetime", "B-weather/attribute", "O", "O", "O"], "tokens": ["arratsaldean", "elurra", "egingo", "du", "?"]}
+{"idx": 878, "tags": ["O", "B-reminder/noun", "O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["jarri", "gogorarazle", "bat", "30", "minutu", "barru", "labea", "itzaltzeko"]}
+{"idx": 879, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["zenbat", "alarma", "daude", "jarrita", "astelehenerako"]}
+{"idx": 880, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "5", "minutuz", "behin", "ordubetean", ",", "goizeko", "5etatik", "aurrera"]}
+{"idx": 881, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 882, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jo", "berriro", "alarma", "guztiak", "5", "minutu", "beranduago"]}
+{"idx": 883, "tags": ["O", "B-reminder/noun", "O", "B-datetime", "O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["jarri", "gogorarazle", "bat", "ostiralerako", ",", "ama", "aireportuan", "jaso", "behar", "dudala", "gogorarazteko"]}
+{"idx": 884, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "O"], "tokens": ["zer", "tenperatura", "egingo", "du", "bihar", "?"]}
+{"idx": 885, "tags": ["O", "B-datetime", "B-reminder/noun", "O", "O"], "tokens": ["ezeztatu", "biharko", "gogorarazle", "guztiak", "."]}
+{"idx": 886, "tags": ["O", "O", "O", "O"], "tokens": ["alarma", "berriro", "jo", "geroago"]}
+{"idx": 887, "tags": ["O", "O", "B-reminder/noun", "O", "B-datetime"], "tokens": ["esan", "zer", "gogorarazle", "ditudan", "biharko"]}
+{"idx": 888, "tags": ["O", "O", "O", "O", "B-weather/attribute", "B-datetime", "I-datetime", "O"], "tokens": ["zer", "ordutan", "sartuko", "da", "enbata", "gaur", "arratsaldean", "?"]}
+{"idx": 889, "tags": ["O", "O", "B-reminder/reference", "B-reminder/noun", "O"], "tokens": ["zein", "da", "hurrengo", "gogorarazlea", "?"]}
+{"idx": 890, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "erosketak", "egiteko", "gogorarazlea"]}
+{"idx": 891, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "arratsaldeko", "3etan", "autoa", "garbitzeko", "gogorarazlea"]}
+{"idx": 892, "tags": ["O", "O", "B-datetime", "O", "O"], "tokens": ["alarma", "hau", "asteburuetan", "bakarrik", "errepikatu"]}
+{"idx": 893, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "ogia", "erostera", "joateko", "gogorarazlea"]}
+{"idx": 894, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "alarma", "daude", "jarrita", "?"]}
+{"idx": 895, "tags": ["O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["atzeratu", "alarma", "30", "segundo", "."]}
+{"idx": 896, "tags": ["O", "O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "O"], "tokens": ["ez", "gogorarazi", "ostiralean", "azokara", "joatea", "."]}
+{"idx": 897, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "sagarrak", "erosteko", "gogorarazlea"]}
+{"idx": 898, "tags": ["O", "O"], "tokens": ["uneko", "alarmak"]}
+{"idx": 899, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "gaur", "arratsaldeko", "7etan"]}
+{"idx": 900, "tags": ["O", "B-datetime", "O"], "tokens": ["ezeztatu", "astelehenerako", "alarma"]}
+{"idx": 901, "tags": ["O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak"]}
+{"idx": 902, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jo", "berriro", "alarma", "15", "minutu", "barru", "."]}
+{"idx": 903, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezabatu", "arratsaldeko", "5etako", "alarma"]}
+{"idx": 904, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmarako"]}
+{"idx": 905, "tags": ["O", "O", "B-reminder/reference", "B-reminder/noun"], "tokens": ["zein", "da", "hurrengo", "gogorarazlea"]}
+{"idx": 906, "tags": ["O", "B-reminder/noun", "O", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak", "."]}
+{"idx": 907, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O", "O"], "tokens": ["jo", "berriro", "geroxeago", "19", ":", "45eko", "alarma", "."]}
+{"idx": 908, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "15", "minutura"]}
+{"idx": 909, "tags": ["O", "B-reminder/noun", "O", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak", "."]}
+{"idx": 910, "tags": ["B-reminder/todo", "I-reminder/todo", "B-datetime", "O", "O"], "tokens": ["erosketak", "egitera", "9etan", ",", "gogorarazi"]}
+{"idx": 911, "tags": ["O", "O", "O", "O"], "tokens": ["erakutsi", "alarma", "guztiak", "."]}
+{"idx": 912, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "9etan"]}
+{"idx": 913, "tags": ["B-weather/attribute", "O", "O", "O", "O"], "tokens": ["berokia", "hartzea", "komeni", "da", "?"]}
+{"idx": 914, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "dut", "alarmak", "jo", "aurretik", "?"]}
+{"idx": 915, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gaurko", "gogorarazle", "guztiak"]}
+{"idx": 916, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "bihar", "goizeko", "alarma"]}
+{"idx": 917, "tags": ["O", "O", "B-datetime", "O", "O"], "tokens": ["ezarri", "alarma", "11etan", "postetxera", "joateko"]}
+{"idx": 918, "tags": ["O", "B-reminder/todo", "B-reminder/noun"], "tokens": ["ezeztatu", "afariaren", "gogorarazlea"]}
+{"idx": 919, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["erakutsi", "biharko", "gogorarazleak"]}
+{"idx": 920, "tags": ["O", "O", "B-weather/noun", "O", "O", "B-datetime", "I-datetime"], "tokens": ["esan", "zer", "eguraldi", "egingo", "duen", "bihar", "goizean"]}
+{"idx": 921, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["zenbat", "alarma", "dauzkat", "jarrita", "biharko", "?"]}
+{"idx": 922, "tags": ["B-weather/attribute", "O", "O", "B-datetime", "O"], "tokens": ["euririk", "eman", "dute", "ostegunerako", "?"]}
+{"idx": 923, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "ez", "diodala", "mezurik", "bidali", "behar", "nire", "mutilmmmlagun", "ohiari", "etxera", "iristen", "naizenean"]}
+{"idx": 924, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorazi", "gaur", "gauean", "afaria", "egitea"]}
+{"idx": 925, "tags": ["O", "B-datetime", "O"], "tokens": ["desaktibatu", "eguneroko", "alarma"]}
+{"idx": 926, "tags": ["B-reminder/noun", "O", "O", "O"], "tokens": ["gogorarazlea", "ezarrita", "dago", "?"]}
+{"idx": 927, "tags": ["O", "O", "O"], "tokens": ["aktibatu", "alarmak", "."]}
+{"idx": 928, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "gogorarazle", "guztiak"]}
+{"idx": 929, "tags": ["O", "O", "O", "O", "B-datetime"], "tokens": ["noiz", "sartzen", "da", "eguzkia", "gaur"]}
+{"idx": 930, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun", "O"], "tokens": ["erakutsi", "datorren", "asteko", "gogorarazleak", "."]}
+{"idx": 931, "tags": ["B-weather/attribute", "O", "O", "B-datetime"], "tokens": ["eguzkitsu", "egongo", "da", "gaur"]}
+{"idx": 932, "tags": ["O", "O", "O", "O"], "tokens": ["esan", "zer", "alarma", "dauzkadan"]}
+{"idx": 933, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "zaio", "alarmari"]}
+{"idx": 934, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "bihar", "goizeko", "alarma"]}
+{"idx": 935, "tags": ["B-datetime", "B-weather/attribute", "O", "O", "O"], "tokens": ["gauean", "euria", "egingo", "du", "?"]}
+{"idx": 936, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jo", "berriro", "alarma", "hau", "hemendik", "ordubetera", "."]}
+{"idx": 937, "tags": ["O", "B-reminder/noun", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["jarri", "gogorarazlea", "bidean", "albaitariarenean", "gelditzeko"]}
+{"idx": 938, "tags": ["B-weather/attribute", "O", "O", "O"], "tokens": ["euria", "egingo", "du", "?"]}
+{"idx": 939, "tags": ["O", "O", "O", "O", "O"], "tokens": ["jo", "berriro", "uneko", "alarma", "geroxeago"]}
+{"idx": 940, "tags": ["O", "B-datetime", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "gaurko", "gogorarazle", "guztiak"]}
+{"idx": 941, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "15", "minutura"]}
+{"idx": 942, "tags": ["B-datetime", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O", "O", "O"], "tokens": ["osteguneko", "medikuaren", "hitzordurako", "gogorarazlerik", "jarri", "dut", "?"]}
+{"idx": 943, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "alarma", "dauzkat", "aktibatuta", "?"]}
+{"idx": 944, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "20", "minutura"]}
+{"idx": 945, "tags": ["O", "O", "B-datetime"], "tokens": ["errepikatu", "alarmak", "astero"]}
+{"idx": 946, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["ezeztatu", "biharko", "gogorarazleak"]}
+{"idx": 947, "tags": ["O", "O", "O", "B-weather/noun", "O", "B-datetime"], "tokens": ["zein", "izango", "da", "tenperatura", "minimoa", "gaur"]}
+{"idx": 948, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizeko", "seietatik", "bostetara"]}
+{"idx": 949, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "bihar", "zapatak", "jasotzeko", "gogorarazlea", "."]}
+{"idx": 950, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime"], "tokens": ["zer", "eguraldi", "egingo", "du", "bihar"]}
+{"idx": 951, "tags": ["O", "B-datetime", "I-datetime", "O", "O", "O", "O"], "tokens": ["atzeratu", "6", "minutu", "aktibo", "dagoen", "lehenengo", "alarma"]}
+{"idx": 952, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["erakutsi", "gaur", "arratsaldeko", "alarmak"]}
+{"idx": 953, "tags": ["O", "O"], "tokens": ["gelditu", "alarma"]}
+{"idx": 954, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "15", "minutura"]}
+{"idx": 955, "tags": ["O", "B-datetime", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "gaurko", "bidaiarako", "janaria", "eta", "edaria", "erostea"]}
+{"idx": 956, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "B-reminder/todo", "O"], "tokens": ["gogorarazi", "bihar", "arratsaldeko", "6etan", "hitzordua", "dudala"]}
+{"idx": 957, "tags": ["O", "O", "O", "O", "O"], "tokens": ["noiz", "joko", "du", "hurrengo", "alarmak"]}
+{"idx": 958, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "daukat", "jarrita", "alarman", "?"]}
+{"idx": 959, "tags": ["O", "B-datetime", "I-datetime", "B-reminder/noun", "O"], "tokens": ["erakutsi", "asteburu", "honetako", "gogorarazle", "guztiak"]}
+{"idx": 960, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak"]}
+{"idx": 961, "tags": ["O", "O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["gelditu", "alarma", "15", "minutu", "barru", "."]}
+{"idx": 962, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-datetime"], "tokens": ["gogorarazi", "komuneko", "papera", "erostea", "bihar"]}
+{"idx": 963, "tags": ["O", "O", "O", "B-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "bat", "astelehenetan", "eta", "astearteetan", "goizeko", "3etan"]}
+{"idx": 964, "tags": ["O", "O", "B-reminder/reference", "B-reminder/noun", "O"], "tokens": ["noiz", "da", "hurrengo", "gogorarazlea", "?"]}
+{"idx": 965, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["alarma", "jarrita", "dago", "biharko", "?"]}
+{"idx": 966, "tags": ["O", "B-reminder/noun", "O", "O"], "tokens": ["zer", "gogorarazle", "dauzkat", "?"]}
+{"idx": 967, "tags": ["O", "B-datetime", "O", "B-datetime", "I-datetime", "O"], "tokens": ["atzeratu", "goizeko", "alarma", "30", "minutuz", "."]}
+{"idx": 968, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "geratzen", "zaio", "alarmari"]}
+{"idx": 969, "tags": ["O", "B-reminder/noun", "O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["ezarri", "gogorarazle", "bat", "okindegian", "ogia", "erosteko", "."]}
+{"idx": 970, "tags": ["O", "O", "O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["gogorarazi", "irten", "aurretik", "mapan", "bidea", "begiratzea", "."]}
+{"idx": 971, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-reminder/noun", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "ohera", "joateko", "gogorarazlea", "10", ":", "30ean"]}
+{"idx": 972, "tags": ["O", "B-datetime", "O"], "tokens": ["ezeztatu", "astearteko", "alarma"]}
+{"idx": 973, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "O"], "tokens": ["gogorarazi", "etxerakoan", "xanpua", "erostea", "."]}
+{"idx": 974, "tags": ["O", "B-weather/attribute", "O", "O"], "tokens": ["noiz", "atertuko", "du", "?"]}
+{"idx": 975, "tags": ["B-weather/noun", "B-location", "B-datetime", "I-datetime"], "tokens": ["eguraldia", "londresen", "datorren", "astean"]}
+{"idx": 976, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["gogorarazi", "amari", "deitzea", "5", "minutu", "barru"]}
+{"idx": 977, "tags": ["O", "B-reminder/noun", "O", "O"], "tokens": ["erakutsi", "gogorarazleen", "zerrenda", "."]}
+{"idx": 978, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["erakutsi", "aktibo", "dauden", "alarma", "guztiak", "."]}
+{"idx": 979, "tags": ["O", "B-datetime", "O"], "tokens": ["ezeztatu", "biharko", "alarma"]}
+{"idx": 980, "tags": ["O", "O", "B-reminder/noun", "O", "B-datetime", "I-datetime", "B-reminder/todo", "I-reminder/todo", "O"], "tokens": ["jarri", "beste", "gogorarazle", "bat", "bihar", "1ean", "lanera", "joateko", "."]}
+{"idx": 981, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "goizeko", "7etan", ",", "astelehenetik", "ostiralera", "."]}
+{"idx": 982, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "korrika", "egitera", "joateko", "gogorarazle", "guztiak"]}
+{"idx": 983, "tags": ["O", "B-reminder/reference", "B-reminder/noun", "O"], "tokens": ["ezeztatu", "hurrengo", "gogorarazlea", "."]}
+{"idx": 984, "tags": ["O", "B-reminder/noun"], "tokens": ["ezeztatu", "gogorarazleak"]}
+{"idx": 985, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "alarma", "daude", "jarrita", "?"]}
+{"idx": 986, "tags": ["O", "B-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "zakarmmmpoltsak", "erostea"]}
+{"idx": 987, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "6etarako"]}
+{"idx": 988, "tags": ["O", "B-reminder/noun", "O", "O"], "tokens": ["erakutsi", "gogorarazle", "guztiak", "."]}
+{"idx": 989, "tags": ["O", "O", "O", "O", "O"], "tokens": ["noiz", "joko", "du", "hurrengo", "alarmak"]}
+{"idx": 990, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["jo", "berriro", "alarma", "10", "minutura", "."]}
+{"idx": 991, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "8etarako"]}
+{"idx": 992, "tags": ["O", "B-datetime", "B-reminder/noun"], "tokens": ["bistaratu", "biharko", "gogorarazlea"]}
+{"idx": 993, "tags": ["O", "B-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo", "I-reminder/todo"], "tokens": ["gogorarazi", "etxerako", "bidean", "gasolina", "hartu", "behar", "dudala"]}
+{"idx": 994, "tags": ["O", "B-reminder/noun", "O", "B-datetime"], "tokens": ["zer", "gogorarazle", "dauzkat", "gaur"]}
+{"idx": 995, "tags": ["O", "O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "bat", "egun", "osoan", "4", "orduz", "behin", "jotzeko"]}
+{"idx": 996, "tags": ["O", "B-weather/noun", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["zer", "eguraldi", "egingo", "du", "gaur", "gauean", "?"]}
+{"idx": 997, "tags": ["O", "B-reminder/noun", "O", "B-reminder/reference", "O"], "tokens": ["zer", "gogorarazle", "datoz", "hurrengo", "?"]}
+{"idx": 998, "tags": ["O", "B-datetime", "I-datetime", "O", "O", "O", "O"], "tokens": ["alarmak", "8", "minutura", "berriro", "jotzea", "nahi", "dut"]}
+{"idx": 999, "tags": ["O", "O", "O", "O", "B-datetime", "O", "O"], "tokens": ["zer", "ordutarako", "dago", "jarrita", "asteleheneko", "alarma", "?"]}
+{"idx": 1000, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "beste", "10", "minutura"]}
+{"idx": 1001, "tags": ["B-datetime", "I-datetime", "B-weather/attribute", "I-weather/attribute", "B-weather/noun", "O", "O", "O", "O", "O", "O"], "tokens": ["aste", "honetan", "hogeita", "hamar", "gradutik", "gora", "egingo", "du", "egunen", "batean", "?"]}
+{"idx": 1002, "tags": ["O", "B-datetime", "I-datetime", "O", "O"], "tokens": ["ezeztatu", "hurrengo", "asterako", "alarma", "guztiak"]}
+{"idx": 1003, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jo", "berriro", "alarma", "10", "minutu", "barru", "."]}
+{"idx": 1004, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "minutu", "falta", "dira", "alarmak", "jotzeko"]}
+{"idx": 1005, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "falta", "da", "alarmak", "jotzeko", "?"]}
+{"idx": 1006, "tags": ["O", "B-datetime", "O"], "tokens": ["ezeztatu", "biharko", "alarma"]}
+{"idx": 1007, "tags": ["O", "O", "O", "O"], "tokens": ["ezeztatu", "uneko", "alarma", "."]}
+{"idx": 1008, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "pasatuko", "da", "alarmak", "jo", "aurretik", "?"]}
+{"idx": 1009, "tags": ["O", "O"], "tokens": ["ezeztatu", "alarma"]}
+{"idx": 1010, "tags": ["O", "O", "O", "B-datetime", "O"], "tokens": ["alarmarik", "badut", "jarrita", "gaurko", "?"]}
+{"idx": 1011, "tags": ["O", "O", "O", "O"], "tokens": ["noiz", "da", "hurrengo", "alarma"]}
+{"idx": 1012, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "bihar", "goizeko", "alarma"]}
+{"idx": 1013, "tags": ["B-weather/attribute", "O", "O", "O", "B-datetime"], "tokens": ["elurrik", "egin", "behar", "du", "gaur"]}
+{"idx": 1014, "tags": ["O", "O", "O", "O", "B-datetime", "O", "O"], "tokens": ["zer", "ordutarako", "dago", "jarrita", "bihar", "alarma", "?"]}
+{"idx": 1015, "tags": ["O", "B-datetime", "O", "O"], "tokens": ["ezeztatu", "ostiraleko", "alarma", "guztiak"]}
+{"idx": 1016, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O"], "tokens": ["alarmarik", "badut", "jarrita", "goizeko", "7etarako", "?"]}
+{"idx": 1017, "tags": ["O", "O", "O", "B-datetime"], "tokens": ["alarmak", "jo", "dezala", "8etan"]}
+{"idx": 1018, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "arratsaldeko", "3etan", "egunero"]}
+{"idx": 1019, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "gaur", "arratsaldeko", "6etako", "alarma"]}
+{"idx": 1020, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "alarma", "dauzkat", "jarrita", "?"]}
+{"idx": 1021, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "18", ":", "45era"]}
+{"idx": 1022, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "alarma", "goizeko", "5etatik", "arratsaldeko", "5etara"]}
+{"idx": 1023, "tags": ["O", "B-datetime", "O"], "tokens": ["aldatu", "biharko", "alarma"]}
+{"idx": 1024, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jo", "berriro", "alarma", "10", "minutu", "barru", "."]}
+{"idx": 1025, "tags": ["O", "B-datetime", "O"], "tokens": ["ezabatu", "goizeko", "alarma"]}
+{"idx": 1026, "tags": ["O", "O", "O", "O", "B-datetime", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "goizeko", "alarmak", "jotzeko", "?"]}
+{"idx": 1027, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "bat", "gaur", "goizeko", "11etan", "jotzeko"]}
+{"idx": 1028, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 1029, "tags": ["O", "O", "O"], "tokens": ["eten", "alarma", "guztiak"]}
+{"idx": 1030, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["ezeztatu", "nire", "telefonoan", "aktibatuta", "dauden", "alarma", "guztiak", "."]}
+{"idx": 1031, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "ordu", "falta", "dira", "alarmak", "jotzeko"]}
+{"idx": 1032, "tags": ["O", "O", "O", "O", "B-datetime", "O"], "tokens": ["zer", "ordutan", "dago", "jarrita", "biharko", "alarma"]}
+{"idx": 1033, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["noiz", "joko", "du", "hurrengo", "alarmak", "?"]}
+{"idx": 1034, "tags": ["O", "O", "O", "O", "O", "B-datetime", "O"], "tokens": ["esan", "zer", "alarma", "dauzkadan", "jarrita", "gaurko", "."]}
+{"idx": 1035, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "goizeko", "9etako", "alarma"]}
+{"idx": 1036, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["ezabatu", "gaur", "arratsaldeko", "7etako", "alarma"]}
+{"idx": 1037, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "8etan", ",", "astelehenetik", "ostiralera"]}
+{"idx": 1038, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 1039, "tags": ["O", "B-reminder/noun", "O"], "tokens": ["erakutsi", "gogorarazlea", "."]}
+{"idx": 1040, "tags": ["O", "O", "O"], "tokens": ["itzali", "alarma", "guztiak"]}
+{"idx": 1041, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O", "O"], "tokens": ["jarri", "alarma", "bat", "gaur", "arratsaldeko", "3etan", "jotzeko", "."]}
+{"idx": 1042, "tags": ["O", "B-datetime", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "7etako", "alarma", "berriro", "45", "minutu", "geroago"]}
+{"idx": 1043, "tags": ["O", "O"], "tokens": ["ezeztatu", "alarma"]}
+{"idx": 1044, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "10", "minutura"]}
+{"idx": 1045, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "O", "O", "O", "O", "O"], "tokens": ["jarri", "alarma", "bat", "astearte", "goizeko", "11etan", ",", "\u201c", "medikua", "\u201d", "izenekoa"]}
+{"idx": 1046, "tags": ["O", "B-datetime", "I-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "goizeko", "5etako", "alarma", "5", ":", "30era"]}
+{"idx": 1047, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "bigarren", "alarmak", "jotzeko", "?"]}
+{"idx": 1048, "tags": ["O", "O", "O"], "tokens": ["desaktibatu", "alarma", "guztiak"]}
+{"idx": 1049, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["hemendik", "zenbatera", "joko", "du", "alarmak", "?"]}
+{"idx": 1050, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "hamar", "minutuz", "behin"]}
+{"idx": 1051, "tags": ["O", "O", "O", "O", "O"], "tokens": ["erakutsi", "dauden", "alarma", "guztiak", "."]}
+{"idx": 1052, "tags": ["O", "B-datetime", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "biharko", "alarma", "zortziak", "eta", "laurdenetatik", "bederatziak", "eta", "laurdenetara"]}
+{"idx": 1053, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "ordu", "falta", "dira", "alarmak", "jotzeko"]}
+{"idx": 1054, "tags": ["O", "O", "O", "O"], "tokens": ["jo", "berriro", "alarma", "geroxeago"]}
+{"idx": 1055, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aktibatu", "alarma", "bat", "egunero", "eguerdiko", "2etan"]}
+{"idx": 1056, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "berriro", "alarma", "20", "minutura"]}
+{"idx": 1057, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizeko", "7etarako"]}
+{"idx": 1058, "tags": ["O", "O", "O", "O"], "tokens": ["zenbat", "alarma", "dauzkat", "jarrita"]}
+{"idx": 1059, "tags": ["O", "B-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "goizeko", "7etako", "alarma"]}
+{"idx": 1060, "tags": ["O", "O", "O", "O"], "tokens": ["ezikusi", "egin", "alarma", "guztiei"]}
+{"idx": 1061, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "joko", "du", "alarmak"]}
+{"idx": 1062, "tags": ["O", "O", "O", "O"], "tokens": ["alarma", "aldatu", "nahi", "dut"]}
+{"idx": 1063, "tags": ["O", "O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jo", "arte"]}
+{"idx": 1064, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["jarri", "alarma", "hemendik", "3", "ordura", "jotzeko"]}
+{"idx": 1065, "tags": ["O", "B-datetime", "O", "O"], "tokens": ["ezeztatu", "larunbateko", "alarma", "."]}
+{"idx": 1066, "tags": ["O", "O", "O", "B-datetime", "I-datetime", "O", "O", "O"], "tokens": ["ilemmmapaindegira", "joateko", "alarma", "eguerdiko", "12etan", "jarri", "nahi", "nuke"]}
+{"idx": 1067, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizaldeko", "1etarako", "asteartean"]}
+{"idx": 1068, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["aldatu", "gaurko", "arratsaldeko", "5etako", "alarma", "5", ":", "30era"]}
+{"idx": 1069, "tags": ["O", "O", "O", "B-datetime", "I-datetime"], "tokens": ["jo", "alarma", "berriro", "10", "minutura"]}
+{"idx": 1070, "tags": ["O", "B-datetime", "I-datetime", "I-datetime", "O"], "tokens": ["ezeztatu", "bihar", "goizeko", "11etarako", "alarma"]}
+{"idx": 1071, "tags": ["O", "O", "B-datetime"], "tokens": ["desaktibatu", "alarma", "asteburuetan"]}
+{"idx": 1072, "tags": ["O", "O"], "tokens": ["ezeztatu", "alarmak"]}
+{"idx": 1073, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zer", "ordutarako", "dago", "jarrita", "alarma"]}
+{"idx": 1074, "tags": ["O", "O", "B-datetime", "I-datetime"], "tokens": ["jarri", "alarma", "goizaldeko", "4etan"]}
+{"idx": 1075, "tags": ["O", "O", "O"], "tokens": ["aldatu", "alarmaren", "ordua"]}
+{"idx": 1076, "tags": ["O", "O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "falta", "da", "alarmak", "jotzeko"]}
+{"idx": 1077, "tags": ["O", "O"], "tokens": ["erakutsi", "alarmak"]}
+{"idx": 1078, "tags": ["O", "O", "O", "O", "O"], "tokens": ["zenbat", "denbora", "3", "alarmak", "jotzeko"]}
+{"idx": 1079, "tags": ["O", "O", "O", "O", "O", "O", "O", "O"], "tokens": ["zer", "ordutan", "daukat", "jarrita", "ohera", "joateko", "alarma", "?"]}
+{"idx": 1080, "tags": ["O", "O", "B-datetime", "I-datetime", "I-datetime"], "tokens": ["jo", "alarma", "bi", "ordu", "barru"]}
+{"idx": 1081, "tags": ["O", "O", "O"], "tokens": ["ezeztatu", "alarma", "guztiak"]}
+{"idx": 1082, "tags": ["O", "B-datetime", "O"], "tokens": ["ezeztatu", "astearteko", "alarma"]}
+{"idx": 1083, "tags": ["O", "O"], "tokens": ["erakutsi", "alarmak"]}
+{"idx": 1084, "tags": ["O", "O", "O", "O", "B-datetime", "I-datetime", "I-datetime", "I-datetime"], "tokens": ["jarri", "beste", "alarma", "bat", "biharko", ",", "arratsaldeko", "7etarako"]}
+{"idx": 1085, "tags": ["O", "O", "O", "O", "O"], "tokens": ["esan", "zer", "alarma", "dauzkadan", "jarrita"]}
+{"idx": 1086, "tags": ["O", "O"], "tokens": ["desaktibatu", "alarma"]}
+{"idx": 1087, "tags": ["O", "B-datetime", "O", "O", "O", "O"], "tokens": ["erakutsi", "biharko", "jarrita", "dauden", "alarmak", "."]}

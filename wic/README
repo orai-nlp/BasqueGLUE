@@ -1,0 +1,91 @@
+===================================================
+ WiC for Basque 
+===================================================
+
+Word in Context or WiC (Pilehvar and Camacho-Collados, 2019) is a word sense disambiguation (WSD)
+task, designed as a particular form of sentence pair binary classification. 
+
+Given two text snippets and a polyse mous word that appears in both of them (the span of
+the word is marked in both snippets), the task is to de termine whether the word has the same 
+sense in both sentences. Performance is evaluated using accuracy.
+
+We generated a dataset taking EPEC-EuSemcor (Pociello et al., 2011) corpus as a starting point. 
+EPEC-EuSemcor is a sense-tagged corpus for Basque. This corpus comprises a set of occurrences of 
+nouns which have been annotated with Basque WordNet v1.6 senses (Pociello et al., 2011). It contains 
+42,615 occurrences of nouns manually annotated, corresponding to the 407 most frequent Basque nouns. 
+We only made use of occurrences from context sentences of 10-50 words in length.
+
+The Basque WiC dataset follows the design of the English WiC dataset (Pilehvar and Camacho-Collados, 2019), 
+pairing context sentences for each noun to create the instances of the classification task.
+
+We adopted the same strategy as in the English dataset to boost the clarity of the dataset and removed all
+pairs whose senses were first degree connections in the WordNet semantic graph, including sister senses,
+and those which belong to the same supersense. For this pruning we used a mapping from Wordnet v1.6 to
+Wordnet v3.0, as it is customary for other datasets related to WSD (Raganato et al., 2017).
+
+The constraint of not having repeated contextual sentences was enforced across the test and development
+sets. 
+
+Thus, we set apart 1,400 and 600 instances for the test and development sets, respectively.
+The remaining pairs whose context sentences did not overlap with the test and development sets formed our
+training data (where we allow the repetition of the context sentences, to increase the training data size).
+Lastly, we ensured that all the splits are balanced for positive and negative examples.
+
+Dataset format and distribution
+----------------
+
+# The dataset is divided into three files: train / test and validation splits. 
+
+408,559 train.jsonl
+600 val.jsonl 
+1400 test.jsonl
+
+
+Authors
+-----------
+Gorka Urbizu , Iñaki San Vicente and Xabier Saralegi
+
+Affiliation of the authors: 
+Elhuyar Foundation
+
+
+
+
+Licensing
+-------------
+Copyright (C) by Elhuyar Foundation. 
+This resource is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC-BY-NC-SA). 
+The full details of this license can be found at http://creativecommons.org/licenses/by/4.0/legalcode
+
+
+Acknowledgements
+-------------------
+If you use this dataset please cite the following paper:
+
+- G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. BasqueGLUE: A Natural Language Understanding Benchmark for Basque. In proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022). June, 2022. Marseille, France
+
+
+
+
+Contact information
+-----------------------
+Gorka Urbizu, Iñaki San Vicente: {g.urbizu,i.sanvicente}@elhuyar.eus
+
+
+
+References
+--------------
+
+E. Pociello, E. Agirre, I. Aldezabal. Methodology and construction of
+the Basque WordNet. Language Resources and Evaluation, vol. 45, issue
+2, pp 121-142, Springer Netherlands. 2011
+
+Pilehvar, M. T. and Camacho-Collados, J. (2019).
+Wic: the word-in-context dataset for evaluating context-sensitive meaning representations. 
+In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational
+Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 1267–1273.
+
+Raganato, A., Camacho-Collados, J., and Navigli, R. (2017). 
+Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison.
+In Proceedings of the 15th Conference of the European Chapter of the Association for Computational
+Linguistics: Volume 1, Long Papers, pages 99–110. Association for Computational Linguistics.

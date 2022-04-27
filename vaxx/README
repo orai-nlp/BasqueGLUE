@@ -1,0 +1,41 @@
+********************************************************************************************
+* VaxxStance / Going Beyond Text in Crosslingual Stance Detection @ IberLEF 2021 Training Data
+*
+* https://vaxxstance.github.io/
+*
+* Task organizers:
+*
+* Contact: https://github.com/vaxxstance/vaxxstance.github.io/discussions
+*
+* Citation: Rodrigo Agerri, Roberto Centeno, María Espinosa, Joseba Fernández de Landa, Álvaro Rodrigo (2021). [VaxxStance@IberLEF 2021: Overview of the Task on Going Beyond Text in Cross-Lingual Stance Detection](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6387/3807). Procesamiento del Lenguaje Natural, 67, pp 173-181.
+
+********************************************************************************************
+
+
+## Textual Data
+
++ Basque train.jsonl: 864 tweets (179 AGAINST, 255 FAVOR and 430 NONE)
++ Basque val.jsonl: 206 tweets (40 AGAINST, 72 FAVOR and 94 NONE)
++ Basque test.jsonl: 312 tweets (92 AGAINST, 85 FAVOR and 135 NONE)
+
+
+The data format for the train and test textual data is the following:
+
++ text: the content of the message
++ label: AGAINST, FAVOR or NONE
+
+
+
+## License
+
+This resource is distributed for research purposes, and includes both the content of the tweets as well as the manual annotations of entity level polarity of each tweet is written in.  The content of the tweets is distributed by adhering to the H.2(a) clause of Twitter's Developer Agreement, which allows us to distribute a tweet collection of no more than 50,000 tweets: https://dev.twitter.com/overview/terms/agreement-and-policy#f-be-a-good-partner-to-twitter. The content of the tweets, hence, remains under Twitter's license (see I.B above). The manual annotations we provide along with these tweets are released under the Creative Commons Attribution 4.0 International Public License (CC-BY). The full details of this license can be found at http://creativecommons.org/licenses/by/4.0/legalcode
+
+
+
+
+********************************************************************************************
+
+This is a portion of the original vaxxstance dataset adapted for the BasqueGLUE benchmark;
+for contextual data about the tweets and the Spanish version of the corpus:
+
+* https://vaxxstance.github.io/

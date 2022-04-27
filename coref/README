@@ -1,0 +1,80 @@
+===================================================
+ EpecKorrefBin: Basque Coreference Binary Corpus 
+===================================================
+
+EPEC-KORREF-Bin is a dataset derived from EPEC-KORREF (Soraluze et al.), a corpus of Basque news documents with 
+manually annotated mentions and coreference chains, which we have been converted into a binary classification task.
+
+
+Coreference resolution involves clustering mentions into entities. Thus, we decided to convert it into a binary 
+classification problem, adopting the same format used for the Winograd Schema Challenge (WSC) task (Levesque et al., 2012).
+In this new task, the model has to predict whether two mentions from a text, which can be pronouns, nouns or noun phrases, 
+are referring to the same entity. We adapted EPEC-KORREF to this task, and we renamed this dataset as EpecKorrefBin. 
+We limited mention pairs to those in the same sentence or consecutive sentences.
+
+To create negative examples, we selected mention pairs which included 1 pronoun or have the same mention
+type (e.g. both being proper nouns for locations). Then, in an attempt to make the task more challenging, 
+we filtered out the most similar mention pairs among positive examples and also those which were most different
+from the negative ones. Levenshtein distance for positive examples and token set ratio for negatives were
+used as string similarity measures. Finally, we ensured that all the splits (train/dev/test) are balanced for 
+positive and negative examples.
+
+Dataset format and distribution
+----------------
+
+# The dataset is divided into three files: train / test and validation splits. 
+
+986 train.jsonl
+320 val.jsonl 
+587 test.jsonl
+
+
+Authors
+-----------
+Gorka Urbizu, Iñaki San Vicente and Xabier Saralegi
+
+
+Affiliation of the authors: 
+Elhuyar Foundation
+
+
+
+
+Licensing
+-------------
+Copyright (C) by Elhuyar Foundation. 
+This resource is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC-BY-NC-SA). 
+The full details of this license can be found at http://creativecommons.org/licenses/by/4.0/legalcode
+
+
+
+
+
+Acknowledgements
+-------------------
+If you use this dataset please cite the following paper:
+
+- G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. BasqueGLUE: A Natural Language Understanding Benchmark for Basque. In proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022). June, 2022. Marseille, France
+
+ 
+
+
+
+Contact information
+-----------------------
+Gorka Urbizu, Iñaki San Vicente: {g.urbizu,i.sanvicente}@elhuyar.eus
+
+
+
+References
+--------------
+
+A. Soraluze, O. Arregi, X. Arregi, K. Ceberio, A. Díaz de
+Ilarraza. Mention Detection: First Steps in the Development of a
+Basque Coreference Resolution System. In: Proceedings of KONVENS 2012,
+pp. 128-136, OGAI. 2012
+
+Levesque, H., Davis, E., and Morgenstern, L. (2012).
+The winograd schema challenge. In Thirteenth International Conference 
+on the Principles of Knowledge Representation and Reasoning. Citeseer.
+

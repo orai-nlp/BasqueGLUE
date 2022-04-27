@@ -1,0 +1,68 @@
+========================================================
+ Basque Named Entities Corpus for in domain Basque NERC
+========================================================
+
+This dataset contains sentences from the news domain with manually annotated 
+named entities. The data is the merge of EIEC (a dataset of a collection of 
+news wire articles from Euskaldunon Egunkaria newspaper, (Alegria et al. 2004)), 
+and newly annotated data from naiz.eus.
+
+# Dataset format and distribution
+# ----------------
+
+# The dataset is divided into three files: train / test and validation splits. 
+
+51,539 train.jsonl (News)
+12,936 val.jsonl (News)
+35,855 test.jsonl (News)
+
+Tagged named entities are classified into 4 categories: person (PER),
+location (LOC), organization (ORG) and other (MISC) named entities that
+do not belong to the previous 3 groups.
+
+
+Authors
+-----------
+Gorka Urbizu, Iñaki San Vicente and Xabier Saralegi
+
+
+Affiliation of the authors: 
+Elhuyar Foundation
+
+
+
+
+Licensing
+-------------
+Copyright (C) by Elhuyar Foundation. 
+This resource is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC-BY-NC-SA). 
+The full details of this license can be found at http://creativecommons.org/licenses/by/4.0/legalcode
+
+
+
+
+
+Acknowledgements
+-------------------
+If you use this dataset please cite the following paper:
+
+- G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. BasqueGLUE: A Natural Language Understanding Benchmark for Basque. In proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022). June, 2022. Marseille, France
+
+ 
+
+
+
+Contact information
+-----------------------
+Gorka Urbizu, Iñaki San Vicente: {g.urbizu,i.sanvicente}@elhuyar.eus
+
+
+
+
+References
+-------------
+
+I. Alegria, O. Arregi, I. Balza, N. Ezeiza, I. Fernandez,
+R. Urizar. Design and Development of a Named Entity Recognizer for an
+Agglutinative Language. In: First International Joint Conference on
+NLP (IJC NLP04), Workshop on Named Entity Recognition. 2004

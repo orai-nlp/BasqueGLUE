@@ -1,0 +1,90 @@
+#####################################################
+#
+# Facebook Multilingual Task Oriented Dataset for Basque (FMTODeu)
+#
+# Version: 1.0
+# Last update: (2019/12/10)
+# Authors: Xabier Saralegi (x.saralegi@elhuyar.eus), Maddalen López de Lacalle (m.lopezdelacalle@elhuyar.eus)
+#          Elhuyar Foundation, R&D department. 
+# -----------------------------------------
+#
+# If you use this dataset please cite the following paper.
+#
+# - M. López de Lacalle, X. Saralegi Urizar and I. San Vicente. 2020. “Building a Task-oriented Dialog System for languages with no training data”. To appear in Proceedings of 12th Edition of the Language Resources and Evaluation Conference (LREC2020), Marseílle (France), 2020. 
+#
+# License
+# ----------------
+#
+# This resource is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC-BY-NC-SA). The full details of this license can be found at http://creativecommons.org/licenses/by/4.0/legalcode
+#
+# Dataset format and distribution
+# ----------------
+#
+# The dataset is divided into three files: train / test and validation splits. 
+
+3418 train.jsonl (Projected using NMT)
+1904 val.jsonl (Projected using NMT)
+1086 test.jsonl (Manual)
+
+# The sentences have the following notation: 
+# 'label<tab>sentence'
+# Where possible values for label are: 	
+
+alarm/cancel_alarm
+alarm/modify_alarm
+alarm/set_alarm
+alarm/show_alarms
+alarm/snooze_alarm
+alarm/time_left_on_alarm
+reminder/cancel_reminder
+reminder/set_reminder
+reminder/show_reminders
+weather/checkSunrise
+weather/checkSunset
+weather/find
+
+# Dataset distribution is as follows:
+
+val.jsonl
+    162 alarm/cancel_alarm
+     18 alarm/modify_alarm
+    363 alarm/set_alarm
+     77 alarm/show_alarms
+     26 alarm/snooze_alarm
+     20 alarm/time_left_on_alarm
+    111 reminder/cancel_reminder
+    420 reminder/set_reminder
+    105 reminder/show_reminders
+      2 weather/checkSunset
+    600 weather/find
+test.jsonl
+    100 alarm/cancel_alarm
+    100 alarm/modify_alarm
+    100 alarm/set_alarm
+     99 alarm/show_alarms
+    100 alarm/snooze_alarm
+    100 alarm/time_left_on_alarm
+    100 reminder/cancel_reminder
+    100 reminder/set_reminder
+    100 reminder/show_reminders
+     34 weather/checkSunrise
+     54 weather/checkSunset
+    100 weather/find
+train.jsonl
+    303 alarm/cancel_alarm
+     45 alarm/modify_alarm
+    578 alarm/set_alarm
+    136 alarm/show_alarms
+     52 alarm/snooze_alarm
+     38 alarm/time_left_on_alarm
+    224 reminder/cancel_reminder
+    738 reminder/set_reminder
+    202 reminder/show_reminders
+      2 weather/checkSunrise
+      3 weather/checkSunset
+   1097 weather/find
+
+# 
+#
+######################################################
+

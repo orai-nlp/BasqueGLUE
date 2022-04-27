@@ -1,0 +1,80 @@
+
+ Basque Election Campaign 2016 Opinion Dataset - BEC2016eu
+
+ Version: 2.0
+ Language: Basque (eu)
+ Last update: (2021/10/27)
+ Authors: Iñaki San Vicente (i.sanvicente@elhuyar.eus), Xabier Saralegi (x.saralegi@elhuyar.eus)
+          Elhuyar Foundation, R&D department. 
+-----------------------------------------
+
+
+ License
+----------------
+
+ This resource is distributed for research purposes, and includes both the content of the tweets as well as the manual annotations of entity level polarity of each tweet is written in, following the guidelines explained in annotation_guidelines.pdf file.  The content of the tweets is distributed by adhering to the H.2(a) clause of Twitter's Developer Agreement, which allows us to distribute a tweet collection of no more than 50,000 tweets: https://dev.twitter.com/overview/terms/agreement-and-policy#f-be-a-good-partner-to-twitter. The content of the tweets, hence, remains under Twitter's license (see I.B above). The manual annotations we provide along with these tweets are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC-BY-NC-SA). The full details of this license can be found at http://creativecommons.org/licenses/by/4.0/legalcode
+
+
+Acknowledgements
+-------------------
+If you use this dataset please cite the following paper:
+
+- G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. BasqueGLUE: A Natural Language Understanding Benchmark for Basque. In proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022). June, 2022. Marseille, France
+
+
+ Dataset format
+----------------
+
+ The dataset is divided in three files, in SuperGLUE style format:
+     - train.jsonl
+     - val.jsonl
+     - test.jsonl
+
+ Each line contains a tweet and its label.
+
+
+ All urls have been replaced with the '#URL' tag.
+
+
+ Annotations
+-----------------------
+ - Dataset stats (8,682 tweets):
+
+         --------------------------------------------
+         |   split   |     N     |   NEU  |   P    |
+         --------------------------------------------
+         |   train   |   1,622   |  2,223 |  2,233 |
+         |   dev     |   347     |   478  |   477  |
+         |   test    |   377     |   477  |   448  |
+         --------------------------------------------
+         |    Total  |   2,346   |  3,178 |  3,158 | 
+         --------------------------------------------
+
+
+
+ - Polarity: Polarity is annotated with respect to one the whole tweet. Original polarity was manually annotated with respect to one or more target entity per tweet. In order to map entity level polarity to sentence level polarity only those tweets where all entities were annotated with the same polarity are selected.
+ 
+            Possible values for polarity are: P(positive) | N(negative) | NEU(neutral)
+
+
+  Annotation was done by three people. 
+
+
+
+ Crawling
+-----------------------
+
+Crawling was carried out during the election campaign period, starting on September 9th (00:00am) and finishing on September 23th (23:59pm). Mentions written in Basque and Spanish were crawled. This dataset only contains the Basque mentions.
+
+The main parties and their respective candidates were monitored:
+   - PNV : Iñigo Urkullu
+   - PSE : Idoia Mendia
+   - EH Bildu : Arnaldo Otegi*
+   - PP : Alfonso Alonso
+   - C's : Nicolas De Miguel.
+
+ *Arnaldo Otegi was banned as an official candidate. Still EH Bildu declared him as their candidate, and he took the role during the campaign. Thus we assumed him as the target candidate to be monitored.
+
+A total amount of 52 keywords were defined to monitor 12 entities (6 parties and 6 candidates).
+ 
+

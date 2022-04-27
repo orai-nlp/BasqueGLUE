@@ -1,0 +1,1087 @@
+{"idx": 0, "label": "alarm/snooze_alarm", "text": "jo berriro geroxeago"}
+{"idx": 1, "label": "alarm/modify_alarm", "text": "aldatu arratsaldeko 3etako alarma hurrengo egunera"}
+{"idx": 2, "label": "reminder/show_reminders", "text": "erakutsi gaurko gogorarazleen zerrenda ."}
+{"idx": 3, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da hurrengoa alarmak jotzeko"}
+{"idx": 4, "label": "reminder/set_reminder", "text": "ezarri gogorarazlea medikuaren hitzordurako"}
+{"idx": 5, "label": "alarm/show_alarms", "text": "erakutsi datorren asteko alarmak"}
+{"idx": 6, "label": "reminder/set_reminder", "text": "gogorarazi liernirekin elkartzea bihar goizeko 10etan"}
+{"idx": 7, "label": "weather/find", "text": "eskiatzeko aukerarik izango dugu bihar ?"}
+{"idx": 8, "label": "alarm/cancel_alarm", "text": "ezabatu biharko alarmak ."}
+{"idx": 9, "label": "weather/find", "text": "esan zer eguraldi egiten duen zalduondon"}
+{"idx": 10, "label": "alarm/modify_alarm", "text": "aldatu jarrita dagoen alarma 6etara"}
+{"idx": 11, "label": "reminder/cancel_reminder", "text": "kendu azken gogorarazlea ."}
+{"idx": 12, "label": "reminder/cancel_reminder", "text": "ezeztatu goizeko 9etako hitzorduaren gogorarazlea"}
+{"idx": 13, "label": "alarm/set_alarm", "text": "jo alarma minuturo 30 minutuan"}
+{"idx": 14, "label": "reminder/cancel_reminder", "text": "ezeztatu bizilagunen bilerarako gogorarazlea"}
+{"idx": 15, "label": "reminder/cancel_reminder", "text": "ezeztatu aitorri deitzeko gogorarazlea ."}
+{"idx": 16, "label": "reminder/show_reminders", "text": "asteburu honetarako zer gogorarazle ditudan jakin nahi dut"}
+{"idx": 17, "label": "reminder/set_reminder", "text": "errepikatu gogorarazlea"}
+{"idx": 18, "label": "reminder/set_reminder", "text": "gogorarazi goizeko 11etako telefono-deia"}
+{"idx": 19, "label": "reminder/set_reminder", "text": "bidali gogorarazle bat medikuaren hitzorduaren bezperan"}
+{"idx": 20, "label": "reminder/set_reminder", "text": "errepikatu gogorarazle guztiak datorren urtean ere"}
+{"idx": 21, "label": "reminder/set_reminder", "text": "gogorarazi dentistarekin hitzordua dudala asteazkenean , eguerdiko ordu batean"}
+{"idx": 22, "label": "reminder/set_reminder", "text": "gogorarazi gauean postako mezuak irakurri behar ditudala"}
+{"idx": 23, "label": "reminder/show_reminders", "text": "berrikusi gaur gaueko gogorarazleak , mesedez"}
+{"idx": 24, "label": "reminder/set_reminder", "text": "gogorarazi arratsaldeko 6etarako alarma jartzea"}
+{"idx": 25, "label": "alarm/show_alarms", "text": "zenbat denbora dago alarma batetik bestera orain ?"}
+{"idx": 26, "label": "alarm/set_alarm", "text": "alarma beti aktibatuta eduki"}
+{"idx": 27, "label": "alarm/show_alarms", "text": "zer ordutan joko du alarmak larunbat goizean"}
+{"idx": 28, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora geratzen da hurrengo alarmarako"}
+{"idx": 29, "label": "alarm/modify_alarm", "text": "gehitu alarma bat hirurak laurden gutxiagotan astelehenetan , astearteetan eta asteazkenetan , uda osorako"}
+{"idx": 30, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko"}
+{"idx": 31, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora barru joko du alarmak"}
+{"idx": 32, "label": "alarm/time_left_on_alarm", "text": "5 minutu baino gehiago falta da alarmak jotzeko ?"}
+{"idx": 33, "label": "alarm/show_alarms", "text": "zer ordutan joko du alarmak bihar"}
+{"idx": 34, "label": "reminder/set_reminder", "text": "gogorarazi eskatutakoa 2017ko ekainaren 30a aurretik itzultzea"}
+{"idx": 35, "label": "alarm/modify_alarm", "text": "aldatu alarma 6etara , 7etako partez"}
+{"idx": 36, "label": "alarm/time_left_on_alarm", "text": "zenbat minutu dauzkat alarmak jo aurretik"}
+{"idx": 37, "label": "reminder/show_reminders", "text": "gogorarazleak"}
+{"idx": 38, "label": "reminder/set_reminder", "text": "gogorarazi astelehenean medikuarekin hitzordua dudala"}
+{"idx": 39, "label": "alarm/set_alarm", "text": "jarri alarma lasterketa hasi eta 30 minutura"}
+{"idx": 40, "label": "alarm/show_alarms", "text": "erakutsi segurtasun-gailuko alarmak"}
+{"idx": 41, "label": "alarm/modify_alarm", "text": "aldatu alarma-errepikapenak 10 minututik 15 minutura"}
+{"idx": 42, "label": "alarm/time_left_on_alarm", "text": "noiz joko du hurrengo alarmak ?"}
+{"idx": 43, "label": "alarm/modify_alarm", "text": "gehitu 15 minutu alarmari"}
+{"idx": 44, "label": "alarm/modify_alarm", "text": "atzeratu alarma berriro jotzea 5 minutu"}
+{"idx": 45, "label": "alarm/modify_alarm", "text": "aldatu biharko alarma goizeko 5etara"}
+{"idx": 46, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 15 minutura"}
+{"idx": 47, "label": "alarm/modify_alarm", "text": "errepikatu alarma astelehenero"}
+{"idx": 48, "label": "alarm/modify_alarm", "text": "esnatu alarmak jo baino 10 minutu lehenago"}
+{"idx": 49, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 50, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko"}
+{"idx": 51, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora pasatuko da alarmak jotzerako"}
+{"idx": 52, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 53, "label": "alarm/snooze_alarm", "text": "gehitu alarma-errepikapena alarmari"}
+{"idx": 54, "label": "reminder/set_reminder", "text": "gehitu gogorarazle bat gazta erosteko"}
+{"idx": 55, "label": "alarm/time_left_on_alarm", "text": "zenbat ordu dauzkat alarmak jo aurretik"}
+{"idx": 56, "label": "alarm/modify_alarm", "text": "atzeratu alarma ordubete bihar"}
+{"idx": 57, "label": "alarm/time_left_on_alarm", "text": "zer ordutan joko du alarmak"}
+{"idx": 58, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 59, "label": "alarm/snooze_alarm", "text": "lotarako alarma"}
+{"idx": 60, "label": "alarm/modify_alarm", "text": "aldatu alarma arratsaldera"}
+{"idx": 61, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora geratzen zaio alarmari"}
+{"idx": 62, "label": "alarm/modify_alarm", "text": "atzeratu esnatzeko alarma ordu erdi"}
+{"idx": 63, "label": "alarm/modify_alarm", "text": "astegunetan bakarrik errepikatu alarma hori"}
+{"idx": 64, "label": "alarm/cancel_alarm", "text": "berrezarri alarma"}
+{"idx": 65, "label": "alarm/snooze_alarm", "text": "ezarri alarma 10 minutura berriro jotzeko"}
+{"idx": 66, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 10 minutu barru"}
+{"idx": 67, "label": "alarm/modify_alarm", "text": "errepikatu alarma astegunetan"}
+{"idx": 68, "label": "alarm/show_alarms", "text": "nola zegoen ezarrita azken alarma"}
+{"idx": 69, "label": "alarm/set_alarm", "text": "esnatu nazazu 30 minutu barru"}
+{"idx": 70, "label": "alarm/cancel_alarm", "text": "ez dut nahi gaur alarmak jotzea"}
+{"idx": 71, "label": "alarm/snooze_alarm", "text": "eten alarma guztiak"}
+{"idx": 72, "label": "alarm/modify_alarm", "text": "editatu alarma berriz jotzea"}
+{"idx": 73, "label": "alarm/modify_alarm", "text": "atzeratu alarma 30 minutuz"}
+{"idx": 74, "label": "alarm/modify_alarm", "text": "luzatu alarma-errepikapena 2 orduz"}
+{"idx": 75, "label": "alarm/modify_alarm", "text": "programatu berriro datorren asteko alarma"}
+{"idx": 76, "label": "alarm/show_alarms", "text": "eman alarmari buruzko xehetasunak"}
+{"idx": 77, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 78, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 79, "label": "alarm/snooze_alarm", "text": "jo berriro alarma hemendik minutu batzuetara ."}
+{"idx": 80, "label": "alarm/time_left_on_alarm", "text": "noiz joko du hurrengo alarmak"}
+{"idx": 81, "label": "alarm/time_left_on_alarm", "text": "noiz joko du hurrengo alarmak"}
+{"idx": 82, "label": "alarm/show_alarms", "text": "erakutsi biharko alarma eta gogorarazle guztiak"}
+{"idx": 83, "label": "alarm/snooze_alarm", "text": "atzeratu alarma 5 minutu"}
+{"idx": 84, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 85, "label": "alarm/snooze_alarm", "text": "eten uneko alarma"}
+{"idx": 86, "label": "alarm/modify_alarm", "text": "jarri berriro martxan alarma 15 minutu barru"}
+{"idx": 87, "label": "alarm/set_alarm", "text": "jo alarma bost minutuz behin"}
+{"idx": 88, "label": "alarm/show_alarms", "text": "zer ordutan daukat jarrita alarma"}
+{"idx": 89, "label": "alarm/snooze_alarm", "text": "astelehenetan , atzeratu alarma-errepikapena 3 minutu"}
+{"idx": 90, "label": "alarm/modify_alarm", "text": "aldatu 7etako alarma 8etara"}
+{"idx": 91, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 92, "label": "alarm/modify_alarm", "text": "errepikatu alarma hogei minutuz behin"}
+{"idx": 93, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora daukat alarmak jo aurretik"}
+{"idx": 94, "label": "alarm/show_alarms", "text": "zenbat alarma daude jarrita ostiralerako"}
+{"idx": 95, "label": "alarm/modify_alarm", "text": "atzeratu 3 minutu alarmaren ordua"}
+{"idx": 96, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmarako"}
+{"idx": 97, "label": "alarm/show_alarms", "text": "zer alarma daude jarrita ?"}
+{"idx": 98, "label": "alarm/snooze_alarm", "text": "gelditu alarma"}
+{"idx": 99, "label": "alarm/modify_alarm", "text": "aldatu alarma goizeko 5 : 30era"}
+{"idx": 100, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 101, "label": "alarm/show_alarms", "text": "zer ordutan dago jarrita biharko alarma"}
+{"idx": 102, "label": "alarm/set_alarm", "text": "esnatu nazazu 10etan"}
+{"idx": 103, "label": "alarm/show_alarms", "text": "zenbat denbora daukat hurrengo alarmak jo aurretik ?"}
+{"idx": 104, "label": "reminder/show_reminders", "text": "gogorarazi hitzordu guztiak"}
+{"idx": 105, "label": "reminder/set_reminder", "text": "gogorarazi autoaren ordainketa bat egitea bihar"}
+{"idx": 106, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko"}
+{"idx": 107, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 6etarako asteazkenetan"}
+{"idx": 108, "label": "alarm/modify_alarm", "text": "atzeratu iratzargailua 30 minutu"}
+{"idx": 109, "label": "alarm/show_alarms", "text": "zer ordutan dago jarrita lanera joateko alarma ?"}
+{"idx": 110, "label": "alarm/modify_alarm", "text": "aldatu umeak eskolatik jasotzeko alarma lau t \u2019 erdietara"}
+{"idx": 111, "label": "reminder/cancel_reminder", "text": "ezeztatu gaurko gogorarazleak"}
+{"idx": 112, "label": "alarm/set_alarm", "text": "jo alarma 2 minutu eta erdiro"}
+{"idx": 113, "label": "reminder/show_reminders", "text": "badut gogorarazlerik gaur gauerako ?"}
+{"idx": 114, "label": "alarm/set_alarm", "text": "jarri alarma hemendik ordubetera jotzeko"}
+{"idx": 115, "label": "reminder/cancel_reminder", "text": "ezeztatu guraso-elkarteko bileraren gogorarazlea"}
+{"idx": 116, "label": "alarm/modify_alarm", "text": "aldatu alarma goizeko 8etatik 7etara"}
+{"idx": 117, "label": "reminder/set_reminder", "text": "gogorarazi bihar goizean gasolina hartu behar dudala"}
+{"idx": 118, "label": "alarm/modify_alarm", "text": "aurreratu alarma-errepikapena 30 minutu"}
+{"idx": 119, "label": "alarm/set_alarm", "text": "jarri alarma bat goizaldeko 3etan jotzeko"}
+{"idx": 120, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat ezarrita igande honetarako ?"}
+{"idx": 121, "label": "reminder/cancel_reminder", "text": "ezeztatu festara joateko gogorarazlea"}
+{"idx": 122, "label": "alarm/snooze_alarm", "text": "eten alarma guztiak datorren asteartera arte"}
+{"idx": 123, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 7etarako"}
+{"idx": 124, "label": "reminder/cancel_reminder", "text": "ezeztatu medikuaren hitzorduaren gogorarazlea"}
+{"idx": 125, "label": "reminder/cancel_reminder", "text": "ezeztatu ostiraleko bilerarako gogorarazlea"}
+{"idx": 126, "label": "reminder/show_reminders", "text": "erakutsi gaurko gogorarazleak"}
+{"idx": 127, "label": "reminder/cancel_reminder", "text": "ezeztatu medikuarengana joateko gogorarazlea"}
+{"idx": 128, "label": "reminder/cancel_reminder", "text": "ezeztatu bihar goizeko hitzordurako jarritako gogoraraztea"}
+{"idx": 129, "label": "alarm/time_left_on_alarm", "text": "hemendik zenbatera joko du berriro alarmak"}
+{"idx": 130, "label": "reminder/cancel_reminder", "text": "ezeztatu semea jasotzera joateko gogorarazlea"}
+{"idx": 131, "label": "reminder/cancel_reminder", "text": "ezeztatu joni mezu bat idatzi eta biharko hitzordua aldatzeko gogorarazlea"}
+{"idx": 132, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da hurrengo alarmak jotzeko"}
+{"idx": 133, "label": "alarm/modify_alarm", "text": "aldatu goizeko 9etako alarma 6etara"}
+{"idx": 134, "label": "alarm/modify_alarm", "text": "atzeratu goizeko alarma 9 minutu"}
+{"idx": 135, "label": "reminder/set_reminder", "text": "gogorarazi lanetik irtendakoan esnea erosi behar dudala"}
+{"idx": 136, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 10 minutu barru"}
+{"idx": 137, "label": "alarm/snooze_alarm", "text": "jo alarma berriro minutu batera"}
+{"idx": 138, "label": "reminder/set_reminder", "text": "ezarri gogorarazlea astelehenero goizeko bederatzietan"}
+{"idx": 139, "label": "alarm/set_alarm", "text": "jarri alarma hemendik ordubetera jotzeko"}
+{"idx": 140, "label": "reminder/show_reminders", "text": "erakutsi aste honetako gogorarazle guztiak"}
+{"idx": 141, "label": "reminder/set_reminder", "text": "gogorarazi arraina erosi behar dudala ostegunean"}
+{"idx": 142, "label": "alarm/cancel_alarm", "text": "ezeztatu biharko alarma"}
+{"idx": 143, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 6 : 30ean esnatzeko"}
+{"idx": 144, "label": "alarm/set_alarm", "text": "jarri alarma arratsaldeko 4etan"}
+{"idx": 145, "label": "alarm/snooze_alarm", "text": "jo alarma berriro ordubetera"}
+{"idx": 146, "label": "alarm/modify_alarm", "text": "aldatu uneko zereginaren alarma , 15 minutuz"}
+{"idx": 147, "label": "alarm/modify_alarm", "text": "aldatu eguneroko alarma goizeko 6 : 30era"}
+{"idx": 148, "label": "alarm/set_alarm", "text": "programatu alarma bat 22 minutu barru jotzeko"}
+{"idx": 149, "label": "reminder/set_reminder", "text": "gogorarazi ez dudala dentistaren hitzordua ahaztu behar"}
+{"idx": 150, "label": "reminder/show_reminders", "text": "erakutsi biharko gogorarazleak"}
+{"idx": 151, "label": "alarm/set_alarm", "text": "gehitu alarma bat amaren urtebetetzerako datorren hileko 21ean"}
+{"idx": 152, "label": "alarm/snooze_alarm", "text": "jo berriro goizeko alarma 15 minutura"}
+{"idx": 153, "label": "alarm/set_alarm", "text": "jarri alarma bat gaur arratsaldeko 7etarako"}
+{"idx": 154, "label": "alarm/snooze_alarm", "text": "jo alarma berriro hemendik 5 minutura"}
+{"idx": 155, "label": "reminder/show_reminders", "text": "badut gogorarazlerik 4ko asterako ?"}
+{"idx": 156, "label": "reminder/show_reminders", "text": "erakutsi medikuaren hitzorduaren gogorarazlea"}
+{"idx": 157, "label": "alarm/modify_alarm", "text": "aldatu goizeko alarma 8etatik 7etara"}
+{"idx": 158, "label": "alarm/cancel_alarm", "text": "ez jo alarmarik asteburuetan"}
+{"idx": 159, "label": "reminder/cancel_reminder", "text": "ezabatu dentistaren hitzorduaren gogorarazlea"}
+{"idx": 160, "label": "reminder/set_reminder", "text": "gogorarazi alaitz lanetik jaso behar dudala gaur"}
+{"idx": 161, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 5 minutura"}
+{"idx": 162, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 15 minutu geroago"}
+{"idx": 163, "label": "reminder/cancel_reminder", "text": "ezabatu aneren gogorarazle guztiak"}
+{"idx": 164, "label": "reminder/cancel_reminder", "text": "ezeztatu gaur arratsalderako gogorarazlea"}
+{"idx": 165, "label": "reminder/cancel_reminder", "text": "ezeztatu medikuaren hitzordua datorren asteazkenean 11etan"}
+{"idx": 166, "label": "alarm/cancel_alarm", "text": "desaktibatu asteburuko alarmak"}
+{"idx": 167, "label": "alarm/modify_alarm", "text": "aldatu alarma arratsaldeko 3etatik arratsaldeko 4etara"}
+{"idx": 168, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 5 minutu barru"}
+{"idx": 169, "label": "alarm/snooze_alarm", "text": "alarmak jo eta gero , jarraitu dezala berriro jotzen 9 minutuz behin"}
+{"idx": 170, "label": "alarm/show_alarms", "text": "zer ordutan dago jarrita gaur gaueko alarma"}
+{"idx": 171, "label": "reminder/cancel_reminder", "text": "ezeztatu dentistaren hitzorduaren gogorarazlea"}
+{"idx": 172, "label": "reminder/set_reminder", "text": "gogorazi igande honetan hitzetik hortzera grabatzea"}
+{"idx": 173, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 15 minutu barru"}
+{"idx": 174, "label": "alarm/modify_alarm", "text": "aldatu alarmaren ordua goizeko 7 : 30etik 8etara"}
+{"idx": 175, "label": "alarm/modify_alarm", "text": "luzatu alarmaren iraupena 5 minutura"}
+{"idx": 176, "label": "alarm/modify_alarm", "text": "goizago jaiki behar dut , beraz , jo alarma ordubete lehenago astelehen goizean"}
+{"idx": 177, "label": "alarm/set_alarm", "text": "jo alarma 30 minutu barru"}
+{"idx": 178, "label": "alarm/set_alarm", "text": "jarri alarma hemendik ordu erdira jotzeko"}
+{"idx": 179, "label": "alarm/modify_alarm", "text": "gehitu 20 minutu uneko alarmari"}
+{"idx": 180, "label": "weather/find", "text": "zenbat gradu egingo ditu shanghain bihar ?"}
+{"idx": 181, "label": "weather/find", "text": "gaur gaueko tenperatura lanzaroten"}
+{"idx": 182, "label": "weather/find", "text": "20 gradutik gora egingo du bihar goizean zarautzen ?"}
+{"idx": 183, "label": "weather/find", "text": "asteburu honetan zer tenperatura egingo du gasteizen"}
+{"idx": 184, "label": "weather/find", "text": "30 gradutik behera egingo ditu bihar beijingen ?"}
+{"idx": 185, "label": "weather/find", "text": "delhin 40 gradu inguru egingo ditu asteburu honetan ?"}
+{"idx": 186, "label": "weather/find", "text": "biharko tenperatura elorrion"}
+{"idx": 187, "label": "weather/find", "text": "zenbat gradu egiten ditu mumbain"}
+{"idx": 188, "label": "weather/find", "text": "9 gradutik gora egingo du paristik hurbil asteburu honetan"}
+{"idx": 189, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia"}
+{"idx": 190, "label": "weather/checkSunrise", "text": "zer ordutan irteten da eguzkia"}
+{"idx": 191, "label": "weather/checkSunset", "text": "noiz sartzen da eguzkia gaur"}
+{"idx": 192, "label": "weather/checkSunrise", "text": "zer ordutan argituko du bihar"}
+{"idx": 193, "label": "weather/find", "text": "zer hezetasun dago gaur"}
+{"idx": 194, "label": "weather/find", "text": "zer tenperatura egiten du gaur ?"}
+{"idx": 195, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia"}
+{"idx": 196, "label": "weather/checkSunset", "text": "noiz ilunduko du"}
+{"idx": 197, "label": "weather/checkSunset", "text": "zer ordutan sartuko da eguzkia"}
+{"idx": 198, "label": "weather/checkSunset", "text": "zer ordutan da ilunabarra"}
+{"idx": 199, "label": "weather/checkSunset", "text": "noiz ilunduko du"}
+{"idx": 200, "label": "weather/checkSunset", "text": "zer ordutan sartuko da eguzkia gaur"}
+{"idx": 201, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia"}
+{"idx": 202, "label": "weather/checkSunrise", "text": "zer ordutan argitzen du eguna manilan ?"}
+{"idx": 203, "label": "weather/find", "text": "haizea egingo du gaur ?"}
+{"idx": 204, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur"}
+{"idx": 205, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia atarratzen"}
+{"idx": 206, "label": "weather/checkSunrise", "text": "zer ordutan argituko du bihar"}
+{"idx": 207, "label": "weather/checkSunrise", "text": "zer ordutan argituko du bihar goizean"}
+{"idx": 208, "label": "weather/checkSunrise", "text": "zer ordutan irtengo da eguzkia bihar"}
+{"idx": 209, "label": "weather/checkSunrise", "text": "zer ordutan argituko du eguna"}
+{"idx": 210, "label": "weather/checkSunset", "text": "noiz ilunduko du"}
+{"idx": 211, "label": "weather/checkSunrise", "text": "zer ordutan da egunsentia"}
+{"idx": 212, "label": "weather/checkSunrise", "text": "zer ordutan da egunsentia"}
+{"idx": 213, "label": "weather/checkSunset", "text": "zer ordutan sartuko da eguzkia gaur mauin"}
+{"idx": 214, "label": "weather/checkSunset", "text": "noiz ilunduko du"}
+{"idx": 215, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du"}
+{"idx": 216, "label": "weather/checkSunrise", "text": "zer ordutan izango da egunsentia bihar"}
+{"idx": 217, "label": "weather/checkSunset", "text": "zer ordutan sartuko da eguzkia gaur"}
+{"idx": 218, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur"}
+{"idx": 219, "label": "weather/checkSunset", "text": "zer ordutan sartuko da eguzkia bihar"}
+{"idx": 220, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du londresen"}
+{"idx": 221, "label": "weather/checkSunrise", "text": "zer ordutan da egunsentia"}
+{"idx": 222, "label": "weather/checkSunrise", "text": "esango didazu zer ordutan irtengo den eguzkia bihar"}
+{"idx": 223, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur"}
+{"idx": 224, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur hondarribian ?"}
+{"idx": 225, "label": "weather/checkSunset", "text": "zer ordutan sartu zen eguzkia 1922ko abuztuaren 5ean ?"}
+{"idx": 226, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia coloradon"}
+{"idx": 227, "label": "weather/checkSunset", "text": "zer ordutan iluntzen du"}
+{"idx": 228, "label": "weather/checkSunset", "text": "zer ordutan sartuko da eguzkia"}
+{"idx": 229, "label": "weather/checkSunrise", "text": "zer ordutan da egunsentia"}
+{"idx": 230, "label": "weather/checkSunset", "text": "noiz ilunduko du"}
+{"idx": 231, "label": "weather/checkSunset", "text": "zer ordutan da ilunabarra"}
+{"idx": 232, "label": "weather/find", "text": "denborale-abisurik badago ?"}
+{"idx": 233, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia"}
+{"idx": 234, "label": "weather/checkSunset", "text": "noiz sartuko da eguzkia bihar"}
+{"idx": 235, "label": "weather/checkSunrise", "text": "zer ordutan argituko du eguna goizean"}
+{"idx": 236, "label": "weather/checkSunset", "text": "zer ordutan sartuko da eguzkia gaur"}
+{"idx": 237, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia txinan"}
+{"idx": 238, "label": "weather/checkSunrise", "text": "zer ordutan da egunsentia"}
+{"idx": 239, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du donibane garazin"}
+{"idx": 240, "label": "weather/checkSunrise", "text": "noiz argituko du eguna bihar ?"}
+{"idx": 241, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia"}
+{"idx": 242, "label": "weather/checkSunset", "text": "zer ordutan da ilunabarra"}
+{"idx": 243, "label": "weather/checkSunrise", "text": "zer ordutan irten da eguzkia gaur goizean"}
+{"idx": 244, "label": "weather/find", "text": "zer eguraldi egiten du lekeition ?"}
+{"idx": 245, "label": "weather/checkSunrise", "text": "zer ordutan argituko du eguna bihar goizean"}
+{"idx": 246, "label": "weather/checkSunrise", "text": "noiz argituko du eguna bihar ?"}
+{"idx": 247, "label": "weather/checkSunrise", "text": "zer ordutan argituko du bihar goizean"}
+{"idx": 248, "label": "weather/checkSunrise", "text": "zer ordutan irtengo da eguzkia gaur new yorken ?"}
+{"idx": 249, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia"}
+{"idx": 250, "label": "weather/checkSunset", "text": "zer ordutan sartuko da eguzkia bihar ?"}
+{"idx": 251, "label": "weather/checkSunrise", "text": "noiz argituko du eguna bihar"}
+{"idx": 252, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du bihar"}
+{"idx": 253, "label": "weather/checkSunrise", "text": "zer ordutan izango da egunsentia bihar ?"}
+{"idx": 254, "label": "weather/checkSunrise", "text": "zer ordutan irteten da eguzkia"}
+{"idx": 255, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur"}
+{"idx": 256, "label": "weather/checkSunrise", "text": "noiz argituko du bihar"}
+{"idx": 257, "label": "weather/checkSunset", "text": "noiz izango da ilunabarra gaur"}
+{"idx": 258, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur"}
+{"idx": 259, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia"}
+{"idx": 260, "label": "weather/checkSunset", "text": "noiz ezkutatuko da eguzkia gaur"}
+{"idx": 261, "label": "weather/checkSunrise", "text": "noiz argitzen du eguna portugalen ?"}
+{"idx": 262, "label": "weather/checkSunrise", "text": "zer ordutan argitzen du miamin ?"}
+{"idx": 263, "label": "weather/find", "text": "jertsea hartu beharko nuke gaur gauean aire libreko kontzertura joateko"}
+{"idx": 264, "label": "weather/checkSunset", "text": "zer ordutan sartzen da eguzkia"}
+{"idx": 265, "label": "weather/find", "text": "eguzkia egingo du igande arratsaldean ?"}
+{"idx": 266, "label": "weather/checkSunset", "text": "noiz ilunduko du igandean"}
+{"idx": 267, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur"}
+{"idx": 268, "label": "weather/checkSunset", "text": "eguzkia noiz sartzen"}
+{"idx": 269, "label": "weather/checkSunrise", "text": "zer ordutan argituko du eguna bihar"}
+{"idx": 270, "label": "alarm/modify_alarm", "text": "aldatu alarmaren ordua zazpiak laurden gutxira"}
+{"idx": 271, "label": "weather/find", "text": "zenbat cm elur egingo du gaur gauean ?"}
+{"idx": 272, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora barru joko du alarmak ?"}
+{"idx": 273, "label": "reminder/set_reminder", "text": "gogorarazi liburutegiko liburuak bueltatzea ostiralean"}
+{"idx": 274, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 275, "label": "weather/find", "text": "euria egingo du larunbatean ?"}
+{"idx": 276, "label": "alarm/modify_alarm", "text": "aldatu alarma goizeko 7etatik goizeko 8etara"}
+{"idx": 277, "label": "alarm/cancel_alarm", "text": "ezeztatu goizeko 6etako alarma-errepikapena"}
+{"idx": 278, "label": "reminder/set_reminder", "text": "programatu gogorarazle bat biharko , gasolina hartzeko"}
+{"idx": 279, "label": "reminder/set_reminder", "text": "gogorarazi goizeko 11 : 30ean autoa lekuz aldatu behar dudala"}
+{"idx": 280, "label": "alarm/snooze_alarm", "text": "jo berriro alarma"}
+{"idx": 281, "label": "reminder/set_reminder", "text": "bihar goizeko 7etan , gogorarazi astelehenean bilera dudala"}
+{"idx": 282, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta zaio alarmari ?"}
+{"idx": 283, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 8etarako"}
+{"idx": 284, "label": "reminder/cancel_reminder", "text": "ezeztatu ostiralean julen jasotzeko gogorarazlea"}
+{"idx": 285, "label": "reminder/show_reminders", "text": "erakutsi hurrengo gogorarazlea"}
+{"idx": 286, "label": "alarm/modify_alarm", "text": "errepikatu alarma hau astegun guztietan"}
+{"idx": 287, "label": "alarm/set_alarm", "text": "jo alarma arratsaldeko 3 : 30ean"}
+{"idx": 288, "label": "reminder/show_reminders", "text": "erakutsi gaurko gogorarazleak"}
+{"idx": 289, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 290, "label": "alarm/set_alarm", "text": "jarri beste alarma bat goizeko 9etarako"}
+{"idx": 291, "label": "alarm/cancel_alarm", "text": "desaktibatu azken alarma"}
+{"idx": 292, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat biharko ?"}
+{"idx": 293, "label": "alarm/modify_alarm", "text": "errepikatu alarma hau egunero"}
+{"idx": 294, "label": "reminder/show_reminders", "text": "erakutsi gogorarazleak"}
+{"idx": 295, "label": "weather/find", "text": "aterkia beharko dut gaur ?"}
+{"idx": 296, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma"}
+{"idx": 297, "label": "alarm/show_alarms", "text": "zenbat alarma dauzkat jarrita ?"}
+{"idx": 298, "label": "reminder/set_reminder", "text": "gogorarazi ogia eta azukrea erostea"}
+{"idx": 299, "label": "reminder/cancel_reminder", "text": "ezeztatu arrautzak erosteko gogorarazlea"}
+{"idx": 300, "label": "reminder/set_reminder", "text": "ezarri gogorarazle bat pizza labetik ateratzeko ."}
+{"idx": 301, "label": "alarm/modify_alarm", "text": "aldatu alarma goizeko 6etara"}
+{"idx": 302, "label": "alarm/cancel_alarm", "text": "kendu alarma guztiak"}
+{"idx": 303, "label": "reminder/set_reminder", "text": "gogorarazi urtero urtarrilaren 15ean amaren urtebetetzea dela"}
+{"idx": 304, "label": "alarm/cancel_alarm", "text": "ezeztatu biharko alarma"}
+{"idx": 305, "label": "reminder/cancel_reminder", "text": "ezeztatu azokan sagarrak erosteko gogorarazlea ."}
+{"idx": 306, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da goizeko 6etako alarmak jotzeko ?"}
+{"idx": 307, "label": "reminder/cancel_reminder", "text": "ezeztatu harategian oilaskoa erosteko gogorarazlea ."}
+{"idx": 308, "label": "weather/find", "text": "lainotuta egongo da gaur ?"}
+{"idx": 309, "label": "reminder/cancel_reminder", "text": "utzi bertan behera arratsaldeko 5etako gogorarazlea"}
+{"idx": 310, "label": "reminder/set_reminder", "text": "gogorazi gaur gauean handia ikusi behar dudala"}
+{"idx": 311, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazlea"}
+{"idx": 312, "label": "alarm/cancel_alarm", "text": "ezeztatu gaur gaueko alarma ."}
+{"idx": 313, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 15 minutu barru"}
+{"idx": 314, "label": "alarm/set_alarm", "text": "gehitu beste alarma bat larunbat goizeko 10etarako ."}
+{"idx": 315, "label": "alarm/show_alarms", "text": "erakutsi alarmak"}
+{"idx": 316, "label": "alarm/show_alarms", "text": "noiz da hurrengo alarma"}
+{"idx": 317, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma guztiak"}
+{"idx": 318, "label": "alarm/snooze_alarm", "text": "ezarri alarma-errepikapena asteazkenean"}
+{"idx": 319, "label": "alarm/time_left_on_alarm", "text": "hemendik zenbat denborara joko du alarmak ?"}
+{"idx": 320, "label": "alarm/modify_alarm", "text": "8etarako alarmari jarri \u201c esnatu \u201d etiketa"}
+{"idx": 321, "label": "reminder/cancel_reminder", "text": "ezeztatu biharko gogorarazleak ."}
+{"idx": 322, "label": "reminder/cancel_reminder", "text": "ezabatu bankura joateko gogorarazlea"}
+{"idx": 323, "label": "reminder/set_reminder", "text": "jarri gogorarazle bat ariketak egiteko"}
+{"idx": 324, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du ?"}
+{"idx": 325, "label": "alarm/modify_alarm", "text": "atzeratu alarma 5 minutu ."}
+{"idx": 326, "label": "alarm/modify_alarm", "text": "atzeratu alarma 20 minutu"}
+{"idx": 327, "label": "weather/find", "text": "zer ordutan egingo du euria gaur ?"}
+{"idx": 328, "label": "alarm/set_alarm", "text": "jarri alarma 4 : 30ean"}
+{"idx": 329, "label": "weather/find", "text": "eguraldia orain lekunberrin"}
+{"idx": 330, "label": "reminder/set_reminder", "text": "gogorarazi 30 minutu barru esnatu behar dudala"}
+{"idx": 331, "label": "reminder/cancel_reminder", "text": "ezeztatu ahizpa jasotzeko gogorarazlea"}
+{"idx": 332, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 3 minutura"}
+{"idx": 333, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da hurrengo alarmarako"}
+{"idx": 334, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 15 minutura"}
+{"idx": 335, "label": "alarm/show_alarms", "text": "noiz da hurrengo alarma"}
+{"idx": 336, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma guztiak"}
+{"idx": 337, "label": "reminder/cancel_reminder", "text": "ezeztatu dentistari deitzeko gogorarazlea"}
+{"idx": 338, "label": "weather/find", "text": "gauean euria egingo du ?"}
+{"idx": 339, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma"}
+{"idx": 340, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat"}
+{"idx": 341, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 342, "label": "weather/find", "text": "zer tenperatura egiten du gaur tuteran ?"}
+{"idx": 343, "label": "weather/find", "text": "bihar goizean euria egingo du ?"}
+{"idx": 344, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora barru joko du alarmak ?"}
+{"idx": 345, "label": "alarm/cancel_alarm", "text": "kendu alarma guztiak"}
+{"idx": 346, "label": "alarm/modify_alarm", "text": "aldatu goizeko 9etako alarma 8etara"}
+{"idx": 347, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 7 : 30erako"}
+{"idx": 348, "label": "alarm/set_alarm", "text": "jarri asteburuko alarma bat goizeko 8etan"}
+{"idx": 349, "label": "reminder/cancel_reminder", "text": "ezabatu jon jasotzeko gogorarazlea"}
+{"idx": 350, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 351, "label": "weather/find", "text": "bero egingo du gaur ?"}
+{"idx": 352, "label": "reminder/show_reminders", "text": "uneko gogorarazleak"}
+{"idx": 353, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko bihar ?"}
+{"idx": 354, "label": "reminder/cancel_reminder", "text": "ezeztatu tipulak erosteko gogorarazlea ."}
+{"idx": 355, "label": "alarm/set_alarm", "text": "jo alarma goizeko 6etan"}
+{"idx": 356, "label": "reminder/cancel_reminder", "text": "ezeztatu erosketak egitera joateko gogorarazlea ."}
+{"idx": 357, "label": "alarm/set_alarm", "text": "jo alarma gaueko 10etan"}
+{"idx": 358, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma ."}
+{"idx": 359, "label": "alarm/time_left_on_alarm", "text": "hemendik zenbatera joko du alarmak"}
+{"idx": 360, "label": "reminder/cancel_reminder", "text": "ezabatu gogorarazle guztiak"}
+{"idx": 361, "label": "alarm/time_left_on_alarm", "text": "hemendik zenbatera joko du alarmak"}
+{"idx": 362, "label": "reminder/cancel_reminder", "text": "ezabatu bihar egunkaria erosteko gogorarazlea"}
+{"idx": 363, "label": "reminder/cancel_reminder", "text": "ezabatu hitzorduaren gogorarazlea"}
+{"idx": 364, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazleak"}
+{"idx": 365, "label": "reminder/cancel_reminder", "text": "ezeztatu gasolina hartzeko gogorarazlea"}
+{"idx": 366, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 367, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 2 minutura"}
+{"idx": 368, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 369, "label": "weather/find", "text": "zer arrisku dago gaur txingorra egiteko ?"}
+{"idx": 370, "label": "reminder/show_reminders", "text": "erakutsi gogorarazlea bi aldiz"}
+{"idx": 371, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 372, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 10 minutura"}
+{"idx": 373, "label": "alarm/set_alarm", "text": "jarri alarma bat arratsaldeko 5etarako"}
+{"idx": 374, "label": "alarm/modify_alarm", "text": "aldatu alarma 10 minutura"}
+{"idx": 375, "label": "weather/find", "text": "zer eguraldi eman dute gaur arratsalderako"}
+{"idx": 376, "label": "alarm/snooze_alarm", "text": "jo berriro alarma hau 10 minutura"}
+{"idx": 377, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 378, "label": "reminder/show_reminders", "text": "erakutsi aste honetako gogorarazle guztiak"}
+{"idx": 379, "label": "alarm/show_alarms", "text": "zer ordutan dago jarrita alarma"}
+{"idx": 380, "label": "alarm/show_alarms", "text": "erakutsi alarmak"}
+{"idx": 381, "label": "reminder/cancel_reminder", "text": "ezeztatu ostiraleko afariaren gogorarazlea"}
+{"idx": 382, "label": "alarm/show_alarms", "text": "erakutsi ezarritako alarma guztiak"}
+{"idx": 383, "label": "weather/find", "text": "euririk egitea espero da gaur ?"}
+{"idx": 384, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 385, "label": "reminder/set_reminder", "text": "gogorazi gaur gauean amari deitzea"}
+{"idx": 386, "label": "alarm/set_alarm", "text": "jo alarma hemendik 40 minutura"}
+{"idx": 387, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat biharko ?"}
+{"idx": 388, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmarako"}
+{"idx": 389, "label": "alarm/time_left_on_alarm", "text": "zenbat minutu falta dira alarmak jotzeko"}
+{"idx": 390, "label": "reminder/cancel_reminder", "text": "ezeztatu esnea erosteko gogorarazlea"}
+{"idx": 391, "label": "alarm/modify_alarm", "text": "aldatu alarma arratsaldeko seietatik zortziak eta laurdenetara"}
+{"idx": 392, "label": "alarm/modify_alarm", "text": "aldatu goizeko 7etako alarma 6 : 30era"}
+{"idx": 393, "label": "alarm/set_alarm", "text": "jo alarma 25 segundoz behin , 5 minutuan"}
+{"idx": 394, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 15 minutura"}
+{"idx": 395, "label": "weather/checkSunrise", "text": "zer ordutan irteten da eguzkia ?"}
+{"idx": 396, "label": "alarm/show_alarms", "text": "noiz da hurrengo alarma ?"}
+{"idx": 397, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko ?"}
+{"idx": 398, "label": "alarm/set_alarm", "text": "jo alarma hemendik 4 minutura"}
+{"idx": 399, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma"}
+{"idx": 400, "label": "reminder/set_reminder", "text": "ezarri gogorarazle bat ostiralean olatzi deitzeko"}
+{"idx": 401, "label": "reminder/cancel_reminder", "text": "ezeztatu gaurko gogorarazleak"}
+{"idx": 402, "label": "alarm/show_alarms", "text": "zenbat alarma dauzkat jarrita ?"}
+{"idx": 403, "label": "alarm/cancel_alarm", "text": "ezabatu bihar goizeko 8etako alarma"}
+{"idx": 404, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 405, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 406, "label": "alarm/cancel_alarm", "text": "utzi bertan behera biharko alarma"}
+{"idx": 407, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmarako"}
+{"idx": 408, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko"}
+{"idx": 409, "label": "weather/find", "text": "5etan euria egingo du ?"}
+{"idx": 410, "label": "alarm/cancel_alarm", "text": "ezeztatu goizeko 6etako alarma errepikakorra"}
+{"idx": 411, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 8etarako igandean"}
+{"idx": 412, "label": "weather/find", "text": "zer tenperatura egingo du datorren asteartean ?"}
+{"idx": 413, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 120 segundora"}
+{"idx": 414, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da txirrinak jotzeko"}
+{"idx": 415, "label": "alarm/snooze_alarm", "text": "gelditu alarma"}
+{"idx": 416, "label": "reminder/cancel_reminder", "text": "ezeztatu arrautzak jasotzera joateko gogorarazlea"}
+{"idx": 417, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 418, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 419, "label": "reminder/cancel_reminder", "text": "ezeztatu biharko gogorarazle guztiak ."}
+{"idx": 420, "label": "reminder/set_reminder", "text": "gogorarazi bihar ogia erostea"}
+{"idx": 421, "label": "reminder/set_reminder", "text": "gogorarazi amonaren urtebetetzea"}
+{"idx": 422, "label": "reminder/set_reminder", "text": "gogorarazi 3etan korrika egitera joan behar dudala"}
+{"idx": 423, "label": "alarm/set_alarm", "text": "jo alarma minuturo hurrengo ordubetean"}
+{"idx": 424, "label": "reminder/cancel_reminder", "text": "ezabatuko duzu desodorantea erosteko gogorarazlea ?"}
+{"idx": 425, "label": "alarm/show_alarms", "text": "zer ordutan dago jarrita biharko alarma ?"}
+{"idx": 426, "label": "reminder/show_reminders", "text": "noren urtebetetzearen gogorarazlea dator hurrengo ?"}
+{"idx": 427, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak ."}
+{"idx": 428, "label": "alarm/modify_alarm", "text": "jarri alarma goizeko 9etarako"}
+{"idx": 429, "label": "alarm/set_alarm", "text": "jarri alarma 8 : 45ean"}
+{"idx": 430, "label": "reminder/set_reminder", "text": "gogorarazle bat ezarri behar dut"}
+{"idx": 431, "label": "reminder/cancel_reminder", "text": "ezeztatu gaurko gogorarazleak"}
+{"idx": 432, "label": "alarm/time_left_on_alarm", "text": "zenbat minutu barru joko du alarmak"}
+{"idx": 433, "label": "reminder/show_reminders", "text": "zer gogorarazle ditut gaur"}
+{"idx": 434, "label": "reminder/set_reminder", "text": "gogorarazlea : hartu txanda ile-apaindegian"}
+{"idx": 435, "label": "alarm/set_alarm", "text": "jarri alarma bat eguerdirako ."}
+{"idx": 436, "label": "reminder/cancel_reminder", "text": "ezeztatu haurrak jasotzeko gogorarazlea ."}
+{"idx": 437, "label": "reminder/show_reminders", "text": "irakurri gogorarazleak"}
+{"idx": 438, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat ?"}
+{"idx": 439, "label": "alarm/time_left_on_alarm", "text": "noiz amaituko da alarma"}
+{"idx": 440, "label": "alarm/cancel_alarm", "text": "ezabatu gaurko alarmak"}
+{"idx": 441, "label": "reminder/cancel_reminder", "text": "ezabatu gaurko gogorarazle guztiak ."}
+{"idx": 442, "label": "alarm/modify_alarm", "text": "aldatu izena alarmari eta jarri \" etxeko lanak egin \""}
+{"idx": 443, "label": "alarm/snooze_alarm", "text": "alarma jo berriro geroxeago"}
+{"idx": 444, "label": "alarm/cancel_alarm", "text": "ez jarri alarma gaur"}
+{"idx": 445, "label": "reminder/cancel_reminder", "text": "ezeztatu gaurko gogorarazle guztiak"}
+{"idx": 446, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazlea"}
+{"idx": 447, "label": "alarm/time_left_on_alarm", "text": "zenbat minutu geratzen zaizkio nire uneko alarmari"}
+{"idx": 448, "label": "alarm/show_alarms", "text": "zer ordutan dago joko du alarmak"}
+{"idx": 449, "label": "reminder/set_reminder", "text": "gogorarazi dentistarekin hitzordua dudala 23an , goizeko 11 : 30an"}
+{"idx": 450, "label": "alarm/cancel_alarm", "text": "gelditu alarma"}
+{"idx": 451, "label": "reminder/set_reminder", "text": "gogorarazi gaur 6etan erosketak egin behar ditudala ."}
+{"idx": 452, "label": "alarm/show_alarms", "text": "zer ordutan dago jarrita 3 alarma ?"}
+{"idx": 453, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 454, "label": "reminder/show_reminders", "text": "badago gogorarazlerik gaur arratsaldeko 5etarako ?"}
+{"idx": 455, "label": "reminder/show_reminders", "text": "badut gogorarazlerik enkargutara joaten naizenerako ?"}
+{"idx": 456, "label": "reminder/set_reminder", "text": "sortu gogorarazle bat gaur arratsaldeko 5etarako"}
+{"idx": 457, "label": "alarm/cancel_alarm", "text": "ezabatu bazkaltzeko alarma"}
+{"idx": 458, "label": "weather/find", "text": "zein izango da tenperatura minimoa bihar ?"}
+{"idx": 459, "label": "reminder/set_reminder", "text": "gogorarazi medikuaren hitzordua asteartean goizeko 10etan"}
+{"idx": 460, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago ."}
+{"idx": 461, "label": "alarm/cancel_alarm", "text": "ezeztatu arratsaldeko 3etarako jarritako alarma"}
+{"idx": 462, "label": "reminder/set_reminder", "text": "gogorarazi arratsaldean esnea erostea"}
+{"idx": 463, "label": "alarm/snooze_alarm", "text": "jo berriro alarma guztiak ordubetera"}
+{"idx": 464, "label": "reminder/show_reminders", "text": "erakutsi gaurko gogorarazlea"}
+{"idx": 465, "label": "reminder/show_reminders", "text": "erakutsi gaurko gogorarazle guztiak"}
+{"idx": 466, "label": "reminder/show_reminders", "text": "erakutsi asteko gogorarazleak"}
+{"idx": 467, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 7etan"}
+{"idx": 468, "label": "reminder/set_reminder", "text": "gogorarazi gastuen txostena amaitu behar dudala bihar goizeko 10 : 07an ."}
+{"idx": 469, "label": "reminder/set_reminder", "text": "gogorarazi katua jaso behar dudala albaitariarenetik arratsaldeko 4etan"}
+{"idx": 470, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 471, "label": "weather/find", "text": "elurra egiteko aukera"}
+{"idx": 472, "label": "alarm/modify_alarm", "text": "errepikatu alarma bihar ."}
+{"idx": 473, "label": "weather/find", "text": "gaur euririk egingo ote du ?"}
+{"idx": 474, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarma pizteko"}
+{"idx": 475, "label": "alarm/show_alarms", "text": "erakutsi aktibo dauden alarmak"}
+{"idx": 476, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 477, "label": "reminder/cancel_reminder", "text": "ezeztatu gaurko gogorarazleak ."}
+{"idx": 478, "label": "reminder/set_reminder", "text": "gogorarazi astelehenean 8etan odola ateratzera joan behar dudala"}
+{"idx": 479, "label": "alarm/set_alarm", "text": "jarri alarma 30 minutu barru jotzeko ."}
+{"idx": 480, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko"}
+{"idx": 481, "label": "weather/find", "text": "elurra egingo du gaur"}
+{"idx": 482, "label": "weather/find", "text": "zenbat gradu egiten ditu gaur ?"}
+{"idx": 483, "label": "alarm/modify_alarm", "text": "aldatu alarma 7etatik 7 : 20ra"}
+{"idx": 484, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da gaurko lehen alarmak jotzeko ?"}
+{"idx": 485, "label": "reminder/show_reminders", "text": "erakutsi gogorarazleak ."}
+{"idx": 486, "label": "alarm/cancel_alarm", "text": "ezeztatu biharko alarma"}
+{"idx": 487, "label": "reminder/cancel_reminder", "text": "ezeztatu biharko gogorarazleak"}
+{"idx": 488, "label": "alarm/set_alarm", "text": "jarri alarma bat biharko ."}
+{"idx": 489, "label": "weather/find", "text": "aterkia beharko dut gaur ?"}
+{"idx": 490, "label": "alarm/show_alarms", "text": "esan alarma guztiak"}
+{"idx": 491, "label": "reminder/set_reminder", "text": "gogorarazi ordu erdi barru esnatzea"}
+{"idx": 492, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 493, "label": "weather/checkSunrise", "text": "zer ordutan aterako da eguzkia bihar ?"}
+{"idx": 494, "label": "reminder/cancel_reminder", "text": "ezeztatu igandeko gogorarazle guztiak"}
+{"idx": 495, "label": "reminder/show_reminders", "text": "erakutsi biharko gogorarazlea"}
+{"idx": 496, "label": "alarm/time_left_on_alarm", "text": "zenbat ordu falta dira alarmak jotzeko ?"}
+{"idx": 497, "label": "reminder/set_reminder", "text": "gogorarazi arrautzak erostea bihar ."}
+{"idx": 498, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora pasatuko da alarmak jotzerako ?"}
+{"idx": 499, "label": "reminder/show_reminders", "text": "esan zer gogorarazle dauden"}
+{"idx": 500, "label": "reminder/set_reminder", "text": "gogorarazi 45 minutu barru ogia labetik ateratzea"}
+{"idx": 501, "label": "alarm/show_alarms", "text": "alarmarik badut jarrita biharko ?"}
+{"idx": 502, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak ."}
+{"idx": 503, "label": "alarm/snooze_alarm", "text": "jo alarma hau berriro 8 minutuz behin"}
+{"idx": 504, "label": "alarm/snooze_alarm", "text": "alarmak geroxeago berriro jotzea nahi dut"}
+{"idx": 505, "label": "alarm/show_alarms", "text": "erakutsi alarmak"}
+{"idx": 506, "label": "weather/find", "text": "zer itxura du eguraldiak"}
+{"idx": 507, "label": "weather/find", "text": "zenbat gradu egiten ditu ?"}
+{"idx": 508, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 6etarako asteartean"}
+{"idx": 509, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 510, "label": "alarm/cancel_alarm", "text": "ezeztatu biharko goizeko 6etako alarma ."}
+{"idx": 511, "label": "weather/find", "text": "euria egingo al du"}
+{"idx": 512, "label": "alarm/snooze_alarm", "text": "jo berriro geroago oraingo alarma"}
+{"idx": 513, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 514, "label": "alarm/modify_alarm", "text": "aldatu alarma iluntzeko 8etatik 9etara"}
+{"idx": 515, "label": "reminder/cancel_reminder", "text": "ezeztatu anerekin afaltzera joateko gogorarazle guztiak"}
+{"idx": 516, "label": "reminder/set_reminder", "text": "gogorarazi oihan dantzatik jaso behar dudala 5etan ."}
+{"idx": 517, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 518, "label": "reminder/set_reminder", "text": "gogorarazi gimnasiora joatea 7etan"}
+{"idx": 519, "label": "alarm/show_alarms", "text": "alarmarik badaukat aktibatuta ?"}
+{"idx": 520, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma guztiak"}
+{"idx": 521, "label": "alarm/set_alarm", "text": "jo alarma goizeko 5etan astegun guztietan"}
+{"idx": 522, "label": "alarm/cancel_alarm", "text": "berrezarri alarma guztiak"}
+{"idx": 523, "label": "reminder/cancel_reminder", "text": "ezeztatu dendan bananak erosteko gogorarazlea ."}
+{"idx": 524, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 525, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 526, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 527, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 7etan"}
+{"idx": 528, "label": "alarm/modify_alarm", "text": "aldatu uneko alarma bat ."}
+{"idx": 529, "label": "alarm/snooze_alarm", "text": "ezarri alarma-errepikapena esnatzeko alarmak jo eta 20 minutura"}
+{"idx": 530, "label": "alarm/cancel_alarm", "text": "ezabatu alarma guztiak aste honetan"}
+{"idx": 531, "label": "alarm/snooze_alarm", "text": "eten alarma guztiak"}
+{"idx": 532, "label": "weather/find", "text": "zenbat cm elur"}
+{"idx": 533, "label": "weather/find", "text": "zer moduzko eguraldia egiten du gaur ?"}
+{"idx": 534, "label": "alarm/set_alarm", "text": "jo alarma hemendik 5 minutura"}
+{"idx": 535, "label": "alarm/show_alarms", "text": "zer ordutan daukat jarrita bihar goizeko alarma ?"}
+{"idx": 536, "label": "reminder/show_reminders", "text": "erakutsi gaurko jarritako gogorarazleak ."}
+{"idx": 537, "label": "alarm/set_alarm", "text": "jarri alarma bat gaur arratsaldeko 5etan jotzeko"}
+{"idx": 538, "label": "alarm/set_alarm", "text": "hasi alarma"}
+{"idx": 539, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma guztiak aste honetarako bakarrik"}
+{"idx": 540, "label": "alarm/snooze_alarm", "text": "jo berriro geroxeago alarma hori , mesedez"}
+{"idx": 541, "label": "alarm/modify_alarm", "text": "aldatu alarma 10 : 30era"}
+{"idx": 542, "label": "alarm/set_alarm", "text": "jo alarma goizeko 5etan bihar"}
+{"idx": 543, "label": "reminder/set_reminder", "text": "gogorarazi arratsaldeko 3etarako txanda hartzeko deitzea ."}
+{"idx": 544, "label": "reminder/show_reminders", "text": "irakurri gaurko gogorarazleak"}
+{"idx": 545, "label": "alarm/snooze_alarm", "text": "jo berriro alarma beste 20 minutura"}
+{"idx": 546, "label": "alarm/cancel_alarm", "text": "ezeztatu alarmak"}
+{"idx": 547, "label": "alarm/modify_alarm", "text": "errepikatu azken alarma bi egunetik behin"}
+{"idx": 548, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 10 minutura ."}
+{"idx": 549, "label": "reminder/cancel_reminder", "text": "ezeztatu larunbatean erosketak egiteko gogorarazlea"}
+{"idx": 550, "label": "weather/checkSunrise", "text": "zer ordutan da egunsentia ?"}
+{"idx": 551, "label": "alarm/modify_alarm", "text": "aldatu goizaldeko 4etako alarma 5etara biharko"}
+{"idx": 552, "label": "weather/find", "text": "aterkia hartzea komeni da ?"}
+{"idx": 553, "label": "alarm/show_alarms", "text": "laneko alarmarik badut jarrita biharko ?"}
+{"idx": 554, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da hurrengo alarmak jotzeko"}
+{"idx": 555, "label": "alarm/set_alarm", "text": "jarri alarma iluntzeko 9 : 30ean"}
+{"idx": 556, "label": "reminder/set_reminder", "text": "ezarri gogorarazlea bihar katu-jana erosteko"}
+{"idx": 557, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazlea , dagoeneko egin dut hori eta ."}
+{"idx": 558, "label": "alarm/snooze_alarm", "text": "jo berriro geroago aktibo dauden alarma guztiak ."}
+{"idx": 559, "label": "alarm/modify_alarm", "text": "aldatu alarma"}
+{"idx": 560, "label": "alarm/show_alarms", "text": "zenbat alarma dauzkat"}
+{"idx": 561, "label": "alarm/cancel_alarm", "text": "ezabatu astegunetako iluntzeko 8 : 55etako alarma"}
+{"idx": 562, "label": "weather/checkSunrise", "text": "noiz irteten eta sartzen da eguzkia ?"}
+{"idx": 563, "label": "weather/find", "text": "elurra egingo du datorren asteburuan ?"}
+{"idx": 564, "label": "weather/find", "text": "ekaitzik egongo da gaur ?"}
+{"idx": 565, "label": "alarm/modify_alarm", "text": "aldatu goizeko 6 : 30eko alarma 7 : 30era"}
+{"idx": 566, "label": "reminder/show_reminders", "text": "irakurri gogorarazleak"}
+{"idx": 567, "label": "alarm/show_alarms", "text": "zer alarma dauzkat"}
+{"idx": 568, "label": "alarm/time_left_on_alarm", "text": "hemendik zenbatera joko du alarmak"}
+{"idx": 569, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 5 minutura ."}
+{"idx": 570, "label": "weather/find", "text": "euria egin du gaur ?"}
+{"idx": 571, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 572, "label": "alarm/set_alarm", "text": "jo alarma gauerdian"}
+{"idx": 573, "label": "alarm/snooze_alarm", "text": "gelditu alarma mesedez"}
+{"idx": 574, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 575, "label": "weather/find", "text": "euria egingo du gaur gauean ?"}
+{"idx": 576, "label": "reminder/cancel_reminder", "text": "ezabatu medikuaren gogorarazlea"}
+{"idx": 577, "label": "weather/find", "text": "euririk egin behar du gaur ?"}
+{"idx": 578, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmarako"}
+{"idx": 579, "label": "reminder/show_reminders", "text": "erakutsi gaurko gogorarazle guztiak ."}
+{"idx": 580, "label": "reminder/cancel_reminder", "text": "ezeztatu txakurra ateratzeko gogorarazlea"}
+{"idx": 581, "label": "alarm/modify_alarm", "text": "aldatu biharko alarma"}
+{"idx": 582, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 583, "label": "alarm/set_alarm", "text": "jarri beste alarma batzuk astelehenerako"}
+{"idx": 584, "label": "weather/find", "text": "zenbat egunean egingo du elurra"}
+{"idx": 585, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 586, "label": "weather/find", "text": "noiz hasiko da ekaitza ?"}
+{"idx": 587, "label": "reminder/cancel_reminder", "text": "ezeztatu arratsaldean botikara joateko gogorarazlea ."}
+{"idx": 588, "label": "reminder/set_reminder", "text": "gogorarazi gaur lanetik etxerako bidean supermerkatuan geratzea"}
+{"idx": 589, "label": "alarm/snooze_alarm", "text": "jo alarma berriro ordubetera"}
+{"idx": 590, "label": "alarm/cancel_alarm", "text": "ezabatu alarma guztiak"}
+{"idx": 591, "label": "alarm/modify_alarm", "text": "aldatu alarma bi ordu barru jotzeko ."}
+{"idx": 592, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da lehen alarmak jotzeko ?"}
+{"idx": 593, "label": "alarm/modify_alarm", "text": "errepikatu alarma itzaltzeko esaten dudan arte"}
+{"idx": 594, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta zaio alarmari"}
+{"idx": 595, "label": "reminder/show_reminders", "text": "gogorarazlerik badut aktibatuta ?"}
+{"idx": 596, "label": "alarm/modify_alarm", "text": "aldatu alarma goizeko seietatik zazpietara"}
+{"idx": 597, "label": "reminder/set_reminder", "text": "gogorarazi bihar goizeko 4etan jaiki behar dudala"}
+{"idx": 598, "label": "reminder/cancel_reminder", "text": "ezeztatu dendan loreak erosteko gogorarazlea ."}
+{"idx": 599, "label": "alarm/set_alarm", "text": "jarri alarma hemendik astebetera , 2 : 30ean"}
+{"idx": 600, "label": "alarm/show_alarms", "text": "zer alarma daude jarrita"}
+{"idx": 601, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 602, "label": "alarm/cancel_alarm", "text": "ziurtatu alarmak jotzen duela 20 minutu barru ."}
+{"idx": 603, "label": "reminder/cancel_reminder", "text": "ezeztatu inprimagailuaren tinta erosteko gogorarazlea ."}
+{"idx": 604, "label": "alarm/cancel_alarm", "text": "ezabatu orduro jotzeko alarma"}
+{"idx": 605, "label": "alarm/set_alarm", "text": "jarri alarma 12 : 38an eta jarraitu 6 minutuz behin jotzen ."}
+{"idx": 606, "label": "alarm/show_alarms", "text": "zenbat alarma daude jarrita gaurko ?"}
+{"idx": 607, "label": "weather/find", "text": "zenbat denbora falta da gaur euria hasteko ?"}
+{"idx": 608, "label": "alarm/set_alarm", "text": "jo alarma 5 minutuz behin ."}
+{"idx": 609, "label": "reminder/cancel_reminder", "text": "ezeztatu katuaren jana erosteko gogorarazlea"}
+{"idx": 610, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 611, "label": "alarm/time_left_on_alarm", "text": "zenbat minutu geratzen zaizkio alarmari ?"}
+{"idx": 612, "label": "alarm/set_alarm", "text": "jarri bi alarma : bat goizeko 5etarako , bestea goizeko 5 : 30erako"}
+{"idx": 613, "label": "reminder/set_reminder", "text": "gogorarazi 5 : 30ean gasolina hartzea ."}
+{"idx": 614, "label": "weather/find", "text": "noiz freskatuko du eguraldia"}
+{"idx": 615, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko ?"}
+{"idx": 616, "label": "alarm/show_alarms", "text": "erakutsi alarmak"}
+{"idx": 617, "label": "weather/find", "text": "asteburuan euria egingo du ?"}
+{"idx": 618, "label": "reminder/cancel_reminder", "text": "ezeztatu azken gogorarazlea"}
+{"idx": 619, "label": "alarm/modify_alarm", "text": "aldatu asteazkenetako alarma guztiak goizeko 8etara ."}
+{"idx": 620, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 5 minutura"}
+{"idx": 621, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazle guztiak ."}
+{"idx": 622, "label": "weather/checkSunset", "text": "noiz ilunduko du bihar ?"}
+{"idx": 623, "label": "alarm/show_alarms", "text": "erakutsi aktibo dauden alarma guztiak"}
+{"idx": 624, "label": "reminder/show_reminders", "text": "erakutsi gogorarazlea"}
+{"idx": 625, "label": "alarm/cancel_alarm", "text": "itzali alarma guztiak"}
+{"idx": 626, "label": "alarm/snooze_alarm", "text": "jo berriro ostiraleko alarma 15 minutu geroago"}
+{"idx": 627, "label": "reminder/show_reminders", "text": "zein da eguneko azken gogorarazlea ?"}
+{"idx": 628, "label": "reminder/cancel_reminder", "text": "ezeztatu dentistari deitzeko gogorarazlea"}
+{"idx": 629, "label": "weather/find", "text": "zer eguraldi eman dute biharko ?"}
+{"idx": 630, "label": "weather/find", "text": "irakurri gaurko eguraldiaren iragarpena ."}
+{"idx": 631, "label": "reminder/show_reminders", "text": "irakurri gogorarazle guztiak ."}
+{"idx": 632, "label": "alarm/modify_alarm", "text": "atzeratu 20 minutu 8etarako jarritako alarma"}
+{"idx": 633, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma"}
+{"idx": 634, "label": "alarm/set_alarm", "text": "jarri alarma goizeko zortzi eta erdietan bihar"}
+{"idx": 635, "label": "reminder/set_reminder", "text": "gogorarazi ikasleen azterketak etxera ekartzea bihar"}
+{"idx": 636, "label": "alarm/cancel_alarm", "text": "ezeztatu iluntzeko 8etako alarma"}
+{"idx": 637, "label": "weather/find", "text": "zer eguraldi egiten du gaur ?"}
+{"idx": 638, "label": "reminder/show_reminders", "text": "badut gogorarazlerik datorren asterako ?"}
+{"idx": 639, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat ezarrita aste honetarako ?"}
+{"idx": 640, "label": "reminder/set_reminder", "text": "gogorarazi botikara joatea"}
+{"idx": 641, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur ?"}
+{"idx": 642, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak ."}
+{"idx": 643, "label": "alarm/snooze_alarm", "text": "jo berriro 12etako alarma 5 minutura"}
+{"idx": 644, "label": "reminder/set_reminder", "text": "ezarri gogorarazle bat gaur arratsaldeko 5etan kattalini deitzeko"}
+{"idx": 645, "label": "alarm/time_left_on_alarm", "text": "hemendik zenbatera joko du alarmak ?"}
+{"idx": 646, "label": "reminder/show_reminders", "text": "erakutsi eskolari buruzko gogorarazleak"}
+{"idx": 647, "label": "alarm/set_alarm", "text": "jarri alarma gaurko arratsaldeko 6etarako"}
+{"idx": 648, "label": "reminder/set_reminder", "text": "gogorarazi gauero atea giltzaz itxi behar dudala ."}
+{"idx": 649, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 650, "label": "reminder/set_reminder", "text": "gogorarazi bihar garagardoa ekartzea"}
+{"idx": 651, "label": "weather/find", "text": "asteburu honetan euria egingo du ?"}
+{"idx": 652, "label": "alarm/show_alarms", "text": "zer ordutan daukat jarrita gaur goizeko alarma ?"}
+{"idx": 653, "label": "alarm/cancel_alarm", "text": "ezeztatu bihar goizeko alarma"}
+{"idx": 654, "label": "reminder/set_reminder", "text": "gogorarazi 7 : 30ean afaria prestatzen hastea"}
+{"idx": 655, "label": "alarm/cancel_alarm", "text": "isilarazi bihar goizeko 5etako alarma"}
+{"idx": 656, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 657, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora pasatutakoan joko du alarmak ?"}
+{"idx": 658, "label": "reminder/set_reminder", "text": "gogorarazi liburua klasera eramatea bihar ."}
+{"idx": 659, "label": "alarm/modify_alarm", "text": "aldatu alarma goizetik arratsaldera"}
+{"idx": 660, "label": "alarm/cancel_alarm", "text": "ezabatu larunbateko eta igandeko alarma guztiak"}
+{"idx": 661, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora daukat alarmak jo arte ?"}
+{"idx": 662, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 15 minutura"}
+{"idx": 663, "label": "reminder/cancel_reminder", "text": "ezeztatu hurrengo asterako gogorarazle guztiak"}
+{"idx": 664, "label": "alarm/cancel_alarm", "text": "alarma guztiak itzali nahi ditut ."}
+{"idx": 665, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 666, "label": "alarm/set_alarm", "text": "jarri alarma bat gaur eguerdiko 2etarako"}
+{"idx": 667, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma"}
+{"idx": 668, "label": "reminder/set_reminder", "text": "gogorarazi gaur komuneko papera erostea ."}
+{"idx": 669, "label": "reminder/set_reminder", "text": "gogorarazi tomatea erosi behar dudala afaltzeko"}
+{"idx": 670, "label": "alarm/cancel_alarm", "text": "itzali alarma guztiak ."}
+{"idx": 671, "label": "reminder/cancel_reminder", "text": "ezeztatu larunbat gaueko hitzorduaren gogorarazlea"}
+{"idx": 672, "label": "alarm/show_alarms", "text": "bistaratu alarma guztiak"}
+{"idx": 673, "label": "alarm/modify_alarm", "text": "errepikatu laneko alarma astelehenetik ostiralera goizeko 7etan"}
+{"idx": 674, "label": "alarm/set_alarm", "text": "jo alarma 5 minutu barru"}
+{"idx": 675, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora barru joko du alarmak ?"}
+{"idx": 676, "label": "weather/find", "text": "jakarik beharko dut gaur ?"}
+{"idx": 677, "label": "alarm/modify_alarm", "text": "ziurtatu alarmak 5 minutuz behin joko duela"}
+{"idx": 678, "label": "alarm/modify_alarm", "text": "aldatu gaurko alarma eguerdiko 2etara"}
+{"idx": 679, "label": "alarm/snooze_alarm", "text": "gelditu alarma , mesedez"}
+{"idx": 680, "label": "reminder/show_reminders", "text": "esan gaurko gogorarazle guztiak"}
+{"idx": 681, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora geratzen zaio alarmari ?"}
+{"idx": 682, "label": "reminder/show_reminders", "text": "noiz da hurrengo gogorarazlea ?"}
+{"idx": 683, "label": "reminder/set_reminder", "text": "gogorarazi gauean txakurrei jaten eman behar diedala"}
+{"idx": 684, "label": "reminder/show_reminders", "text": "erakutsi kontzertuaren gogorarazlea"}
+{"idx": 685, "label": "alarm/show_alarms", "text": "noiz joko du hurrengo alarmak ?"}
+{"idx": 686, "label": "alarm/set_alarm", "text": "jo alarma 2 minuturo"}
+{"idx": 687, "label": "reminder/set_reminder", "text": "ezarri gogorarazlea astearteko hitzordua baino ordubete lehenago"}
+{"idx": 688, "label": "alarm/cancel_alarm", "text": "ezeztatu gaur gaueko alarma"}
+{"idx": 689, "label": "alarm/time_left_on_alarm", "text": "hemendik zenbatera joko du alarmak"}
+{"idx": 690, "label": "weather/find", "text": "hezetasun handia egingo du ?"}
+{"idx": 691, "label": "weather/find", "text": "zer ordutan iritsiko da ekaitza zumaira ?"}
+{"idx": 692, "label": "alarm/cancel_alarm", "text": "desaktibatu astearterako alarma ."}
+{"idx": 693, "label": "reminder/cancel_reminder", "text": "ezeztatu domu santu egunerako gogorarazlea"}
+{"idx": 694, "label": "reminder/show_reminders", "text": "erakutsi gaurko gogorarazle guztiak"}
+{"idx": 695, "label": "alarm/snooze_alarm", "text": "jo berriro goizeko 6etako alarma 5 minutuz behin"}
+{"idx": 696, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko ?"}
+{"idx": 697, "label": "alarm/modify_alarm", "text": "aldatu alarma goizeko 11 : 15etik eguerdiko 12 : 15era"}
+{"idx": 698, "label": "reminder/cancel_reminder", "text": "desaktibatu asteburu honetako gogorarazle guztiak"}
+{"idx": 699, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 700, "label": "reminder/show_reminders", "text": "erakutsi gaur gaueko gogorarazleak"}
+{"idx": 701, "label": "reminder/cancel_reminder", "text": "gogorarazle guztiak ezeztatu"}
+{"idx": 702, "label": "alarm/modify_alarm", "text": "atzeratu beste 45 minutuz alarma"}
+{"idx": 703, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 704, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 10etan"}
+{"idx": 705, "label": "reminder/cancel_reminder", "text": "ezabatu biharko medikuaren gogorarazlea"}
+{"idx": 706, "label": "alarm/set_alarm", "text": "jarri alarma iluntzeko 8etan garbigailua jartzeko"}
+{"idx": 707, "label": "weather/find", "text": "aste honetan euririk egin behar du ?"}
+{"idx": 708, "label": "alarm/set_alarm", "text": "jarri beste alarma bat arratsaldeko 7etan"}
+{"idx": 709, "label": "reminder/cancel_reminder", "text": "ezabatu gogorarazle guztiak"}
+{"idx": 710, "label": "alarm/cancel_alarm", "text": "gelditu alarma guztiak"}
+{"idx": 711, "label": "reminder/cancel_reminder", "text": "ezeztatu asteazkenean 1ean medikua daukadala"}
+{"idx": 712, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazleak ."}
+{"idx": 713, "label": "reminder/set_reminder", "text": "gogorarazi ostiralean medikuarekin hitzordua dudala ."}
+{"idx": 714, "label": "alarm/modify_alarm", "text": "aldatu goizaldeko 1eko alarma 1 : 30era"}
+{"idx": 715, "label": "reminder/show_reminders", "text": "erakutsi klasera joateko gogorarazlea"}
+{"idx": 716, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 8 minutura"}
+{"idx": 717, "label": "reminder/set_reminder", "text": "gogorarazi bihar goizeko hitzordua ezeztatzea"}
+{"idx": 718, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da eskolako alarmak jotzeko"}
+{"idx": 719, "label": "alarm/modify_alarm", "text": "gehitu 20 minutu hurrengo alarmari"}
+{"idx": 720, "label": "alarm/modify_alarm", "text": "aldatu alarma 7 : 30era"}
+{"idx": 721, "label": "weather/find", "text": "zer eguraldi iragarri dute datorren astebururako ?"}
+{"idx": 722, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazle guztiak"}
+{"idx": 723, "label": "alarm/modify_alarm", "text": "gaurko alarma 4 : 30etik 5 : 30era aldatuko duzu ?"}
+{"idx": 724, "label": "alarm/modify_alarm", "text": "gehitu beste 15 minutu alarma-errepikapenari"}
+{"idx": 725, "label": "weather/find", "text": "lainotuta egongo da egun osoan ?"}
+{"idx": 726, "label": "reminder/show_reminders", "text": "esan zer gogorarazle dauden biharko"}
+{"idx": 727, "label": "alarm/set_alarm", "text": "jo alarma arratsaldeko 6etan bihar"}
+{"idx": 728, "label": "reminder/show_reminders", "text": "erakutsi eskolako lehen egunaren gogorarazlea ."}
+{"idx": 729, "label": "weather/find", "text": "zer eguraldi egingo du iru\u00f1ean arratsaldean ?"}
+{"idx": 730, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 731, "label": "weather/find", "text": "elurra egiteko aukera"}
+{"idx": 732, "label": "alarm/set_alarm", "text": "jarri alarma bat 30 minutura jotzeko ostiralean goizeko 8etan"}
+{"idx": 733, "label": "reminder/show_reminders", "text": "erakutsi gaurko eta biharko gogorarazle guztiak"}
+{"idx": 734, "label": "weather/find", "text": "aste honetan elurra egingo du"}
+{"idx": 735, "label": "weather/find", "text": "zer eramango dut gaur hondartzara , jertsea ala bikinia ?"}
+{"idx": 736, "label": "alarm/set_alarm", "text": "jarri alarma bihar goizeko 5 : 20rako"}
+{"idx": 737, "label": "reminder/set_reminder", "text": "gogorarazi bihar esnea erostea"}
+{"idx": 738, "label": "alarm/show_alarms", "text": "badaukat alarmarik jarrita biharko ?"}
+{"idx": 739, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da hurrengo alarmarako ?"}
+{"idx": 740, "label": "weather/find", "text": "zer eguraldi egiten du gaur lapurdiko getarian ?"}
+{"idx": 741, "label": "reminder/show_reminders", "text": "badut gogorarazlerik biharko ?"}
+{"idx": 742, "label": "alarm/set_alarm", "text": "jo alarma goizeko 7etan"}
+{"idx": 743, "label": "reminder/show_reminders", "text": "zenbat gogorarazle dauzkat jarrita gaurko ?"}
+{"idx": 744, "label": "reminder/show_reminders", "text": "erakutsi gogorarazleen zerrenda"}
+{"idx": 745, "label": "weather/find", "text": "zer eguraldi egiten du gaur donostian ?"}
+{"idx": 746, "label": "alarm/show_alarms", "text": "jarri dut alarmarik biharko ?"}
+{"idx": 747, "label": "reminder/show_reminders", "text": "erakutsi asteazkeneko hitzordurako gogorarazlea"}
+{"idx": 748, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 749, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 750, "label": "alarm/modify_alarm", "text": "aldatu alarma goizeko 8etara"}
+{"idx": 751, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma"}
+{"idx": 752, "label": "alarm/show_alarms", "text": "esan zer alarma dauden jarrita"}
+{"idx": 753, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 754, "label": "alarm/modify_alarm", "text": "errepikatu alarma bihar"}
+{"idx": 755, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 756, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 10 minutu barru"}
+{"idx": 757, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 2 minutura"}
+{"idx": 758, "label": "reminder/set_reminder", "text": "jarri gogorarazle bat gaueko 9etarako"}
+{"idx": 759, "label": "alarm/modify_alarm", "text": "aldatu goizeko 5etako alarma arratsaldeko 5etara"}
+{"idx": 760, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora geratzen da alarmak jo arte ?"}
+{"idx": 761, "label": "alarm/show_alarms", "text": "erakutsi datorren hileko alarmak"}
+{"idx": 762, "label": "alarm/cancel_alarm", "text": "ezabatu alarmak"}
+{"idx": 763, "label": "alarm/show_alarms", "text": "erakutsi astelehenerako alarmak"}
+{"idx": 764, "label": "reminder/cancel_reminder", "text": "ezabatu eskolara joateko gogorarazlea"}
+{"idx": 765, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur ?"}
+{"idx": 766, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma"}
+{"idx": 767, "label": "reminder/show_reminders", "text": "erakutsi aste honetako gogorarazle guztiak ."}
+{"idx": 768, "label": "alarm/cancel_alarm", "text": "ezabatu alarma"}
+{"idx": 769, "label": "reminder/set_reminder", "text": "gogorarazi katakumearentzat janaria erostea ."}
+{"idx": 770, "label": "alarm/modify_alarm", "text": "gehitu larunbata goizeko alarmari"}
+{"idx": 771, "label": "alarm/set_alarm", "text": "alarma goizeko 5etan"}
+{"idx": 772, "label": "weather/checkSunset", "text": "zer ordutan sartuko da eguzkia"}
+{"idx": 773, "label": "reminder/show_reminders", "text": "zenbat gogorarazle dauzkat aktibatuta ?"}
+{"idx": 774, "label": "alarm/set_alarm", "text": "jarri bigarren alarma bat 8etarako"}
+{"idx": 775, "label": "reminder/set_reminder", "text": "gogorazi gaur gauean amari deitzea"}
+{"idx": 776, "label": "alarm/modify_alarm", "text": "aldatu goizeko 7etako alarma 8etara"}
+{"idx": 777, "label": "alarm/show_alarms", "text": "alarmarik badut jarrita ?"}
+{"idx": 778, "label": "alarm/cancel_alarm", "text": "itzali ostiral goizerako alarma"}
+{"idx": 779, "label": "reminder/cancel_reminder", "text": "ezeztatu esnea erosteko gogorarazlea"}
+{"idx": 780, "label": "alarm/cancel_alarm", "text": "desaktibatu biharko alarma"}
+{"idx": 781, "label": "alarm/show_alarms", "text": "badut alarmarik goizerako ?"}
+{"idx": 782, "label": "alarm/cancel_alarm", "text": "itzali alarma"}
+{"idx": 783, "label": "reminder/cancel_reminder", "text": "ezeztatu ordu batean bankura joateko gogorarazlea"}
+{"idx": 784, "label": "alarm/set_alarm", "text": "jarri alarma arratsaldeko 5etarako"}
+{"idx": 785, "label": "reminder/show_reminders", "text": "erakutsi eguneroko gogorarazlea"}
+{"idx": 786, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 6etarako"}
+{"idx": 787, "label": "alarm/cancel_alarm", "text": "ez errepikatu alarmarik"}
+{"idx": 788, "label": "alarm/show_alarms", "text": "erakutsi datorren asteko alarmak"}
+{"idx": 789, "label": "reminder/set_reminder", "text": "ezarri gogorarazle bat aiurirekin hitz egiteko ."}
+{"idx": 790, "label": "reminder/show_reminders", "text": "erakutsi gogorarazlea"}
+{"idx": 791, "label": "weather/checkSunrise", "text": "zer ordutan da egunsentia"}
+{"idx": 792, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 793, "label": "alarm/set_alarm", "text": "jarri alarma arratsaldeko 3etan"}
+{"idx": 794, "label": "weather/checkSunset", "text": "zer ordutan ilunduko du gaur"}
+{"idx": 795, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma guztiak"}
+{"idx": 796, "label": "reminder/set_reminder", "text": "gogorarazi ohera joan aurretik biharko bazkaria prest uztea"}
+{"idx": 797, "label": "alarm/cancel_alarm", "text": "kendu aste honetako alarma guztiak oporretan nagoen bitartean"}
+{"idx": 798, "label": "alarm/show_alarms", "text": "erakutsi une honetan jarrita dauden alarmak ."}
+{"idx": 799, "label": "weather/find", "text": "euria egingo du gaur ?"}
+{"idx": 800, "label": "alarm/cancel_alarm", "text": "berrezarri alarma"}
+{"idx": 801, "label": "alarm/show_alarms", "text": "erakutsi alarma"}
+{"idx": 802, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora pasatuko da alarmak jotzerako"}
+{"idx": 803, "label": "weather/find", "text": "euria egingo du datorren astean ?"}
+{"idx": 804, "label": "alarm/snooze_alarm", "text": "jo berriro alarma hau 15 minutura"}
+{"idx": 805, "label": "weather/find", "text": "galtza motzak jantzi ditzaket gaur ?"}
+{"idx": 806, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko ?"}
+{"idx": 807, "label": "reminder/set_reminder", "text": "gogorarazi yoga klasea dudala"}
+{"idx": 808, "label": "alarm/cancel_alarm", "text": "utzi bertan behera 4 : 30eko alarma"}
+{"idx": 809, "label": "reminder/set_reminder", "text": "gogorarazi botika 12 ordutik behin hartzea , hemendik aurrera"}
+{"idx": 810, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat gaurko ?"}
+{"idx": 811, "label": "alarm/snooze_alarm", "text": "jo alarma guztiak berriro 7 minutura"}
+{"idx": 812, "label": "reminder/cancel_reminder", "text": "desaktibatu gogorarazle guztiak"}
+{"idx": 813, "label": "alarm/cancel_alarm", "text": "ezabatu alarma"}
+{"idx": 814, "label": "reminder/set_reminder", "text": "ezarri gogorarazlea fisioaren hitzordurako ostiral honetan , goizeko bederatzi eta erdietan"}
+{"idx": 815, "label": "weather/find", "text": "zenbat euri egitea espero da ?"}
+{"idx": 816, "label": "alarm/show_alarms", "text": "jakin nahi dut zer alarma dauzkadan jarrita ."}
+{"idx": 817, "label": "reminder/cancel_reminder", "text": "ezabatu eguneroko gogorarazle ak"}
+{"idx": 818, "label": "weather/find", "text": "zenbat euri egiten du batez beste gasteizen ?"}
+{"idx": 819, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko ?"}
+{"idx": 820, "label": "alarm/cancel_alarm", "text": "ezabatu alarma guztiak ."}
+{"idx": 821, "label": "alarm/set_alarm", "text": "alarma bihar goizeko 7etarako jarri behar dut"}
+{"idx": 822, "label": "alarm/cancel_alarm", "text": "kendu gaurko gaueko 10etarako alarma"}
+{"idx": 823, "label": "alarm/cancel_alarm", "text": "gelditu alarma ."}
+{"idx": 824, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 825, "label": "reminder/show_reminders", "text": "erakutsi futbol-partidaren gogorarazlea zer ordutan jarrita daukadan ."}
+{"idx": 826, "label": "weather/find", "text": "zer tenperatura egingo du"}
+{"idx": 827, "label": "reminder/show_reminders", "text": "erakutsi osteguneko gogorarazlea"}
+{"idx": 828, "label": "alarm/cancel_alarm", "text": "ezeztatu arratsaldeko 4etako alarma"}
+{"idx": 829, "label": "alarm/set_alarm", "text": "gehitu alarma bat larunbatean , goizeko 11etan"}
+{"idx": 830, "label": "weather/find", "text": "zenbat cm elur egingo du gaur gauean ?"}
+{"idx": 831, "label": "alarm/set_alarm", "text": "jarri alarma arratsaldeko 7etan ."}
+{"idx": 832, "label": "alarm/cancel_alarm", "text": "ezeztatu goizeko 7etako alarma"}
+{"idx": 833, "label": "reminder/set_reminder", "text": "pastela enkargatzeko gogorarazle berria"}
+{"idx": 834, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma ."}
+{"idx": 835, "label": "weather/find", "text": "gaurko eguraldia"}
+{"idx": 836, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 10 minutura"}
+{"idx": 837, "label": "reminder/cancel_reminder", "text": "ezeztatu ostiraleko gogorarazle guztiak"}
+{"idx": 838, "label": "alarm/snooze_alarm", "text": "jo berriro alarma guztiak 5 minutu geroago"}
+{"idx": 839, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 840, "label": "alarm/snooze_alarm", "text": "jo alarma berriro ordubetera"}
+{"idx": 841, "label": "reminder/cancel_reminder", "text": "ez egin jaramonik biharko gogorarazleei ."}
+{"idx": 842, "label": "weather/checkSunrise", "text": "zer ordutan izango da egunsentia bihar"}
+{"idx": 843, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat"}
+{"idx": 844, "label": "alarm/set_alarm", "text": "jarri alarma bat gaur gaueko 10 : 30erako"}
+{"idx": 845, "label": "reminder/set_reminder", "text": "gogorarazi telefonoaren faktura ordaintzea datorren astean"}
+{"idx": 846, "label": "alarm/cancel_alarm", "text": "ezeztatu igandeko alarma guztiak"}
+{"idx": 847, "label": "alarm/snooze_alarm", "text": "jo berriro alarma"}
+{"idx": 848, "label": "weather/checkSunset", "text": "noiz ilunduko du"}
+{"idx": 849, "label": "alarm/modify_alarm", "text": "errepikatu alarma goizeko zazpiak laurden gutxiagotan astelehenetik ostiralera"}
+{"idx": 850, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 851, "label": "weather/find", "text": "zenbat elur egingo du gaur ?"}
+{"idx": 852, "label": "weather/find", "text": "zer eguraldi dago iragarrita durangon datorren astean ?"}
+{"idx": 853, "label": "reminder/set_reminder", "text": "gogorarazi ostegunean 4etan amari deitzea zorionak emateko"}
+{"idx": 854, "label": "alarm/set_alarm", "text": "jarri alarma arratsaldeko seiak laurden gutxitan"}
+{"idx": 855, "label": "reminder/show_reminders", "text": "erakutsi amaren etxeko gogorarazleak"}
+{"idx": 856, "label": "alarm/modify_alarm", "text": "errepikatu alarma beste bi aldiz erreskadan"}
+{"idx": 857, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 858, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora barru joko du alarmak ?"}
+{"idx": 859, "label": "reminder/cancel_reminder", "text": "ezabatu gogorarazle guztiak"}
+{"idx": 860, "label": "reminder/set_reminder", "text": "jarri alarma gogorarazle bat astearte honetan arratsaldeko 3etan dudan hitzordurako"}
+{"idx": 861, "label": "weather/find", "text": "zer tenperatura egingo du gauean baionan ?"}
+{"idx": 862, "label": "weather/find", "text": "zer eguraldi egingo du bihar ?"}
+{"idx": 863, "label": "reminder/set_reminder", "text": "gogorarazi nerea lagun-zerrendatik kentzea ."}
+{"idx": 864, "label": "weather/find", "text": "zer ordutan hasiko da euria ?"}
+{"idx": 865, "label": "reminder/cancel_reminder", "text": "ezabatu duela ordubete sortu dudan gogorarazlea"}
+{"idx": 866, "label": "reminder/cancel_reminder", "text": "ezeztatu umeak 4etan jasotzeko gogorarazlea"}
+{"idx": 867, "label": "reminder/cancel_reminder", "text": "ezeztatu azken gogorarazlea"}
+{"idx": 868, "label": "reminder/show_reminders", "text": "zer gogorarazle ditut ostegunerako"}
+{"idx": 869, "label": "alarm/show_alarms", "text": "erakutsi alarmak"}
+{"idx": 870, "label": "alarm/show_alarms", "text": "noiz joko du hurrengo eguneko alarmak"}
+{"idx": 871, "label": "alarm/modify_alarm", "text": "errepikatu azken alarma hilero"}
+{"idx": 872, "label": "reminder/show_reminders", "text": "zenbat gogorarazle dauzkat ezarrita hilabete honetarako ?"}
+{"idx": 873, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazlea"}
+{"idx": 874, "label": "reminder/set_reminder", "text": "gogorarazi larunbateko jaia"}
+{"idx": 875, "label": "reminder/cancel_reminder", "text": "ezeztatu bihar mikel ikustera joateko gogorarazlea"}
+{"idx": 876, "label": "alarm/time_left_on_alarm", "text": "hemendik zenbatera joko du alarmak ?"}
+{"idx": 877, "label": "weather/find", "text": "arratsaldean elurra egingo du ?"}
+{"idx": 878, "label": "reminder/set_reminder", "text": "jarri gogorarazle bat 30 minutu barru labea itzaltzeko"}
+{"idx": 879, "label": "alarm/show_alarms", "text": "zenbat alarma daude jarrita astelehenerako"}
+{"idx": 880, "label": "alarm/set_alarm", "text": "jo alarma 5 minutuz behin ordubetean , goizeko 5etatik aurrera"}
+{"idx": 881, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 882, "label": "alarm/snooze_alarm", "text": "jo berriro alarma guztiak 5 minutu beranduago"}
+{"idx": 883, "label": "reminder/set_reminder", "text": "jarri gogorarazle bat ostiralerako , ama aireportuan jaso behar dudala gogorarazteko"}
+{"idx": 884, "label": "weather/find", "text": "zer tenperatura egingo du bihar ?"}
+{"idx": 885, "label": "reminder/cancel_reminder", "text": "ezeztatu biharko gogorarazle guztiak ."}
+{"idx": 886, "label": "alarm/snooze_alarm", "text": "alarma berriro jo geroago"}
+{"idx": 887, "label": "reminder/show_reminders", "text": "esan zer gogorarazle ditudan biharko"}
+{"idx": 888, "label": "weather/find", "text": "zer ordutan sartuko da enbata gaur arratsaldean ?"}
+{"idx": 889, "label": "reminder/show_reminders", "text": "zein da hurrengo gogorarazlea ?"}
+{"idx": 890, "label": "reminder/cancel_reminder", "text": "ezeztatu erosketak egiteko gogorarazlea"}
+{"idx": 891, "label": "reminder/cancel_reminder", "text": "ezeztatu arratsaldeko 3etan autoa garbitzeko gogorarazlea"}
+{"idx": 892, "label": "alarm/modify_alarm", "text": "alarma hau asteburuetan bakarrik errepikatu"}
+{"idx": 893, "label": "reminder/cancel_reminder", "text": "ezeztatu ogia erostera joateko gogorarazlea"}
+{"idx": 894, "label": "alarm/show_alarms", "text": "zer alarma daude jarrita ?"}
+{"idx": 895, "label": "alarm/modify_alarm", "text": "atzeratu alarma 30 segundo ."}
+{"idx": 896, "label": "reminder/cancel_reminder", "text": "ez gogorarazi ostiralean azokara joatea ."}
+{"idx": 897, "label": "reminder/cancel_reminder", "text": "ezeztatu sagarrak erosteko gogorarazlea"}
+{"idx": 898, "label": "alarm/show_alarms", "text": "uneko alarmak"}
+{"idx": 899, "label": "alarm/set_alarm", "text": "jo alarma gaur arratsaldeko 7etan"}
+{"idx": 900, "label": "alarm/cancel_alarm", "text": "ezeztatu astelehenerako alarma"}
+{"idx": 901, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak"}
+{"idx": 902, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 15 minutu barru ."}
+{"idx": 903, "label": "alarm/cancel_alarm", "text": "ezabatu arratsaldeko 5etako alarma"}
+{"idx": 904, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmarako"}
+{"idx": 905, "label": "reminder/show_reminders", "text": "zein da hurrengo gogorarazlea"}
+{"idx": 906, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak ."}
+{"idx": 907, "label": "alarm/snooze_alarm", "text": "jo berriro geroxeago 19 : 45eko alarma ."}
+{"idx": 908, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 15 minutura"}
+{"idx": 909, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak ."}
+{"idx": 910, "label": "reminder/set_reminder", "text": "erosketak egitera 9etan , gogorarazi"}
+{"idx": 911, "label": "alarm/show_alarms", "text": "erakutsi alarma guztiak ."}
+{"idx": 912, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 9etan"}
+{"idx": 913, "label": "weather/find", "text": "berokia hartzea komeni da ?"}
+{"idx": 914, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora dut alarmak jo aurretik ?"}
+{"idx": 915, "label": "reminder/show_reminders", "text": "erakutsi gaurko gogorarazle guztiak"}
+{"idx": 916, "label": "alarm/cancel_alarm", "text": "ezeztatu bihar goizeko alarma"}
+{"idx": 917, "label": "alarm/set_alarm", "text": "ezarri alarma 11etan postetxera joateko"}
+{"idx": 918, "label": "reminder/cancel_reminder", "text": "ezeztatu afariaren gogorarazlea"}
+{"idx": 919, "label": "reminder/show_reminders", "text": "erakutsi biharko gogorarazleak"}
+{"idx": 920, "label": "weather/find", "text": "esan zer eguraldi egingo duen bihar goizean"}
+{"idx": 921, "label": "alarm/show_alarms", "text": "zenbat alarma dauzkat jarrita biharko ?"}
+{"idx": 922, "label": "weather/find", "text": "euririk eman dute ostegunerako ?"}
+{"idx": 923, "label": "reminder/set_reminder", "text": "gogorarazi ez diodala mezurik bidali behar nire mutil-lagun ohiari etxera iristen naizenean"}
+{"idx": 924, "label": "reminder/set_reminder", "text": "gogorazi gaur gauean afaria egitea"}
+{"idx": 925, "label": "alarm/cancel_alarm", "text": "desaktibatu eguneroko alarma"}
+{"idx": 926, "label": "reminder/show_reminders", "text": "gogorarazlea ezarrita dago ?"}
+{"idx": 927, "label": "alarm/set_alarm", "text": "aktibatu alarmak ."}
+{"idx": 928, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazle guztiak"}
+{"idx": 929, "label": "weather/checkSunset", "text": "noiz sartzen da eguzkia gaur"}
+{"idx": 930, "label": "reminder/show_reminders", "text": "erakutsi datorren asteko gogorarazleak ."}
+{"idx": 931, "label": "weather/find", "text": "eguzkitsu egongo da gaur"}
+{"idx": 932, "label": "alarm/show_alarms", "text": "esan zer alarma dauzkadan"}
+{"idx": 933, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta zaio alarmari"}
+{"idx": 934, "label": "alarm/cancel_alarm", "text": "ezeztatu bihar goizeko alarma"}
+{"idx": 935, "label": "weather/find", "text": "gauean euria egingo du ?"}
+{"idx": 936, "label": "alarm/snooze_alarm", "text": "jo berriro alarma hau hemendik ordubetera ."}
+{"idx": 937, "label": "reminder/set_reminder", "text": "jarri gogorarazlea bidean albaitariarenean gelditzeko"}
+{"idx": 938, "label": "weather/find", "text": "euria egingo du ?"}
+{"idx": 939, "label": "alarm/snooze_alarm", "text": "jo berriro uneko alarma geroxeago"}
+{"idx": 940, "label": "reminder/cancel_reminder", "text": "ezeztatu gaurko gogorarazle guztiak"}
+{"idx": 941, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 15 minutura"}
+{"idx": 942, "label": "reminder/show_reminders", "text": "osteguneko medikuaren hitzordurako gogorarazlerik jarri dut ?"}
+{"idx": 943, "label": "alarm/show_alarms", "text": "zer alarma dauzkat aktibatuta ?"}
+{"idx": 944, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 20 minutura"}
+{"idx": 945, "label": "alarm/modify_alarm", "text": "errepikatu alarmak astero"}
+{"idx": 946, "label": "reminder/cancel_reminder", "text": "ezeztatu biharko gogorarazleak"}
+{"idx": 947, "label": "weather/find", "text": "zein izango da tenperatura minimoa gaur"}
+{"idx": 948, "label": "alarm/modify_alarm", "text": "aldatu alarma goizeko seietatik bostetara"}
+{"idx": 949, "label": "reminder/cancel_reminder", "text": "ezeztatu bihar zapatak jasotzeko gogorarazlea ."}
+{"idx": 950, "label": "weather/find", "text": "zer eguraldi egingo du bihar"}
+{"idx": 951, "label": "alarm/modify_alarm", "text": "atzeratu 6 minutu aktibo dagoen lehenengo alarma"}
+{"idx": 952, "label": "alarm/show_alarms", "text": "erakutsi gaur arratsaldeko alarmak"}
+{"idx": 953, "label": "alarm/snooze_alarm", "text": "gelditu alarma"}
+{"idx": 954, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 15 minutura"}
+{"idx": 955, "label": "reminder/set_reminder", "text": "gogorarazi gaurko bidaiarako janaria eta edaria erostea"}
+{"idx": 956, "label": "reminder/set_reminder", "text": "gogorarazi bihar arratsaldeko 6etan hitzordua dudala"}
+{"idx": 957, "label": "alarm/show_alarms", "text": "noiz joko du hurrengo alarmak"}
+{"idx": 958, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora daukat jarrita alarman ?"}
+{"idx": 959, "label": "reminder/show_reminders", "text": "erakutsi asteburu honetako gogorarazle guztiak"}
+{"idx": 960, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak"}
+{"idx": 961, "label": "alarm/cancel_alarm", "text": "gelditu alarma 15 minutu barru ."}
+{"idx": 962, "label": "reminder/set_reminder", "text": "gogorarazi komuneko papera erostea bihar"}
+{"idx": 963, "label": "alarm/set_alarm", "text": "jarri alarma bat astelehenetan eta astearteetan goizeko 3etan"}
+{"idx": 964, "label": "reminder/show_reminders", "text": "noiz da hurrengo gogorarazlea ?"}
+{"idx": 965, "label": "alarm/show_alarms", "text": "alarma jarrita dago biharko ?"}
+{"idx": 966, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat ?"}
+{"idx": 967, "label": "alarm/modify_alarm", "text": "atzeratu goizeko alarma 30 minutuz ."}
+{"idx": 968, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora geratzen zaio alarmari"}
+{"idx": 969, "label": "reminder/set_reminder", "text": "ezarri gogorarazle bat okindegian ogia erosteko ."}
+{"idx": 970, "label": "reminder/set_reminder", "text": "gogorarazi irten aurretik mapan bidea begiratzea ."}
+{"idx": 971, "label": "reminder/set_reminder", "text": "jarri ohera joateko gogorarazlea 10 : 30ean"}
+{"idx": 972, "label": "alarm/cancel_alarm", "text": "ezeztatu astearteko alarma"}
+{"idx": 973, "label": "reminder/set_reminder", "text": "gogorarazi etxerakoan xanpua erostea ."}
+{"idx": 974, "label": "weather/find", "text": "noiz atertuko du ?"}
+{"idx": 975, "label": "weather/find", "text": "eguraldia londresen datorren astean"}
+{"idx": 976, "label": "reminder/set_reminder", "text": "gogorarazi amari deitzea 5 minutu barru"}
+{"idx": 977, "label": "reminder/show_reminders", "text": "erakutsi gogorarazleen zerrenda ."}
+{"idx": 978, "label": "alarm/show_alarms", "text": "erakutsi aktibo dauden alarma guztiak ."}
+{"idx": 979, "label": "alarm/cancel_alarm", "text": "ezeztatu biharko alarma"}
+{"idx": 980, "label": "reminder/set_reminder", "text": "jarri beste gogorarazle bat bihar 1ean lanera joateko ."}
+{"idx": 981, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 7etan , astelehenetik ostiralera ."}
+{"idx": 982, "label": "reminder/cancel_reminder", "text": "ezeztatu korrika egitera joateko gogorarazle guztiak"}
+{"idx": 983, "label": "reminder/cancel_reminder", "text": "ezeztatu hurrengo gogorarazlea ."}
+{"idx": 984, "label": "reminder/cancel_reminder", "text": "ezeztatu gogorarazleak"}
+{"idx": 985, "label": "alarm/show_alarms", "text": "zenbat alarma daude jarrita ?"}
+{"idx": 986, "label": "reminder/set_reminder", "text": "gogorarazi zakar-poltsak erostea"}
+{"idx": 987, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 6etarako"}
+{"idx": 988, "label": "reminder/show_reminders", "text": "erakutsi gogorarazle guztiak ."}
+{"idx": 989, "label": "alarm/show_alarms", "text": "noiz joko du hurrengo alarmak"}
+{"idx": 990, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 10 minutura ."}
+{"idx": 991, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 8etarako"}
+{"idx": 992, "label": "reminder/show_reminders", "text": "bistaratu biharko gogorarazlea"}
+{"idx": 993, "label": "reminder/set_reminder", "text": "gogorarazi etxerako bidean gasolina hartu behar dudala"}
+{"idx": 994, "label": "reminder/show_reminders", "text": "zer gogorarazle dauzkat gaur"}
+{"idx": 995, "label": "alarm/set_alarm", "text": "jarri alarma bat egun osoan 4 orduz behin jotzeko"}
+{"idx": 996, "label": "weather/find", "text": "zer eguraldi egingo du gaur gauean ?"}
+{"idx": 997, "label": "reminder/show_reminders", "text": "zer gogorarazle datoz hurrengo ?"}
+{"idx": 998, "label": "alarm/snooze_alarm", "text": "alarmak 8 minutura berriro jotzea nahi dut"}
+{"idx": 999, "label": "alarm/show_alarms", "text": "zer ordutarako dago jarrita asteleheneko alarma ?"}
+{"idx": 1000, "label": "alarm/snooze_alarm", "text": "jo berriro alarma beste 10 minutura"}
+{"idx": 1001, "label": "weather/find", "text": "aste honetan hogeita hamar gradutik gora egingo du egunen batean ?"}
+{"idx": 1002, "label": "alarm/cancel_alarm", "text": "ezeztatu hurrengo asterako alarma guztiak"}
+{"idx": 1003, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 10 minutu barru ."}
+{"idx": 1004, "label": "alarm/time_left_on_alarm", "text": "zenbat minutu falta dira alarmak jotzeko"}
+{"idx": 1005, "label": "alarm/time_left_on_alarm", "text": "zenbat falta da alarmak jotzeko ?"}
+{"idx": 1006, "label": "alarm/cancel_alarm", "text": "ezeztatu biharko alarma"}
+{"idx": 1007, "label": "alarm/cancel_alarm", "text": "ezeztatu uneko alarma ."}
+{"idx": 1008, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora pasatuko da alarmak jo aurretik ?"}
+{"idx": 1009, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma"}
+{"idx": 1010, "label": "alarm/show_alarms", "text": "alarmarik badut jarrita gaurko ?"}
+{"idx": 1011, "label": "alarm/show_alarms", "text": "noiz da hurrengo alarma"}
+{"idx": 1012, "label": "alarm/cancel_alarm", "text": "ezeztatu bihar goizeko alarma"}
+{"idx": 1013, "label": "weather/find", "text": "elurrik egin behar du gaur"}
+{"idx": 1014, "label": "alarm/show_alarms", "text": "zer ordutarako dago jarrita bihar alarma ?"}
+{"idx": 1015, "label": "alarm/cancel_alarm", "text": "ezeztatu ostiraleko alarma guztiak"}
+{"idx": 1016, "label": "alarm/show_alarms", "text": "alarmarik badut jarrita goizeko 7etarako ?"}
+{"idx": 1017, "label": "alarm/set_alarm", "text": "alarmak jo dezala 8etan"}
+{"idx": 1018, "label": "alarm/set_alarm", "text": "jarri alarma arratsaldeko 3etan egunero"}
+{"idx": 1019, "label": "alarm/cancel_alarm", "text": "ezeztatu gaur arratsaldeko 6etako alarma"}
+{"idx": 1020, "label": "alarm/show_alarms", "text": "zenbat alarma dauzkat jarrita ?"}
+{"idx": 1021, "label": "alarm/modify_alarm", "text": "aldatu alarma 18 : 45era"}
+{"idx": 1022, "label": "alarm/modify_alarm", "text": "aldatu alarma goizeko 5etatik arratsaldeko 5etara"}
+{"idx": 1023, "label": "alarm/modify_alarm", "text": "aldatu biharko alarma"}
+{"idx": 1024, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 10 minutu barru ."}
+{"idx": 1025, "label": "alarm/cancel_alarm", "text": "ezabatu goizeko alarma"}
+{"idx": 1026, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da goizeko alarmak jotzeko ?"}
+{"idx": 1027, "label": "alarm/set_alarm", "text": "jarri alarma bat gaur goizeko 11etan jotzeko"}
+{"idx": 1028, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 1029, "label": "alarm/snooze_alarm", "text": "eten alarma guztiak"}
+{"idx": 1030, "label": "alarm/cancel_alarm", "text": "ezeztatu nire telefonoan aktibatuta dauden alarma guztiak ."}
+{"idx": 1031, "label": "alarm/time_left_on_alarm", "text": "zenbat ordu falta dira alarmak jotzeko"}
+{"idx": 1032, "label": "alarm/show_alarms", "text": "zer ordutan dago jarrita biharko alarma"}
+{"idx": 1033, "label": "alarm/show_alarms", "text": "noiz joko du hurrengo alarmak ?"}
+{"idx": 1034, "label": "alarm/show_alarms", "text": "esan zer alarma dauzkadan jarrita gaurko ."}
+{"idx": 1035, "label": "alarm/cancel_alarm", "text": "ezeztatu goizeko 9etako alarma"}
+{"idx": 1036, "label": "alarm/cancel_alarm", "text": "ezabatu gaur arratsaldeko 7etako alarma"}
+{"idx": 1037, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 8etan , astelehenetik ostiralera"}
+{"idx": 1038, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 1039, "label": "reminder/show_reminders", "text": "erakutsi gogorarazlea ."}
+{"idx": 1040, "label": "alarm/cancel_alarm", "text": "itzali alarma guztiak"}
+{"idx": 1041, "label": "alarm/set_alarm", "text": "jarri alarma bat gaur arratsaldeko 3etan jotzeko ."}
+{"idx": 1042, "label": "alarm/snooze_alarm", "text": "jo 7etako alarma berriro 45 minutu geroago"}
+{"idx": 1043, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma"}
+{"idx": 1044, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 10 minutura"}
+{"idx": 1045, "label": "alarm/set_alarm", "text": "jarri alarma bat astearte goizeko 11etan , \u201c medikua \u201d izenekoa"}
+{"idx": 1046, "label": "alarm/modify_alarm", "text": "aldatu goizeko 5etako alarma 5 : 30era"}
+{"idx": 1047, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da bigarren alarmak jotzeko ?"}
+{"idx": 1048, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma guztiak"}
+{"idx": 1049, "label": "alarm/time_left_on_alarm", "text": "hemendik zenbatera joko du alarmak ?"}
+{"idx": 1050, "label": "alarm/set_alarm", "text": "jo alarma hamar minutuz behin"}
+{"idx": 1051, "label": "alarm/show_alarms", "text": "erakutsi dauden alarma guztiak ."}
+{"idx": 1052, "label": "alarm/modify_alarm", "text": "aldatu biharko alarma zortziak eta laurdenetatik bederatziak eta laurdenetara"}
+{"idx": 1053, "label": "alarm/time_left_on_alarm", "text": "zenbat ordu falta dira alarmak jotzeko"}
+{"idx": 1054, "label": "alarm/snooze_alarm", "text": "jo berriro alarma geroxeago"}
+{"idx": 1055, "label": "alarm/set_alarm", "text": "aktibatu alarma bat egunero eguerdiko 2etan"}
+{"idx": 1056, "label": "alarm/snooze_alarm", "text": "jo berriro alarma 20 minutura"}
+{"idx": 1057, "label": "alarm/set_alarm", "text": "jarri alarma goizeko 7etarako"}
+{"idx": 1058, "label": "alarm/show_alarms", "text": "zenbat alarma dauzkat jarrita"}
+{"idx": 1059, "label": "alarm/cancel_alarm", "text": "ezeztatu goizeko 7etako alarma"}
+{"idx": 1060, "label": "alarm/cancel_alarm", "text": "ezikusi egin alarma guztiei"}
+{"idx": 1061, "label": "alarm/show_alarms", "text": "zer ordutan joko du alarmak"}
+{"idx": 1062, "label": "alarm/modify_alarm", "text": "alarma aldatu nahi dut"}
+{"idx": 1063, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jo arte"}
+{"idx": 1064, "label": "alarm/set_alarm", "text": "jarri alarma hemendik 3 ordura jotzeko"}
+{"idx": 1065, "label": "alarm/cancel_alarm", "text": "ezeztatu larunbateko alarma ."}
+{"idx": 1066, "label": "alarm/set_alarm", "text": "ile-apaindegira joateko alarma eguerdiko 12etan jarri nahi nuke"}
+{"idx": 1067, "label": "alarm/set_alarm", "text": "jarri alarma goizaldeko 1etarako asteartean"}
+{"idx": 1068, "label": "alarm/modify_alarm", "text": "aldatu gaurko arratsaldeko 5etako alarma 5 : 30era"}
+{"idx": 1069, "label": "alarm/snooze_alarm", "text": "jo alarma berriro 10 minutura"}
+{"idx": 1070, "label": "alarm/cancel_alarm", "text": "ezeztatu bihar goizeko 11etarako alarma"}
+{"idx": 1071, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma asteburuetan"}
+{"idx": 1072, "label": "alarm/cancel_alarm", "text": "ezeztatu alarmak"}
+{"idx": 1073, "label": "alarm/show_alarms", "text": "zer ordutarako dago jarrita alarma"}
+{"idx": 1074, "label": "alarm/set_alarm", "text": "jarri alarma goizaldeko 4etan"}
+{"idx": 1075, "label": "alarm/modify_alarm", "text": "aldatu alarmaren ordua"}
+{"idx": 1076, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora falta da alarmak jotzeko"}
+{"idx": 1077, "label": "alarm/show_alarms", "text": "erakutsi alarmak"}
+{"idx": 1078, "label": "alarm/time_left_on_alarm", "text": "zenbat denbora 3 alarmak jotzeko"}
+{"idx": 1079, "label": "alarm/show_alarms", "text": "zer ordutan daukat jarrita ohera joateko alarma ?"}
+{"idx": 1080, "label": "alarm/set_alarm", "text": "jo alarma bi ordu barru"}
+{"idx": 1081, "label": "alarm/cancel_alarm", "text": "ezeztatu alarma guztiak"}
+{"idx": 1082, "label": "alarm/cancel_alarm", "text": "ezeztatu astearteko alarma"}
+{"idx": 1083, "label": "alarm/show_alarms", "text": "erakutsi alarmak"}
+{"idx": 1084, "label": "alarm/set_alarm", "text": "jarri beste alarma bat biharko , arratsaldeko 7etarako"}
+{"idx": 1085, "label": "alarm/show_alarms", "text": "esan zer alarma dauzkadan jarrita"}
+{"idx": 1086, "label": "alarm/cancel_alarm", "text": "desaktibatu alarma"}

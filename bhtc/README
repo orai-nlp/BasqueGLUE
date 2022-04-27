@@ -1,0 +1,67 @@
+  Basque Headlines Topic Classification (BHTC) dataset
+
+ Version: 2.0
+ Last update: (2021/11/09)
+ Changes from 1.0 version:
+    - v1.0 had texts in lower cased and punctuations removed. Now original texts are provided.
+    - Deleted some duplicates and examples not in Basque from train.
+    
+
+
+The corpus  contains 12,296 news  headlines  (brief  article  descriptions) from  the  Basque  weekly  newspaper  Argia (https://www.argia.eus). News are classified uniquely according to twelve thematic categories.  The dataset was divided into train (70%), development (15%) and test datasets (15%).
+
+
+
+Dataset format
+----------------
+
+ The dataset is divided in three files:
+     - train.jsonl (8585 examples)
+     - val.jsonl (1857 examples)
+     - test.jsonl (1854 examples)
+     
+ Each row is a headline. The rows have the following data: label(topic) & text
+
+ Possible topic categories for label are stored in the following ones:
+[Ekonomia, Euskal_Herria, Euskara, Gizartea, Historia, Ingurumena, Iritzia, Komunikazioa, Kultura, Nazioartea, Politika, Zientzia]
+
+
+
+Statistics:
+
+Class			Train	Dev	Test	Total   
+----------------------------------------------------------			
+Ekonomia		 801	165	169	1135
+Euskal	    109	 22	 17	 148
+Euskara	    485	112	 94    691
+Gizartea	   2411	518	535	3464
+Historia		 329	 65	 61    455
+Ingurumena	 783	184	177	1144
+Iritzia		 299	 67	 60	 426
+Komunikazioa 119	 30	 22	 171
+Kultura		 770	173	174	1117
+Nazioartea	1080	228	249	1557
+Politika		1336	276	287	1899
+Zientzia		  63	 17	  9	  89
+-----------------------------------------------------------
+Total			8585 1857  1854  12296
+
+
+
+Authors: 
+-----------------------------------------
+Iñaki San Vicente (i.sanvicente@elhuyar.eus), Xabier Saralegi (x.saralegi@elhuyar.eus)
+Elhuyar Foundation, R&D department. 
+
+
+
+If you use this corpus please cite the following paper:
+
+- Agerri, R., San Vicente, I., Campos, J. A., Barrena, A., Saralegi, X., Soroa, A., & Agirre, E. (2020, May). Give your Text Representation Models some Love: the Case for Basque. In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 4781-4788).
+
+
+
+ License
+----------------
+
+ This resource is distributed for research purposes, released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC-BY-NC-SA). The full details of this license can be found at http://creativecommons.org/licenses/by/4.0/legalcode

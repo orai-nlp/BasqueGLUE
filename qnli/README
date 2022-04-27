@@ -1,0 +1,77 @@
+===================================================
+ QNLI for Basque 
+===================================================
+
+In order to create a NLI task on QA domain, we 
+adapted the QA dataset ElkarHizketak (Otegi et al., 2020), 
+a low resource conversational Question Answering (QA) 
+dataset for Basque created by native speaker volunteers. 
+The dataset is built on top of Wikipedia sections about 
+popular people and organizations and it contains around 
+400 dialogues and 1600 question and answers.
+
+We adapted this dataset into a sentence pair binary 
+clas sification tasks, following the design of QNLI for
+English (Wang et al., 2019). We form a pair between each
+question and each sentence in the corresponding context 
+and then filter out the pairs with the lowest lexical
+overlap between the question and the sentence in case
+of negative samples, until we are left with a balanced
+dataset, formed by train, dev and test splits. As evaluation 
+metric, we follow the English QNLI design and use accuracy.
+
+
+Dataset format and distribution
+----------------
+
+# The dataset is divided into three files: train / test and validation splits. 
+
+1,764 train.jsonl
+230 val.jsonl 
+238 test.jsonl
+
+Authors
+-----------
+Gorka Urbizu, Iñaki San Vicente and Xabier Saralegi
+
+
+Affiliation of the authors: 
+Elhuyar Foundation
+
+
+
+
+Licensing
+-------------
+Copyright (C) by Elhuyar Foundation. 
+This resource is distributed under the Creative Commons Attribution-ShareAlike 4.0 International Public License (CC-BY-SA). 
+The full details of this license can be found at http://creativecommons.org/licenses/by/4.0/legalcode
+
+
+
+
+
+Acknowledgements
+-------------------
+If you use this dataset please cite the following paper:
+
+- G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. BasqueGLUE: A Natural Language Understanding Benchmark for Basque. In proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022). June, 2022. Marseille, France
+
+ 
+
+
+
+Contact information
+-----------------------
+Gorka Urbizu, Iñaki San Vicente: {g.urbizu,i.sanvicente}@elhuyar.eus
+
+
+
+
+References
+--------------
+
+Arantxa Otegi, Aitor Agirre, Jon Ander Campos, Aitor Soroa, and Eneko Agirre. 2020. Conversational Question Answering in Low Resource Scenarios: A Dataset and Case Study for Basque. In Proceedings of the 12th Language Resources and Evaluation Conference, pages 436–442, Marseille, France. European Language Resources Association.
+
+Wang, A., Pruksachatkun, Y., Nangia, N., Singh, A., Michael, J., Hill, F., Levy, O., and Bowman, S. R. (2019). 
+Superglue: A stickier benchmark forgeneral-purpose language understanding systems. CoRR, abs/1905.00537.
