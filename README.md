@@ -2,7 +2,7 @@
 
 ## A Natural Language Understanding Benchmark for Basque
 
-## Euskarazko Hizkuntza Naturalaren Ulermena Ebaluatzeko Euskarria 
+## *Euskarazko Hizkuntza Naturalaren Ulermena Ebaluatzeko Euskarria*
 
 Natural Language Understanding (NLU) technology has improved significantly over the last few years, 
 and multitask benchmarks such as GLUE are key to evaluate this improvement in a robust and general way. 
@@ -20,15 +20,15 @@ BasqueGLUE is freely available under an open license.
 
 | Dataset        | \|Train\| | \|Val\| | \|Test\| | Task                   | Metric | Domain          |
 |----------------|-----------|---------|----------|------------------------|--------|-----------------|
-| NERCid         |   51,539  | 12,936  | 35,855   | NERC                   | F1     | News            |
-| NERCood        |   64,475  | 14,945  | 14,462   | NERC                   | F1     | News, Wikipedia |
+| NERCid         |   51,539  |  12,936 |  35,855  | NERC                   | F1     | News            |
+| NERCood        |   64,475  |  14,945 |  14,462  | NERC                   | F1     | News, Wikipedia |
 | FMTODeu_intent |    3,418  |   1,904 |   1,087  | Intent classification  | F1     | Dialog system   |
-| FMTODeu_slot   |   19,652  | 10,791  |   5,633  | Slot filling           | F1     | Dialog system   |
+| FMTODeu_slot   |   19,652  |  10,791 |   5,633  | Slot filling           | F1     | Dialog system   |
 | BHTCv2         |    8,585  |   1,857 |   1,854  | Topic classification   | F1     | News            |
 | BEC2016eu      |    6,078  |   1,302 |   1,302  | Sentiment analysis     | F1     | Twitter         |
 | VaxxStance     |      864  |     206 |     312  | Stance detection       | MF1*   | Twitter         |
 | QNLIeu         |    1,764  |     230 |     238  | QA/NLI                 | Acc    | Wikipedia       |
-| WiCeu          | 408,559   |     600 |   1,400  | WSD                    | Acc    | Wordnet         |
+| WiCeu          |  408,559  |     600 |   1,400  | WSD                    | Acc    | Wordnet         |
 | EpecKorrefBin  |      986  |     320 |     587  | Coreference resolution | Acc    | News            |
 
 
@@ -107,11 +107,12 @@ For more details, each dataset is provided with their corresponding README file.
 We provide an evaluation python script. Finetuning is left up to the user, script evaluates predictions provided on each task against test gold standards (test.jsonl files).
 The script expects the same format the datasets have.
 
+```
 python3 eval_basqueglue.py  \
         --task [nerc_id | nerc_od | intent | slot | bhtc | bec | vaxx | qnli | wic | coref] \
         --pred prediction_file.jsonl \
         --ref reference_file.jsonl #(usually test.jsonl)
-                    
+```                    
 
 
 Authors
