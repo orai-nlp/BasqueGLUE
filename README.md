@@ -36,7 +36,7 @@ NERCid stands for NERC in-domain, while NERCood stands for NERC out-of-domain.
 Dataset sizes for sequence labeling tasks (NERC and Slot filling) are given in tokens.
 Acc refers to accuracy, while F1 refers to micro-average F1-score. *The metric used for VaxxStance is macro-average F1-score of two classes: FAVOR and AGAINST.
 
-The train.jsonl file for WiCeu is needs to be uncompressed. 
+Note: The train file for WiCeu needs to be uncompressed.
 
 
 Examples of each task:
