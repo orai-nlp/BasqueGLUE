@@ -16,7 +16,7 @@ BasqueGLUE is freely available under an open license.
 
 
 
-The 9 tasks included in BasqueGLUE:
+### The 9 tasks included in BasqueGLUE:
 
 | Dataset        | \|Train\| | \|Val\| | \|Test\| | Task                   | Metric | Domain          |
 |----------------|-----------|---------|----------|------------------------|--------|-----------------|
@@ -39,7 +39,7 @@ Acc refers to accuracy, while F1 refers to micro-average F1-score. *The metric u
 Note: The train file for WiCeu needs to be uncompressed.
 
 
-Examples of each task:
+### Examples of each task:
 
 | NERC                            |                                                                                                                                                                                                                                                |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -102,7 +102,7 @@ Examples of each task:
 
 For more details, each dataset is provided with their corresponding README file.
 
-
+### Evaluation
 
 We provide an evaluation python script. Finetuning is left up to the user, script evaluates predictions provided on each task against test gold standards (test.jsonl files).
 The script expects the same format the datasets have.
