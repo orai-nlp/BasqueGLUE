@@ -115,7 +115,7 @@ python3 eval_basqueglue.py  \
 ```                    
 ### Results
 
-We evaluated 2 language models, BERTeus and ElhBERTeu, finetuning them on each task independently. We used a lr of 3e-5 and a batch size of 32. We finetuned on 5 different runs, up to 10 epochs, and choose the best performing checkpoint over validation split, to obtain the results on the test split on a single run. The results obtained on NERC are the average of in domain and out of domain NERC.
+We evaluated 2 language models, BERTeus and ElhBERTeu, finetuning them on each task independently. We used a lr of 3e-5 and a batch size of 32. We finetuned each model 5 times, up to 10 epochs, and choose the best performing checkpoint over validation split, to obtain the results on the test split on a single run. The results obtained on NERC are the average of in domain and out of domain NERC.
 
 | Model     |  BasqueGLUE  |  NERC |  F_intent | F_slot  |  BHTC |  BEC  |  Vaxx |  QNLI |  WiC  | coref |
 |-----------|:-----:|:-----:|:---------:|:-------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
