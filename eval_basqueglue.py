@@ -15,7 +15,7 @@ span_tasks = ["wic", "coref"]
 
 parser = ArgumentParser()
 parser.add_argument("-t", "--task", dest="task",
-                    help="task from GLUEus to eval (nerc_id, nerc_od, slot, intent, topic, qnli, vaxx, wic, coref)", metavar="TASK")
+                    help="task from BasqueGLUE to eval (nerc_id, nerc_od, slot, intent, topic, qnli, vaxx, wic, coref)", metavar="TASK")
 parser.add_argument("-p", "--pred", dest="pred_file",
                     help="path to prediction file", metavar="PRED")
 parser.add_argument("-r", "--ref", dest="ref_file",
