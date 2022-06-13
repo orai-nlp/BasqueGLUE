@@ -130,7 +130,7 @@ Rodrigo Agerri [2] and Aitor Soroa [2]
 
 Affiliation of the authors: 
 
-[1] Elhuyar Foundation
+[1] orai NLP Technologies
 [2] HiTZ Center - Ixa, University of the Basque Country UPV/EHU
 
 
@@ -160,7 +160,7 @@ But, here we provide a brief summary of them:
 
 For the rest of the files of the benchmark, including the evaluation script, the following license applies:
 
-Copyright (C) by Elhuyar Foundation. 
+Copyright (C) by Orai NLP Technologies. 
 This benchmark and evaluation scripts are licensed under the Creative Commons Attribution Share Alike 4.0
 International License (CC BY-SA 4.0). To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
 
@@ -179,4 +179,4 @@ If you use this benchmark please cite the following paper:
 
 Contact information
 -----------------------
-Gorka Urbizu, Iñaki San Vicente: {g.urbizu,i.sanvicente}@elhuyar.eus
+Gorka Urbizu, Iñaki San Vicente: {g.urbizu,i.sanvicente}@orai.eus
