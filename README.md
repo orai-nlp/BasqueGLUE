@@ -12,7 +12,9 @@ to develop and language-dependent, and therefore they are only available for a s
 
 We present BasqueGLUE, the first NLU benchmark for Basque, which has been elaborated from previously 
 existing datasets and following similar criteria to those used for the construction of GLUE and SuperGLUE. 
-BasqueGLUE is freely available under an open license.
+BasqueGLUE is freely available under an open license. 
+
+Paper: [BasqueGLUE: A Natural Language Understanding Benchmark for Basque](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.172.pdf)
 
 
 
@@ -113,7 +115,7 @@ python3 eval_basqueglue.py  \
         --pred prediction_file.jsonl \
         --ref reference_file.jsonl #(usually test.jsonl)
 ```                    
-### Results
+### Results cite the following paper:
 
 We evaluated 2 language models, BERTeus and ElhBERTeu, finetuning them on each task independently. We used a lr of 3e-5 and a batch size of 32. We finetuned each model 5 times, up to 10 epochs, and choose the best performing checkpoint over validation split, to obtain the results on the test split on a single run. The results obtained on NERC are the average of in domain and out of domain NERC.
 
@@ -172,9 +174,21 @@ Acknowledgements
 -------------------
 If you use this benchmark please cite the following paper:
 
-- G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. BasqueGLUE: A Natural Language Understanding Benchmark for Basque. In proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022). June, 2022. Marseille, France
+- G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. [BasqueGLUE: A Natural Language Understanding Benchmark for Basque](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.172.pdf). In proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022). June, 2022. Marseille, France
 
- 
+@InProceedings{urbizu-EtAl:2022:LREC,
+  author    = {Urbizu, Gorka  and  San Vicente, Iñaki  and  Saralegi, Xabier  and  Agerri, Rodrigo  and  Soroa, Aitor},
+  title     = {BasqueGLUE: A Natural Language Understanding Benchmark for Basque},
+  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {1603--1612},
+  abstract  = {Natural Language Understanding (NLU) technology has improved significantly over the last few years and multitask benchmarks such as GLUE are key to evaluate this improvement in a robust and general way. These benchmarks take into account a wide and diverse set of NLU tasks that require some form of language understanding, beyond the detection of superficial, textual clues. However, they are costly to develop and language-dependent, and therefore they are only available for a small number of languages. In this paper, we present BasqueGLUE, the first NLU benchmark for Basque, a less-resourced language, which has been elaborated from previously existing datasets and following similar criteria to those used for the construction of GLUE and SuperGLUE. We also report the evaluation of two state-of-the-art language models for Basque on BasqueGLUE, thus providing a strong baseline to compare upon. BasqueGLUE is freely available under an open license.},
+  url       = {https://aclanthology.org/2022.lrec-1.172}
+}
+
 
 
 
