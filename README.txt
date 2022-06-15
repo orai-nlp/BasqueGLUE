@@ -169,7 +169,7 @@ Rodrigo Agerri [2] and Aitor Soroa [2]
 
 
 Affiliation of the authors: 
-[1] Elhuyar Foundation
+[1] Orai NLP technologies
 [2] HiTZ Center - Ixa, University of the Basque Country UPV/EHU
 
 
@@ -209,7 +209,7 @@ But, here we provide a brief summary of them:
 
 For the rest of the files of the benchmark, including the evaluation script, the following license applies:
 
-Copyright (C) by Elhuyar Foundation. 
+Copyright (C) by Orai NLP technologies. 
 This benchmark and evaluation scripts are licensed under the Creative Commons Attribution Share Alike 4.0
 International License (CC BY-SA 4.0). To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
 
@@ -222,10 +222,21 @@ If you use this benchmark please cite the following paper:
 
 - G. Urbizu, I. San Vicente, X. Saralegi, R. Agerri, A. Soroa. BasqueGLUE: A Natural Language Understanding Benchmark for Basque. In proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022). June, 2022. Marseille, France
 
- 
 
+@InProceedings{urbizu-EtAl:2022:LREC,
+  author    = {Urbizu, Gorka  and  San Vicente, Iñaki  and  Saralegi, Xabier  and  Agerri, Rodrigo  and  Soroa, Aitor},
+  title     = {BasqueGLUE: A Natural Language Understanding Benchmark for Basque},
+  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {1603--1612},
+  abstract  = {Natural Language Understanding (NLU) technology has improved significantly over the last few years and multitask benchmarks such as GLUE are key to evaluate this improvement in a robust and general way. These benchmarks take into account a wide and diverse set of NLU tasks that require some form of language understanding, beyond the detection of superficial, textual clues. However, they are costly to develop and language-dependent, and therefore they are only available for a small number of languages. In this paper, we present BasqueGLUE, the first NLU benchmark for Basque, a less-resourced language, which has been elaborated from previously existing datasets and following similar criteria to those used for the construction of GLUE and SuperGLUE. We also report the evaluation of two state-of-the-art language models for Basque on BasqueGLUE, thus providing a strong baseline to compare upon. BasqueGLUE is freely available under an open license.},
+  url       = {https://aclanthology.org/2022.lrec-1.172}
+}
 
 
 Contact information
 -----------------------
-Gorka Urbizu, Iñaki San Vicente: {g.urbizu,i.sanvicente}@elhuyar.eus
+Gorka Urbizu, Iñaki San Vicente: {g.urbizu,i.sanvicente}@orai.eus
