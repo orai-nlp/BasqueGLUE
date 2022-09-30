@@ -10,12 +10,12 @@ from datasets import load_metric
 #        --ref reference_file.jsonl #(usually test.jsonl)
 
 token_tasks = ["slot", "nerc_id", "nerc_od"]
-text_tasks = ["intent", "bhtc", "qnli", "vaxx"]
+text_tasks = ["intent", "bhtc", "bec", "qnli", "vaxx"]
 span_tasks = ["wic", "coref"]
 
 parser = ArgumentParser()
 parser.add_argument("-t", "--task", dest="task",
-                    help="task from BasqueGLUE to eval (nerc_id, nerc_od, slot, intent, topic, qnli, vaxx, wic, coref)", metavar="TASK")
+                    help="task from BasqueGLUE to eval (nerc_id, nerc_od, slot, intent, bhtc, bec, qnli, vaxx, wic, coref)", metavar="TASK")
 parser.add_argument("-p", "--pred", dest="pred_file",
                     help="path to prediction file", metavar="PRED")
 parser.add_argument("-r", "--ref", dest="ref_file",
@@ -39,7 +39,7 @@ elif task in span_tasks:
 	task_type = "span"
 
 else:
-    print("TASK NOT FOUND: Choose a task with --task (nerc_id, nerc_od, slot, intent, topic, qnli, vaxx, wic, coref) \n")
+    print("TASK NOT FOUND: Choose a task with --task (nerc_id, nerc_od, slot, intent, bhtc, bec, qnli, vaxx, wic, coref) \n")
     print("USAGE: python3 eval_basqueglue.py --task [task] --pred prediction_file.jsonl --ref reference_file.jsonl\n")
 
     task_type = "?"
