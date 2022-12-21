@@ -16,7 +16,7 @@ BasqueGLUE is freely available under an open license.
 
 Work published at LREC22: [BasqueGLUE: A Natural Language Understanding Benchmark for Basque](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.172.pdf)
 
-
+## NOW ALSO AVAILABLE AT [HF🤗 Datasets](https://huggingface.co/datasets/orai-nlp/basqueGLUE)!
 
 ### The 9 tasks included in BasqueGLUE:
 
@@ -115,7 +115,7 @@ python3 eval_basqueglue.py  \
         --pred prediction_file.jsonl \
         --ref reference_file.jsonl #(usually test.jsonl)
 ```                    
-### Results cite the following paper:
+### Results from the paper:
 
 We evaluated 2 language models, BERTeus and ElhBERTeu, finetuning them on each task independently. We used a lr of 3e-5 and a batch size of 32. We finetuned each model 5 times, up to 10 epochs, and choose the best performing checkpoint over validation split, to obtain the results on the test split on a single run. The results obtained on NERC are the average of in domain and out of domain NERC.
 
